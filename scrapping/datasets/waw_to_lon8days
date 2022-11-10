@@ -1,0 +1,128 @@
+flight_prices,company_names,dep_city,arrival_city,transfer_stops,duration_of_flight,dep_time,arrival_time,additional_info,travel_dates,booking_dates
+16,Ryanair,WMI,STN,nonstop ,2h 25m ,"['9:40', 'pm']","['11:05', 'pm']",Standard,2022-10-11,2022-10-10
+15,Ryanair,WMI,STN,nonstop ,2h 25m ,"['9:40', 'pm']","['11:05', 'pm']",Standard,2022-10-11,2022-10-10
+37,Ryanair,WMI,STN,nonstop ,2h 25m ,"['3:40', 'pm']","['5:05', 'pm']",Standard,2022-10-11,2022-10-10
+42,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['11:55', 'am']","['1:40', 'pm']",Standard,2022-10-11,2022-10-10
+44,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['5:20', 'pm']","['7:05', 'pm']",Economy,2022-10-11,2022-10-10
+67,Ryanair,WMI,STN,nonstop ,2h 25m ,"['9:30', 'am']","['10:55', 'am']",Economy,2022-10-11,2022-10-10
+66,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['6:00', 'am']","['7:45', 'am']",Economy,2022-10-11,2022-10-10
+74,LOT,WAW,LHR,nonstop ,2h 45m ,"['8:15', 'pm']","['10:00', 'pm']",Economy,2022-10-11,2022-10-10
+74,LOT,WAW,LHR,nonstop ,2h 50m ,"['3:30', 'pm']","['5:20', 'pm']",Economy,2022-10-11,2022-10-10
+77,British Airways,WAW,LHR,nonstop ,2h 50m ,"['12:35', 'pm']","['2:25', 'pm']",Basic Economy,2022-10-11,2022-10-10
+49,"LOT, Ryanair ",WAW,STN,1 stop ,4h 20m ,"['1:40', 'pm']","['5:00', 'pm']",Standard,2022-10-11,2022-10-10
+62,British Airways,WAW,LHR,nonstop ,2h 40m ,"['6:40', 'pm']","['8:20', 'pm']",Basic Economy,2022-10-11,2022-10-10
+70,LOT,WAW,LCY,1 stop ,4h 50m ,"['2:10', 'pm']","['6:00', 'pm']",Basic Economy,2022-10-11,2022-10-10
+118,LOT,WAW,LHR,nonstop ,3h 00m ,"['7:35', 'am']","['9:35', 'am']",Economy,2022-10-11,2022-10-10
+72,"LOT, Wizz Air ",WAW,LTN,1 stop ,5h 30m ,"['1:15', 'pm']","['5:45', 'pm']",Economy,2022-10-11,2022-10-10
+72,"LOT, Wizz Air UK ",WAW,LTN,1 stop ,5h 30m ,"['1:15', 'pm']","['5:45', 'pm']",Economy,2022-10-11,2022-10-10
+10,Ryanair,WMI,STN,nonstop ,2h 25m ,"['5:45', 'pm']","['7:10', 'pm']",Standard,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['5:45', 'pm']","['7:10', 'pm']",Standard,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['2:15', 'pm']","['3:40', 'pm']",Standard,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['10:05', 'pm']","['11:30', 'pm']",Standard,2022-10-11,2022-10-10
+16,Ryanair,WMI,STN,nonstop ,2h 25m ,"['10:50', 'am']","['12:15', 'pm']",Economy,2022-10-11,2022-10-10
+18,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['6:00', 'am']","['7:45', 'am']",Economy,2022-10-11,2022-10-10
+21,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['5:20', 'pm']","['7:05', 'pm']",Economy,2022-10-11,2022-10-10
+74,LOT,WAW,LHR,nonstop ,2h 50m ,"['3:30', 'pm']","['5:20', 'pm']",Basic Economy,2022-10-11,2022-10-10
+74,LOT,WAW,LHR,nonstop ,3h 00m ,"['7:35', 'am']","['9:35', 'am']",Economy,2022-10-11,2022-10-10
+44,"Wizz Air, Ryanair ",WAW,STN,1 stop ,7h 30m ,"['4:15', 'pm']","['10:45', 'pm']",Economy,2022-10-11,2022-10-10
+54,"LOT, Ryanair ",WAW,STN,1 stop ,6h 40m ,"['7:15', 'am']","['12:55', 'pm']",Standard,2022-10-11,2022-10-10
+57,"LOT, Ryanair ",WAW,STN,1 stop ,7h 10m ,"['4:55', 'pm']","['11:05', 'pm']",Economy,2022-10-11,2022-10-10
+56,"LOT, Ryanair ",WAW,STN,1 stop ,7h 20m ,"['7:10', 'am']","['1:30', 'pm']",Economy,2022-10-11,2022-10-10
+70,"LOT, Ryanair ",WAW,STN,1 stop ,5h 30m ,"['3:35', 'pm']","['8:05', 'pm']",Economy,2022-10-11,2022-10-10
+69,British Airways,WAW,LHR,nonstop ,2h 50m ,"['12:50', 'pm']","['2:40', 'pm']",Economy,2022-10-11,2022-10-10
+71,"Ryanair, Norwegian ",WMI,LGW,1 stop ,5h 45m ,"['7:35', 'am']","['12:20', 'pm']",Basic Economy,2022-10-11,2022-10-10
+18,Ryanair,WMI,STN,nonstop ,2h 25m ,"['10:00', 'am']","['11:25', 'am']",Standard,2022-10-11,2022-10-10
+16,Ryanair,WMI,STN,nonstop ,2h 25m ,"['10:00', 'am']","['11:25', 'am']",Standard,2022-10-11,2022-10-10
+18,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['6:00', 'am']","['7:45', 'am']",Standard,2022-10-11,2022-10-10
+33,Ryanair,WMI,STN,nonstop ,2h 25m ,"['5:35', 'pm']","['7:00', 'pm']",Standard,2022-10-11,2022-10-10
+22,Ryanair,WMI,STN,nonstop ,2h 25m ,"['9:40', 'pm']","['11:05', 'pm']",Economy,2022-10-11,2022-10-10
+72,British Airways,WAW,LHR,nonstop ,2h 50m ,"['7:15', 'am']","['9:05', 'am']",Economy,2022-10-11,2022-10-10
+79,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['11:55', 'am']","['1:40', 'pm']",Economy,2022-10-11,2022-10-10
+89,LOT,WAW,LHR,nonstop ,3h 00m ,"['7:35', 'am']","['9:35', 'am']",Basic Economy,2022-10-11,2022-10-10
+94,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['5:20', 'pm']","['7:05', 'pm']",Economy,2022-10-11,2022-10-10
+98,British Airways,WAW,LHR,nonstop ,2h 50m ,"['12:50', 'pm']","['2:40', 'pm']",Economy,2022-10-11,2022-10-10
+103,LOT,WAW,LHR,nonstop ,2h 45m ,"['8:15', 'pm']","['10:00', 'pm']",Basic Economy,2022-10-11,2022-10-10
+64,"LOT, Ryanair ",WAW,STN,1 stop ,5h 20m ,"['7:05', 'am']","['11:25', 'am']",Standard,2022-10-11,2022-10-10
+118,LOT,WAW,LHR,nonstop ,2h 50m ,"['3:30', 'pm']","['5:20', 'pm']",Economy,2022-10-11,2022-10-10
+62,"LOT, Wizz Air ",WAW,LGW,1 stop ,5h 35m ,"['7:15', 'am']","['11:50', 'am']",Standard,2022-10-11,2022-10-10
+73,"Wizz Air, Ryanair ",WAW,STN,1 stop ,5h 10m ,"['12:45', 'pm']","['4:55', 'pm']",Economy,2022-10-11,2022-10-10
+93,LOT,WAW,LCY,1 stop ,4h 50m ,"['2:10', 'pm']","['6:00', 'pm']",Economy,2022-10-11,2022-10-10
+10,Ryanair,WMI,STN,nonstop ,2h 25m ,"['6:10', 'am']","['7:35', 'am']",Standard,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['6:20', 'pm']","['7:45', 'pm']",Standard,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['12:05', 'pm']","['1:30', 'pm']",Standard,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['6:10', 'am']","['7:35', 'am']",Economy,2022-10-11,2022-10-10
+46,British Airways,WAW,LHR,nonstop ,2h 45m ,"['4:20', 'pm']","['6:05', 'pm']",Economy,2022-10-11,2022-10-10
+44,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['5:20', 'pm']","['7:05', 'pm']",Economy,2022-10-11,2022-10-10
+48,British Airways,WAW,LHR,nonstop ,2h 40m ,"['7:40', 'pm']","['9:20', 'pm']",Standard,2022-10-11,2022-10-10
+58,British Airways,WAW,LHR,nonstop ,2h 50m ,"['12:50', 'pm']","['2:40', 'pm']",Economy,2022-10-11,2022-10-10
+42,"LOT, Ryanair ",WAW,STN,1 stop ,5h 10m ,"['7:10', 'am']","['11:20', 'am']",Economy,2022-10-11,2022-10-10
+40,Ryanair,WMI,STN,1 stop ,5h 45m ,"['6:50', 'am']","['11:35', 'am']",Economy,2022-10-11,2022-10-10
+73,LOT,WAW,LHR,nonstop ,2h 50m ,"['3:30', 'pm']","['5:20', 'pm']",Basic Economy,2022-10-11,2022-10-10
+32,"LOT, Ryanair ",WAW,LTN,1 stop ,7h 35m ,"['1:50', 'pm']","['8:25', 'pm']",Basic Economy,2022-10-11,2022-10-10
+53,"LOT, Ryanair ",WAW,STN,1 stop ,4h 50m ,"['7:05', 'am']","['10:55', 'am']",Basic Economy,2022-10-11,2022-10-10
+40,"Wizz Air, Ryanair ",WAW,STN,1 stop ,7h 10m ,"['5:30', 'pm']","['11:40', 'pm']",Economy,2022-10-11,2022-10-10
+50,"LOT, Ryanair ",WAW,STN,1 stop ,6h 30m ,"['1:50', 'pm']","['7:20', 'pm']",Economy,2022-10-11,2022-10-10
+58,British Airways,WAW,LHR,nonstop ,2h 50m ,"['8:10', 'am']","['10:00', 'am']",Economy,2022-10-11,2022-10-10
+10,Ryanair,WMI,STN,nonstop ,2h 25m ,"['6:45', 'pm']","['8:10', 'pm']",Standard,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['6:45', 'pm']","['8:10', 'pm']",Standard,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['6:10', 'am']","['7:35', 'am']",Standard,2022-10-11,2022-10-10
+14,Ryanair,WMI,STN,nonstop ,2h 25m ,"['12:35', 'pm']","['2:00', 'pm']",Economy,2022-10-11,2022-10-10
+18,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['5:20', 'pm']","['7:05', 'pm']",Economy,2022-10-11,2022-10-10
+18,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['6:00', 'am']","['7:45', 'am']",Economy,2022-10-11,2022-10-10
+41,British Airways,WAW,LHR,nonstop ,2h 40m ,"['7:45', 'pm']","['9:25', 'pm']",Standard,2022-10-11,2022-10-10
+73,LOT,WAW,LHR,nonstop ,2h 50m ,"['3:30', 'pm']","['5:20', 'pm']",Economy,2022-10-11,2022-10-10
+73,LOT,WAW,LHR,nonstop ,3h 00m ,"['7:35', 'am']","['9:35', 'am']",Economy,2022-10-11,2022-10-10
+26,Ryanair,WMI,STN,1 stop ,8h 35m ,"['6:20', 'am']","['1:55', 'pm']",Basic Economy,2022-10-11,2022-10-10
+30,"Wizz Air, Ryanair ",WAW,STN,1 stop ,7h 35m ,"['5:55', 'am']","['12:30', 'pm']",Basic Economy,2022-10-11,2022-10-10
+53,"LOT, Ryanair ",WAW,STN,1 stop ,5h 30m ,"['1:40', 'pm']","['6:10', 'pm']",Economy,2022-10-11,2022-10-10
+52,British Airways,WAW,LHR,nonstop ,2h 50m ,"['12:50', 'pm']","['2:40', 'pm']",Basic Economy,2022-10-11,2022-10-10
+70,LOT,WAW,LCY,1 stop ,4h 50m ,"['2:10', 'pm']","['6:00', 'pm']",Standard,2022-10-11,2022-10-10
+56,British Airways,WAW,LHR,nonstop ,2h 50m ,"['7:55', 'am']","['9:45', 'am']",Economy,2022-10-11,2022-10-10
+43,"Wizz Air, Ryanair ",WAW,STN,1 stop ,8h 15m ,"['3:25', 'pm']","['10:40', 'pm']",Standard,2022-10-11,2022-10-10
+12,Ryanair,WMI,STN,nonstop ,2h 25m ,"['3:40', 'pm']","['5:05', 'pm']",Standard,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['3:40', 'pm']","['5:05', 'pm']",Standard,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['11:35', 'am']","['1:00', 'pm']",Standard,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['8:10', 'am']","['9:35', 'am']",Economy,2022-10-11,2022-10-10
+13,Ryanair,WMI,STN,nonstop ,2h 25m ,"['6:50', 'pm']","['8:15', 'pm']",Standard,2022-10-11,2022-10-10
+18,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['5:20', 'pm']","['7:05', 'pm']",Basic Economy,2022-10-11,2022-10-10
+18,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['11:55', 'am']","['1:40', 'pm']",Economy,2022-10-11,2022-10-10
+41,British Airways,WAW,LHR,nonstop ,2h 40m ,"['7:45', 'pm']","['9:25', 'pm']",Standard,2022-10-11,2022-10-10
+52,British Airways,WAW,LHR,nonstop ,2h 50m ,"['12:50', 'pm']","['2:40', 'pm']",Economy,2022-10-11,2022-10-10
+52,British Airways,WAW,LHR,nonstop ,2h 50m ,"['7:40', 'am']","['9:30', 'am']",Basic Economy,2022-10-11,2022-10-10
+31,"Wizz Air, Ryanair UK ",WAW,STN,1 stop ,5h 45m ,"['12:50', 'pm']","['5:35', 'pm']",Economy,2022-10-11,2022-10-10
+31,"Wizz Air, Ryanair ",WAW,STN,1 stop ,5h 45m ,"['12:50', 'pm']","['5:35', 'pm']",Economy,2022-10-11,2022-10-10
+43,"LOT, Wizz Air UK ",WAW,LTN,1 stop ,5h 30m ,"['1:15', 'pm']","['5:45', 'pm']",Standard,2022-10-11,2022-10-10
+73,LOT,WAW,LHR,nonstop ,2h 45m ,"['8:15', 'pm']","['10:00', 'pm']",Basic Economy,2022-10-11,2022-10-10
+73,LOT,WAW,LHR,nonstop ,2h 50m ,"['3:30', 'pm']","['5:20', 'pm']",Economy,2022-10-11,2022-10-10
+43,Ryanair,WMI,LGW,1 stop ,5h 50m ,"['6:10', 'am']","['11:00', 'am']",Economy,2022-10-11,2022-10-10
+10,Ryanair,WMI,STN,nonstop ,2h 25m ,"['12:20', 'pm']","['1:45', 'pm']",Economy,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['6:25', 'am']","['7:50', 'am']",Standard,2022-10-11,2022-10-10
+9,Ryanair,WMI,STN,nonstop ,2h 25m ,"['12:20', 'pm']","['1:45', 'pm']",Standard,2022-10-11,2022-10-10
+16,Ryanair,WMI,STN,nonstop ,2h 25m ,"['6:00', 'pm']","['7:25', 'pm']",Standard,2022-10-11,2022-10-10
+18,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['5:20', 'pm']","['7:05', 'pm']",Standard,2022-10-11,2022-10-10
+18,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['6:00', 'am']","['7:45', 'am']",Economy,2022-10-11,2022-10-10
+38,British Airways,WAW,LHR,nonstop ,2h 50m ,"['7:30', 'am']","['9:20', 'am']",Economy,2022-10-11,2022-10-10
+37,Ryanair,WMI,STN,1 stop ,5h 25m ,"['6:55', 'pm']","['11:20', 'pm']",Economy,2022-10-11,2022-10-10
+47,"LOT, Ryanair ",WAW,STN,1 stop ,4h 45m ,"['7:05', 'am']","['10:50', 'am']",Economy,2022-10-11,2022-10-10
+43,Wizz Air,WAW,LGW,1 stop ,5h 35m ,"['12:30', 'pm']","['5:05', 'pm']",Economy,2022-10-11,2022-10-10
+43,"LOT, Ryanair ",WAW,LTN,1 stop ,5h 40m ,"['1:50', 'pm']","['6:30', 'pm']",Basic Economy,2022-10-11,2022-10-10
+73,LOT,WAW,LHR,nonstop ,2h 45m ,"['8:15', 'pm']","['10:00', 'pm']",Standard,2022-10-11,2022-10-10
+73,LOT,WAW,LHR,nonstop ,2h 50m ,"['3:30', 'pm']","['5:20', 'pm']",Standard,2022-10-11,2022-10-10
+73,LOT,WAW,LHR,nonstop ,3h 00m ,"['7:35', 'am']","['9:35', 'am']",Economy,2022-10-11,2022-10-10
+56,"LOT, Wizz Air ",WAW,LTN,1 stop ,5h 20m ,"['1:15', 'pm']","['5:35', 'pm']",Standard,2022-10-11,2022-10-10
+66,"LOT, Ryanair ",WAW,STN,1 stop ,4h 35m ,"['3:10', 'pm']","['6:45', 'pm']",Standard,2022-10-11,2022-10-10
+10,Ryanair,WMI,STN,nonstop ,2h 25m ,"['3:40', 'pm']","['5:05', 'pm']",Economy,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['3:40', 'pm']","['5:05', 'pm']",Standard,2022-10-11,2022-10-10
+8,Ryanair,WMI,STN,nonstop ,2h 25m ,"['9:40', 'pm']","['11:05', 'pm']",Standard,2022-10-11,2022-10-10
+17,Ryanair,WMI,STN,nonstop ,2h 25m ,"['9:30', 'am']","['10:55', 'am']",Standard,2022-10-11,2022-10-10
+18,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['5:20', 'pm']","['7:05', 'pm']",Standard,2022-10-11,2022-10-10
+18,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['11:55', 'am']","['1:40', 'pm']",Economy,2022-10-11,2022-10-10
+18,Wizz Air,WAW,LTN,nonstop ,2h 45m ,"['6:00', 'am']","['7:45', 'am']",Economy,2022-10-11,2022-10-10
+35,"LOT, Ryanair ",WAW,STN,1 stop ,4h 20m ,"['1:40', 'pm']","['5:00', 'pm']",Economy,2022-10-11,2022-10-10
+43,"LOT, Wizz Air UK ",WAW,LTN,1 stop ,5h 30m ,"['1:15', 'pm']","['5:45', 'pm']",Basic Economy,2022-10-11,2022-10-10
+73,LOT,WAW,LHR,nonstop ,2h 45m ,"['8:15', 'pm']","['10:00', 'pm']",Standard,2022-10-11,2022-10-10
+73,LOT,WAW,LHR,nonstop ,2h 50m ,"['3:30', 'pm']","['5:20', 'pm']",Basic Economy,2022-10-11,2022-10-10
+73,LOT,WAW,LHR,nonstop ,3h 00m ,"['7:35', 'am']","['9:35', 'am']",Economy,2022-10-11,2022-10-10
+53,"LOT, Ryanair ",WAW,STN,1 stop ,4h 50m ,"['7:10', 'am']","['11:00', 'am']",Economy,2022-10-11,2022-10-10
+56,"LOT, Wizz Air ",WAW,LTN,1 stop ,5h 30m ,"['1:15', 'pm']","['5:45', 'pm']",Economy,2022-10-11,2022-10-10
+47,Ryanair,WMI,LTN,1 stop ,6h 50m ,"['6:15', 'am']","['12:05', 'pm']",Standard,2022-10-11,2022-10-10

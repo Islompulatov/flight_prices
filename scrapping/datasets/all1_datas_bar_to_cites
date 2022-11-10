@@ -1,0 +1,288 @@
+flight_prices,company_names,dep_city,arrival_city,transfer_stops,duration_of_flight,dep_time,arrival_time,additional_info,booking_dates
+139 ,Flyr,BCN,OSL,nonstop ,3h 25m ,"['12:45', 'pm']","['4:10', 'pm']",NaN,2022-11-08
+139 ,Flyr,BCN,OSL,nonstop ,3h 25m ,"['12:45', 'pm']","['4:10', 'pm']",NaN,2022-11-08
+486 ,Norwegian,BCN,OSL,nonstop ,3h 25m ,"['1:25', 'pm']","['4:50', 'pm']",LowFare,2022-11-08
+213 ,Iberia,BCN,OSL,1 stop ,6h 20m ,"['8:00', 'am']","['2:20', 'pm']",NaN,2022-11-08
+193 ,Iberia,BCN,OSL,1 stop ,7h 20m ,"['7:00', 'am']","['2:20', 'pm']",Basic,2022-11-08
+271 ,Norwegian,BCN,OSL,1 stop ,5h 45m ,"['12:30', 'pm']","['6:15', 'pm']",LowFare,2022-11-08
+488 ,Air France,BCN,OSL,1 stop ,5h 15m ,"['6:00', 'pm']","['11:15', 'pm']",NaN,2022-11-08
+344 ,Brussels Airlines,BCN,OSL,1 stop ,7h 30m ,"['3:20', 'pm']","['10:50', 'pm']",NaN,2022-11-08
+220 ,SWISS,BCN,OSL,1 stop ,8h 55m ,"['6:35', 'am']","['3:30', 'pm']",Economy,2022-11-08
+271 ,Norwegian,BCN,OSL,1 stop ,7h 55m ,"['12:30', 'pm']","['8:25', 'pm']",LowFare,2022-11-08
+206 ,Scandinavian Airlines,BCN,OSL,1 stop ,11h 25m ,"['7:35', 'pm']","['7:00', 'am', '+1']",NaN,2022-11-08
+451 ,SWISS,BCN,OSL,1 stop ,5h 50m ,"['9:40', 'am']","['3:30', 'pm']",Economy,2022-11-08
+631 ,Lufthansa,BCN,OSL,1 stop ,5h 00m ,"['6:25', 'pm']","['11:25', 'pm']",Economy Light,2022-11-08
+577 ,"Brussels Airlines, Scandinavian Airlines ",BCN,OSL,1 stop ,5h 30m ,"['3:20', 'pm']","['8:50', 'pm']",NaN,2022-11-08
+540 ,KLM,BCN,OSL,1 stop ,5h 20m ,"['1:00', 'pm']","['6:20', 'pm']",NaN,2022-11-08
+193 ,Scandinavian Airlines,BCN,OSL,1 stop ,12h 40m ,"['7:55', 'pm']","['8:35', 'am', '+1']",NaN,2022-11-08
+176 ,Lufthansa,BCN,OSL,1 stop ,5h 05m ,"['9:55', 'am']","['3:00', 'pm']",Economy Light,2022-11-08
+62 ,"Ryanair, Ryanair UK ",BCN,OSL,1 stop ,14h 30m ,"['7:20', 'am']","['9:50', 'pm']",Standard,2022-11-08
+265 ,Norwegian,BCN,OSL,nonstop ,3h 25m ,"['1:25', 'pm']","['4:50', 'pm']",LowFare,2022-11-08
+161 ,Lufthansa,BCN,OSL,1 stop ,5h 40m ,"['6:55', 'am']","['12:35', 'pm']",Economy Light,2022-11-08
+182 ,Norwegian,BCN,OSL,1 stop ,5h 45m ,"['12:30', 'pm']","['6:15', 'pm']",LowFare,2022-11-08
+201 ,Lufthansa,BCN,OSL,1 stop ,4h 55m ,"['6:25', 'pm']","['11:20', 'pm']",Economy Light,2022-11-08
+140 ,Brussels Airlines,BCN,OSL,1 stop ,7h 30m ,"['3:20', 'pm']","['10:50', 'pm']",NaN,2022-11-08
+198 ,Air France,BCN,OSL,1 stop ,5h 15m ,"['6:00', 'pm']","['11:15', 'pm']",Light,2022-11-08
+161 ,Lufthansa,BCN,OSL,1 stop ,6h 30m ,"['6:05', 'am']","['12:35', 'pm']",Economy Light,2022-11-08
+68 ,"Ryanair, Ryanair UK ",BCN,OSL,1 stop ,9h 00m ,"['12:50', 'pm']","['9:50', 'pm']",Standard,2022-11-08
+193 ,"Vueling, Scandinavian Airlines ",BCN,OSL,1 stop ,5h 35m ,"['10:55', 'am']","['4:30', 'pm']",Economy,2022-11-08
+168 ,Iberia,BCN,OSL,1 stop ,7h 45m ,"['3:40', 'pm']","['11:25', 'pm']",Basic,2022-11-08
+155 ,Norwegian,BCN,OSL,1 stop ,7h 55m ,"['12:30', 'pm']","['8:25', 'pm']",LowFare,2022-11-08
+152 ,Lufthansa,BCN,OSL,1 stop ,7h 40m ,"['9:55', 'am']","['5:35', 'pm']",Economy Light,2022-11-08
+102 ,"easyJet, Norse Atlantic Airways ",BCN,OSL,1 stop ,7h 55m ,"['7:20', 'am']","['3:15', 'pm']",Standard,2022-11-08
+201 ,Lufthansa,BCN,OSL,1 stop ,6h 30m ,"['4:50', 'pm']","['11:20', 'pm']",Economy Light,2022-11-08
+82 ,Iberia,BCN,OSL,1 stop ,6h 20m ,"['8:00', 'am']","['2:20', 'pm']",Basic,2022-11-08
+80 ,Iberia,BCN,OSL,1 stop ,6h 20m ,"['8:00', 'am']","['2:20', 'pm']",Basic,2022-11-08
+38 ,"Ryanair, Ryanair UK ",BCN,TRF,1 stop ,9h 35m ,"['6:25', 'am']","['4:00', 'pm']",Standard,2022-11-08
+59 ,"Ryanair, Ryanair UK ",BCN,OSL,1 stop ,7h 35m ,"['1:35', 'pm']","['9:10', 'pm']",Standard,2022-11-08
+64 ,Ryanair,BCN,OSL,1 stop ,7h 35m ,"['1:35', 'pm']","['9:10', 'pm']",Standard,2022-11-08
+80 ,Iberia,BCN,OSL,1 stop ,7h 20m ,"['7:00', 'am']","['2:20', 'pm']",Basic,2022-11-08
+136 ,Lufthansa,BCN,OSL,1 stop ,5h 05m ,"['9:55', 'am']","['3:00', 'pm']",Economy Light,2022-11-08
+144 ,Norwegian,BCN,OSL,1 stop ,5h 45m ,"['12:30', 'pm']","['6:15', 'pm']",LowFare,2022-11-08
+52 ,"Vueling, Ryanair UK ",BCN,TRF,1 stop ,9h 00m ,"['7:00', 'am']","['4:00', 'pm']",Economy,2022-11-08
+88 ,"Vueling, Norse Atlantic Airways ",BCN,OSL,1 stop ,7h 35m ,"['7:40', 'am']","['3:15', 'pm']",Economy,2022-11-08
+124 ,Brussels Airlines,BCN,OSL,1 stop ,7h 30m ,"['3:20', 'pm']","['10:50', 'pm']",NaN,2022-11-08
+77 ,"Vueling, Norse Atlantic Airways ",BCN,OSL,1 stop ,8h 15m ,"['7:00', 'am']","['3:15', 'pm']",Economy,2022-11-08
+179 ,Scandinavian Airlines,BCN,OSL,1 stop ,5h 05m ,"['1:10', 'pm']","['6:15', 'pm']",NaN,2022-11-08
+136 ,Lufthansa,BCN,OSL,1 stop ,5h 40m ,"['6:55', 'am']","['12:35', 'pm']",Economy Light,2022-11-08
+141 ,Scandinavian Airlines,BCN,OSL,1 stop ,7h 10m ,"['1:10', 'pm']","['8:20', 'pm']",NaN,2022-11-08
+54 ,"Ryanair, Ryanair UK ",BCN,OSL,2 stops ,9h 35m ,"['11:35', 'am']","['9:10', 'pm']",Standard,2022-11-08
+52 ,Flyr,BCN,OSL,nonstop ,3h 25m ,"['6:15', 'pm']","['9:40', 'pm']",NaN,2022-11-08
+52 ,Flyr,BCN,OSL,nonstop ,3h 25m ,"['6:15', 'pm']","['9:40', 'pm']",NaN,2022-11-08
+136 ,Lufthansa,BCN,OSL,1 stop ,5h 05m ,"['9:55', 'am']","['3:00', 'pm']",Economy Light,2022-11-08
+136 ,Lufthansa,BCN,OSL,1 stop ,5h 40m ,"['6:55', 'am']","['12:35', 'pm']",Economy Light,2022-11-08
+265 ,Norwegian,BCN,OSL,nonstop ,3h 25m ,"['1:25', 'pm']","['4:50', 'pm']",LowFare,2022-11-08
+157 ,Norwegian,BCN,OSL,1 stop ,5h 45m ,"['12:30', 'pm']","['6:15', 'pm']",LowFare,2022-11-08
+131 ,Norwegian,BCN,OSL,1 stop ,6h 25m ,"['2:20', 'pm']","['8:45', 'pm']",LowFare,2022-11-08
+139 ,"Vueling, Scandinavian Airlines ",BCN,OSL,1 stop ,5h 45m ,"['6:55', 'am']","['12:40', 'pm']",Economy,2022-11-08
+124 ,Brussels Airlines,BCN,OSL,1 stop ,7h 30m ,"['3:20', 'pm']","['10:50', 'pm']",NaN,2022-11-08
+136 ,Lufthansa,BCN,OSL,1 stop ,6h 30m ,"['6:05', 'am']","['12:35', 'pm']",Economy Light,2022-11-08
+155 ,Lufthansa,BCN,OSL,1 stop ,6h 05m ,"['11:50', 'am']","['5:55', 'pm']",Economy Light,2022-11-08
+262 ,SWISS,BCN,OSL,1 stop ,4h 50m ,"['2:55', 'pm']","['7:45', 'pm']",Economy,2022-11-08
+94 ,"Ryanair, Ryanair UK ",BCN,OSL,1 stop ,7h 50m ,"['6:15', 'am']","['2:05', 'pm']",Standard,2022-11-08
+185 ,British Airways,BCN,OSL,1 stop ,6h 50m ,"['12:20', 'pm']","['7:10', 'pm']",Plus,2022-11-08
+102 ,Ryanair,BCN,OSL,1 stop ,7h 50m ,"['6:15', 'am']","['2:05', 'pm']",Standard,2022-11-08
+192 ,"British Airways, Finnair ",BCN,OSL,1 stop ,6h 50m ,"['12:20', 'pm']","['7:10', 'pm']",Plus,2022-11-08
+82 ,Air Serbia,BCN,OSL,1 stop ,10h 10m ,"['9:55', 'am']","['8:05', 'pm']",NaN,2022-11-08
+141 ,Scandinavian Airlines,BCN,OSL,1 stop ,5h 00m ,"['10:30', 'am']","['3:30', 'pm']",NaN,2022-11-08
+54 ,"Ryanair, Ryanair UK ",BCN,TRF,1 stop ,14h 05m ,"['8:40', 'pm']","['10:45', 'am', '+1']",Standard,2022-11-08
+221 ,Norwegian,BCN,OSL,nonstop ,3h 25m ,"['1:25', 'pm']","['4:50', 'pm']",LowFare,2022-11-08
+136 ,Lufthansa,BCN,OSL,1 stop ,5h 05m ,"['9:55', 'am']","['3:00', 'pm']",Economy Light,2022-11-08
+134 ,Scandinavian Airlines,BCN,OSL,1 stop ,6h 00m ,"['10:45', 'am']","['4:45', 'pm']",NaN,2022-11-08
+141 ,Scandinavian Airlines,BCN,OSL,1 stop ,6h 00m ,"['10:30', 'am']","['4:30', 'pm']",NaN,2022-11-08
+136 ,Lufthansa,BCN,OSL,1 stop ,5h 40m ,"['6:55', 'am']","['12:35', 'pm']",Economy Light,2022-11-08
+158 ,Norwegian,BCN,OSL,1 stop ,5h 45m ,"['12:30', 'pm']","['6:15', 'pm']",LowFare,2022-11-08
+136 ,Lufthansa,BCN,OSL,1 stop ,6h 30m ,"['6:05', 'am']","['12:35', 'pm']",Economy Light,2022-11-08
+143 ,Norwegian,BCN,OSL,1 stop ,7h 10m ,"['2:20', 'pm']","['9:30', 'pm']",LowFare,2022-11-08
+141 ,Scandinavian Airlines,BCN,OSL,1 stop ,7h 45m ,"['10:30', 'am']","['6:15', 'pm']",NaN,2022-11-08
+134 ,Scandinavian Airlines,BCN,OSL,1 stop ,8h 00m ,"['10:45', 'am']","['6:45', 'pm']",NaN,2022-11-08
+184 ,KLM,BCN,OSL,1 stop ,6h 15m ,"['10:00', 'am']","['4:15', 'pm']",Light,2022-11-08
+69 ,Air Serbia,BCN,OSL,1 stop ,10h 10m ,"['9:55', 'am']","['8:05', 'pm']",NaN,2022-11-08
+184 ,"Vueling, Norwegian ",BCN,OSL,1 stop ,6h 00m ,"['4:45', 'pm']","['10:45', 'pm']",Economy,2022-11-08
+151 ,"easyJet, Norwegian ",BCN,OSL,1 stop ,6h 05m ,"['12:20', 'pm']","['6:25', 'pm']",Standard,2022-11-08
+159 ,Finnair,BCN,OSL,1 stop ,6h 10m ,"['2:15', 'pm']","['8:25', 'pm']",Economy Classic,2022-11-08
+75 ,"Ryanair, Ryanair UK ",BCN,OSL,1 stop ,10h 05m ,"['11:45', 'am']","['9:50', 'pm']",Standard,2022-11-08
+273 ,Norwegian,BCN,OSL,nonstop ,3h 25m ,"['6:10', 'pm']","['9:35', 'pm']",LowFare,2022-11-08
+100 ,"Ryanair, Scandinavian Airlines ",BCN,OSL,1 stop ,6h 40m ,"['6:10', 'am']","['12:50', 'pm']",Standard,2022-11-08
+192 ,"Vueling, Scandinavian Airlines ",BCN,OSL,1 stop ,6h 10m ,"['6:55', 'am']","['1:05', 'pm']",Economy,2022-11-08
+103 ,"easyJet, Norse Atlantic Airways ",BCN,OSL,1 stop ,7h 55m ,"['7:20', 'am']","['3:15', 'pm']",Standard,2022-11-08
+157 ,"Vueling, Norwegian ",BCN,OSL,1 stop ,7h 25m ,"['7:20', 'am']","['2:45', 'pm']",Economy,2022-11-08
+112 ,"Vueling, Scandinavian Airlines ",BCN,OSL,1 stop ,8h 40m ,"['7:20', 'am']","['4:00', 'pm']",Economy,2022-11-08
+319 ,SWISS,BCN,OSL,1 stop ,4h 50m ,"['2:55', 'pm']","['7:45', 'pm']",Economy,2022-11-08
+278 ,British Airways,BCN,OSL,1 stop ,6h 10m ,"['2:15', 'pm']","['8:25', 'pm']",Plus,2022-11-08
+97 ,"Vueling, Norwegian ",BCN,OSL,1 stop ,9h 30m ,"['7:20', 'am']","['4:50', 'pm']",Economy,2022-11-08
+297 ,Lufthansa,BCN,OSL,1 stop ,5h 05m ,"['9:55', 'am']","['3:00', 'pm']",Economy Light,2022-11-08
+288 ,"British Airways, Finnair ",BCN,OSL,1 stop ,6h 10m ,"['2:15', 'pm']","['8:25', 'pm']",Plus,2022-11-08
+313 ,Lufthansa,BCN,OSL,1 stop ,4h 55m ,"['6:25', 'pm']","['11:20', 'pm']",Economy Light,2022-11-08
+279 ,Lufthansa,BCN,OSL,1 stop ,5h 40m ,"['6:55', 'am']","['12:35', 'pm']",Economy Light,2022-11-08
+240 ,Flyr,BCN,OSL,nonstop ,3h 25m ,"['1:00', 'pm']","['4:25', 'pm']",NaN,2022-11-08
+89 ,Air Serbia,BCN,OSL,1 stop ,12h 25m ,"['8:30', 'pm']","['8:55', 'am', '+1']",NaN,2022-11-08
+119 ,Ryanair,BCN,TRF,1 stop ,7h 25m ,"['6:10', 'am']","['1:35', 'pm']",Standard,2022-11-08
+163 ,"Ryanair, Scandinavian Airlines ",BCN,OSL,1 stop ,6h 45m ,"['7:30', 'am']","['2:15', 'pm']",Standard,2022-11-08
+329 ,Scandinavian Airlines,BCN,OSL,1 stop ,4h 55m ,"['7:10', 'pm']","['12:05', 'am', '+1']",NaN,2022-11-08
+177 ,"Ryanair, Norwegian ",BCN,OSL,1 stop ,6h 50m ,"['7:30', 'am']","['2:20', 'pm']",Standard,2022-11-08
+172 ,"Ryanair, Scandinavian Airlines ",BCN,OSL,1 stop ,7h 30m ,"['7:30', 'am']","['3:00', 'pm']",Standard,2022-11-08
+211 ,"Vueling, Flyr ",BCN,OSL,1 stop ,7h 45m ,"['2:30', 'pm']","['10:15', 'pm']",Economy,2022-11-08
+276 ,"Vueling, Flyr ",BCN,OSL,1 stop ,6h 25m ,"['11:05', 'am']","['5:30', 'pm']",Economy,2022-11-08
+275 ,"Brussels Airlines, Flyr ",BCN,OSL,1 stop ,6h 55m ,"['3:20', 'pm']","['10:15', 'pm']",NaN,2022-11-08
+272 ,"Vueling, Norwegian ",BCN,OSL,1 stop ,6h 40m ,"['11:00', 'am']","['5:40', 'pm']",Economy,2022-11-08
+275 ,Ryanair,BCN,TRF,1 stop ,6h 45m ,"['2:30', 'pm']","['9:15', 'pm']",Standard,2022-11-08
+208 ,Finnair,BCN,OSL,1 stop ,9h 35m ,"['10:40', 'am']","['8:15', 'pm']",Economy Light,2022-11-08
+398 ,Norwegian,BCN,OSL,1 stop ,5h 15m ,"['10:35', 'am']","['3:50', 'pm']",LowFare,2022-11-08
+444 ,SWISS,BCN,OSL,1 stop ,4h 50m ,"['2:55', 'pm']","['7:45', 'pm']",Economy,2022-11-08
+172 ,Scandinavian Airlines,BCN,OSL,1 stop ,11h 25m ,"['7:35', 'pm']","['7:00', 'am', '+1']",NaN,2022-11-08
+114 ,"Vueling, Norse Atlantic Airways ",BCN,OSL,1 stop ,7h 35m ,"['7:40', 'am']","['3:15', 'pm']",Economy,2022-11-08
+76 ,Multiple Airlines,BCN,OSL,2 stops ,16h 45m ,"['5:15', 'pm']","['10:00', 'am', '+1']",Economy,2022-11-08
+194 ,Iberia,BCN,OSL,1 stop ,6h 20m ,"['8:00', 'am']","['2:20', 'pm']",Basic,2022-11-08
+115 ,"easyJet, Norse Atlantic Airways ",BCN,OSL,1 stop ,7h 55m ,"['7:20', 'am']","['3:15', 'pm']",Standard,2022-11-08
+83 ,Wizz Air,BCN,TRF,1 stop ,9h 55m ,"['10:00', 'pm']","['7:55', 'am', '+1']",Economy,2022-11-08
+80 ,"Wizz Air, Ryanair ",BCN,TRF,1 stop ,12h 10m ,"['8:10', 'pm']","['8:20', 'am', '+1']",Economy,2022-11-08
+196 ,"Vueling, Scandinavian Airlines ",BCN,OSL,1 stop ,5h 45m ,"['6:55', 'am']","['12:40', 'pm']",Economy,2022-11-08
+222 ,Iberia,BCN,OSL,1 stop ,7h 20m ,"['7:00', 'am']","['2:20', 'pm']",Basic,2022-11-08
+81 ,Ryanair,BCN,TRF,1 stop ,12h 45m ,"['7:35', 'pm']","['8:20', 'am', '+1']",Standard,2022-11-08
+190 ,"Iberia, British Airways ",BCN,OSL,2 stops ,9h 05m ,"['2:30', 'pm']","['11:35', 'pm']",Optimal,2022-11-08
+227 ,Brussels Airlines,BCN,OSL,1 stop ,7h 30m ,"['3:20', 'pm']","['10:50', 'pm']",NaN,2022-11-08
+157 ,Scandinavian Airlines,BCN,OSL,1 stop ,11h 25m ,"['7:35', 'pm']","['7:00', 'am', '+1']",NaN,2022-11-08
+240 ,Norwegian,BCN,OSL,1 stop ,5h 45m ,"['12:30', 'pm']","['6:15', 'pm']",LowFare,2022-11-08
+229 ,Norwegian,BCN,OSL,1 stop ,6h 25m ,"['2:20', 'pm']","['8:45', 'pm']",LowFare,2022-11-08
+126 ,"Ryanair, Norwegian ",BCN,OSL,1 stop ,10h 50m ,"['6:40', 'am']","['5:30', 'pm']",Standard,2022-11-08
+261 ,"British Airways, Finnair ",BCN,OSL,1 stop ,6h 20m ,"['5:15', 'pm']","['11:35', 'pm']",Plus,2022-11-08
+49 ,Ryanair,BCN,STN,nonstop ,2h 30m ,"['6:40', 'am']","['8:10', 'am']",Standard,2022-11-08
+43 ,"Vueling, Wizz Air ",BCN,LGW,1 stop ,9h 20m ,"['2:30', 'pm']","['10:50', 'pm']",Economy,2022-11-08
+54 ,Ryanair,BCN,STN,nonstop ,2h 30m ,"['3:40', 'pm']","['5:10', 'pm']",Standard,2022-11-08
+54 ,Ryanair,BCN,STN,nonstop ,2h 30m ,"['1:15', 'pm']","['2:45', 'pm']",Standard,2022-11-08
+63 ,Ryanair,BCN,STN,nonstop ,2h 30m ,"['6:50', 'pm']","['8:20', 'pm']",Standard,2022-11-08
+75 ,Ryanair,BCN,STN,nonstop ,2h 30m ,"['8:15', 'am']","['9:45', 'am']",Standard,2022-11-08
+95 ,Iberia,BCN,LHR,nonstop ,2h 25m ,"['11:15', 'am']","['12:40', 'pm']",Basic,2022-11-08
+96 ,easyJet,BCN,LTN,nonstop ,2h 25m ,"['8:50', 'pm']","['10:15', 'pm']",Standard,2022-11-08
+103 ,Iberia,BCN,LHR,nonstop ,2h 30m ,"['5:15', 'pm']","['6:45', 'pm']",Basic,2022-11-08
+80 ,easyJet,BCN,LGW,nonstop ,2h 30m ,"['10:35', 'am']","['12:05', 'pm']",Standard,2022-11-08
+80 ,easyJet,BCN,LGW,nonstop ,2h 30m ,"['7:20', 'am']","['8:50', 'am']",Standard,2022-11-08
+95 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['11:15', 'am']","['12:40', 'pm']",Basic Economy,2022-11-08
+95 ,British Airways,BCN,LHR,nonstop ,2h 30m ,"['5:15', 'pm']","['6:45', 'pm']",Basic Economy,2022-11-08
+143 ,Iberia,BCN,LHR,nonstop ,2h 40m ,"['8:05', 'am']","['9:45', 'am']",Basic,2022-11-08
+114 ,easyJet,BCN,LGW,nonstop ,2h 25m ,"['12:20', 'pm']","['1:45', 'pm']",Standard,2022-11-08
+132 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['12:20', 'pm']","['1:45', 'pm']",Basic Economy,2022-11-08
+59 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['2:25', 'pm']","['3:50', 'pm']",Basic Economy,2022-11-08
+64 ,easyJet,BCN,LGW,nonstop ,2h 30m ,"['7:20', 'am']","['8:50', 'am']",Standard,2022-11-08
+78 ,British Airways,BCN,LHR,nonstop ,2h 40m ,"['8:40', 'pm']","['10:20', 'pm']",Basic Economy,2022-11-08
+83 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['12:20', 'pm']","['1:45', 'pm']",Basic Economy,2022-11-08
+75 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['3:40', 'pm']","['5:05', 'pm']",Basic Economy,2022-11-08
+85 ,Iberia,BCN,LHR,nonstop ,2h 25m ,"['2:25', 'pm']","['3:50', 'pm']",Basic,2022-11-08
+105 ,British Airways,BCN,LHR,nonstop ,2h 30m ,"['5:10', 'pm']","['6:40', 'pm']",Basic Economy,2022-11-08
+90 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['11:15', 'am']","['12:40', 'pm']",Basic Economy,2022-11-08
+112 ,easyJet,BCN,LGW,nonstop ,2h 25m ,"['7:45', 'pm']","['9:10', 'pm']",Standard,2022-11-08
+121 ,Iberia,BCN,LHR,nonstop ,2h 25m ,"['3:40', 'pm']","['5:05', 'pm']",Basic,2022-11-08
+160 ,British Airways,BCN,LCY,nonstop ,2h 15m ,"['3:25', 'pm']","['4:40', 'pm']",Basic Economy,2022-11-08
+163 ,Iberia,BCN,LHR,nonstop ,2h 30m ,"['5:10', 'pm']","['6:40', 'pm']",Basic,2022-11-08
+121 ,Iberia,BCN,LHR,nonstop ,2h 25m ,"['11:15', 'am']","['12:40', 'pm']",Basic,2022-11-08
+132 ,British Airways,BCN,LHR,nonstop ,2h 40m ,"['7:50', 'am']","['9:30', 'am']",Basic Economy,2022-11-08
+85 ,Iberia,BCN,LHR,1 stop ,5h 10m ,"['5:50', 'pm']","['10:00', 'pm']",Basic,2022-11-08
+20 ,easyJet,BCN,LTN,nonstop ,2h 25m ,"['8:50', 'pm']","['10:15', 'pm']",Standard,2022-11-08
+19 ,easyJet,BCN,LGW,nonstop ,2h 30m ,"['7:20', 'am']","['8:50', 'am']",Standard,2022-11-08
+29 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['7:00', 'am']","['8:20', 'am']",Economy,2022-11-08
+34 ,Ryanair,BCN,STN,nonstop ,2h 30m ,"['6:25', 'am']","['7:55', 'am']",Standard,2022-11-08
+39 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['7:40', 'am']","['9:00', 'am']",Economy,2022-11-08
+47 ,Ryanair,BCN,STN,nonstop ,2h 30m ,"['10:20', 'am']","['11:50', 'am']",Standard,2022-11-08
+51 ,Ryanair,BCN,STN,nonstop ,2h 30m ,"['1:35', 'pm']","['3:05', 'pm']",Standard,2022-11-08
+68 ,Iberia,BCN,LHR,nonstop ,2h 25m ,"['3:35', 'pm']","['5:00', 'pm']",Basic,2022-11-08
+68 ,Iberia,BCN,LHR,nonstop ,2h 30m ,"['9:55', 'am']","['11:25', 'am']",Basic,2022-11-08
+68 ,Iberia,BCN,LHR,nonstop ,2h 40m ,"['7:50', 'am']","['9:30', 'am']",Basic,2022-11-08
+30 ,Ryanair,BCN,STN,1 stop ,5h 45m ,"['11:35', 'am']","['4:20', 'pm']",Standard,2022-11-08
+45 ,"Air Europa, Wizz Air ",BCN,LGW,1 stop ,4h 55m ,"['6:45', 'pm']","['10:40', 'pm']",Economy,2022-11-08
+75 ,Ryanair,BCN,STN,nonstop ,2h 30m ,"['5:00', 'pm']","['6:30', 'pm']",Standard,2022-11-08
+86 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['5:10', 'pm']","['6:35', 'pm']",Basic Economy,2022-11-08
+86 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['12:20', 'pm']","['1:45', 'pm']",Basic Economy,2022-11-08
+47 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['2:15', 'pm']","['3:40', 'pm']",Basic Economy,2022-11-08
+31 ,easyJet,BCN,LGW,nonstop ,2h 30m ,"['7:20', 'am']","['8:50', 'am']",Standard,2022-11-08
+59 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['7:00', 'am']","['8:20', 'am']",Economy,2022-11-08
+94 ,British Airways,BCN,LHR,nonstop ,2h 20m ,"['7:10', 'pm']","['8:30', 'pm']",Basic Economy,2022-11-08
+68 ,Iberia,BCN,LHR,nonstop ,2h 25m ,"['2:15', 'pm']","['3:40', 'pm']",Basic,2022-11-08
+67 ,Ryanair,BCN,STN,nonstop ,2h 30m ,"['6:15', 'am']","['7:45', 'am']",Standard,2022-11-08
+90 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['12:20', 'pm']","['1:45', 'pm']",Basic Economy,2022-11-08
+71 ,Ryanair,BCN,STN,nonstop ,2h 30m ,"['10:45', 'am']","['12:15', 'pm']",Standard,2022-11-08
+87 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['6:50', 'pm']","['8:10', 'pm']",Economy,2022-11-08
+87 ,easyJet,BCN,LGW,nonstop ,2h 25m ,"['7:40', 'pm']","['9:05', 'pm']",Standard,2022-11-08
+103 ,Iberia,BCN,LHR,nonstop ,2h 20m ,"['7:10', 'pm']","['8:30', 'pm']",Basic,2022-11-08
+106 ,British Airways,BCN,LCY,nonstop ,2h 15m ,"['3:25', 'pm']","['4:40', 'pm']",Basic Economy,2022-11-08
+90 ,British Airways,BCN,LHR,nonstop ,2h 30m ,"['10:00', 'am']","['11:30', 'am']",Basic Economy,2022-11-08
+94 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['11:15', 'am']","['12:40', 'pm']",Basic Economy,2022-11-08
+90 ,British Airways,BCN,LHR,nonstop ,2h 40m ,"['7:50', 'am']","['9:30', 'am']",Basic Economy,2022-11-08
+63 ,easyJet,BCN,LGW,nonstop ,2h 25m ,"['12:20', 'pm']","['1:45', 'pm']",Standard,2022-11-08
+50 ,easyJet,BCN,LGW,nonstop ,2h 25m ,"['12:20', 'pm']","['1:45', 'pm']",Standard,2022-11-08
+45 ,"Vueling, Wizz Air ",BCN,LGW,1 stop ,13h 15m ,"['10:30', 'am']","['10:45', 'pm']",Economy,2022-11-08
+50 ,easyJet,BCN,LGW,nonstop ,2h 25m ,"['10:35', 'am']","['12:00', 'pm']",Standard,2022-11-08
+51 ,easyJet,BCN,LGW,nonstop ,2h 30m ,"['7:20', 'am']","['8:50', 'am']",Standard,2022-11-08
+73 ,easyJet,BCN,LTN,nonstop ,2h 35m ,"['10:50', 'am']","['12:25', 'pm']",Standard,2022-11-08
+95 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['2:15', 'pm']","['3:40', 'pm']",Basic Economy,2022-11-08
+99 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['11:15', 'am']","['12:40', 'pm']",Basic Economy,2022-11-08
+103 ,Iberia,BCN,LHR,nonstop ,2h 25m ,"['2:15', 'pm']","['3:40', 'pm']",Basic,2022-11-08
+94 ,British Airways,BCN,LHR,nonstop ,2h 40m ,"['7:50', 'am']","['9:30', 'am']",Basic Economy,2022-11-08
+103 ,Iberia,BCN,LHR,nonstop ,2h 40m ,"['7:50', 'am']","['9:30', 'am']",Basic,2022-11-08
+113 ,British Airways,BCN,LHR,nonstop ,2h 30m ,"['10:00', 'am']","['11:30', 'am']",Basic Economy,2022-11-08
+113 ,British Airways,BCN,LHR,nonstop ,2h 40m ,"['8:40', 'pm']","['10:20', 'pm']",Basic Economy,2022-11-08
+125 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['3:30', 'pm']","['4:55', 'pm']",Basic Economy,2022-11-08
+143 ,Iberia,BCN,LHR,nonstop ,2h 25m ,"['3:30', 'pm']","['4:55', 'pm']",Basic,2022-11-08
+143 ,Iberia,BCN,LHR,nonstop ,2h 25m ,"['11:15', 'am']","['12:40', 'pm']",Basic,2022-11-08
+145 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['12:40', 'pm']","['2:05', 'pm']",Basic Economy,2022-11-08
+55 ,easyJet,BCN,LGW,nonstop ,2h 30m ,"['7:20', 'am']","['8:50', 'am']",Standard,2022-11-08
+80 ,easyJet,BCN,LGW,nonstop ,2h 30m ,"['10:35', 'am']","['12:05', 'pm']",Standard,2022-11-08
+109 ,Iberia,BCN,LHR,nonstop ,2h 30m ,"['5:15', 'pm']","['6:45', 'pm']",Basic,2022-11-08
+90 ,British Airways,BCN,LHR,nonstop ,2h 30m ,"['5:15', 'pm']","['6:45', 'pm']",Basic Economy,2022-11-08
+90 ,British Airways,BCN,LHR,nonstop ,2h 40m ,"['8:20', 'pm']","['10:00', 'pm']",Basic Economy,2022-11-08
+140 ,British Airways,BCN,LCY,nonstop ,2h 15m ,"['10:45', 'am']","['12:00', 'pm']",Basic Economy,2022-11-08
+80 ,Iberia,BCN,LHR,1 stop ,4h 45m ,"['1:30', 'pm']","['5:15', 'pm']",Basic,2022-11-08
+80 ,Iberia,BCN,LHR,1 stop ,5h 25m ,"['2:30', 'pm']","['6:55', 'pm']",Basic,2022-11-08
+114 ,Iberia,BCN,LHR,1 stop ,4h 55m ,"['6:05', 'pm']","['10:00', 'pm']",Basic,2022-11-08
+195 ,Iberia,BCN,LHR,nonstop ,2h 25m ,"['2:15', 'pm']","['3:40', 'pm']",Basic,2022-11-08
+172 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['2:15', 'pm']","['3:40', 'pm']",Basic Economy,2022-11-08
+93 ,Iberia,BCN,LGW,1 stop ,5h 30m ,"['2:30', 'pm']","['7:00', 'pm']",Basic,2022-11-08
+196 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['10:50', 'am']","['12:10', 'pm']",Economy,2022-11-08
+124 ,SWISS,BCN,LHR,1 stop ,5h 35m ,"['6:45', 'am']","['11:20', 'am']",Economy,2022-11-08
+93 ,Iberia,BCN,LHR,1 stop ,5h 40m ,"['12:35', 'pm']","['5:15', 'pm']",Basic,2022-11-08
+122 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['10:50', 'am']","['12:10', 'pm']",Economy,2022-11-08
+121 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['10:50', 'am']","['12:10', 'pm']",Economy,2022-11-08
+136 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['7:40', 'pm']","['9:00', 'pm']",Economy,2022-11-08
+151 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['6:50', 'pm']","['8:10', 'pm']",Economy,2022-11-08
+130 ,easyJet,BCN,LGW,nonstop ,2h 25m ,"['1:25', 'pm']","['2:50', 'pm']",Standard,2022-11-08
+137 ,easyJet,BCN,LGW,nonstop ,2h 25m ,"['12:20', 'pm']","['1:45', 'pm']",Standard,2022-11-08
+143 ,easyJet,BCN,LTN,nonstop ,2h 25m ,"['8:50', 'pm']","['10:15', 'pm']",Standard,2022-11-08
+186 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['3:50', 'pm']","['5:10', 'pm']",Economy,2022-11-08
+201 ,Iberia,BCN,LGW,nonstop ,2h 20m ,"['10:50', 'am']","['12:10', 'pm']",Basic,2022-11-08
+209 ,British Airways,BCN,LCY,nonstop ,2h 15m ,"['5:55', 'pm']","['7:10', 'pm']",Basic Economy,2022-11-08
+205 ,British Airways,BCN,LGW,nonstop ,2h 20m ,"['10:50', 'am']","['12:10', 'pm']",Plus,2022-11-08
+166 ,easyJet,BCN,LGW,nonstop ,2h 25m ,"['7:40', 'pm']","['9:05', 'pm']",Standard,2022-11-08
+135 ,easyJet,BCN,LGW,nonstop ,2h 20m ,"['9:30', 'pm']","['10:50', 'pm']",Standard,2022-11-08
+220 ,British Airways,BCN,LGW,nonstop ,2h 20m ,"['7:40', 'pm']","['9:00', 'pm']",Plus,2022-11-08
+250 ,British Airways,BCN,LHR,nonstop ,2h 10m ,"['8:00', 'pm']","['9:10', 'pm']",Basic Economy,2022-11-08
+256 ,Iberia,BCN,LGW,nonstop ,2h 20m ,"['7:40', 'pm']","['9:00', 'pm']",Basic,2022-11-08
+32 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['10:50', 'am']","['12:10', 'pm']",Economy,2022-11-08
+32 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['10:50', 'am']","['12:10', 'pm']",Economy,2022-11-08
+96 ,easyJet,BCN,LTN,nonstop ,2h 25m ,"['8:50', 'pm']","['10:15', 'pm']",Standard,2022-11-08
+52 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['12:35', 'pm']","['1:55', 'pm']",Economy,2022-11-08
+32 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['7:40', 'am']","['9:00', 'am']",Economy,2022-11-08
+82 ,Vueling,BCN,LGW,nonstop ,2h 20m ,"['2:25', 'pm']","['3:45', 'pm']",Economy,2022-11-08
+64 ,easyJet,BCN,LGW,nonstop ,2h 30m ,"['10:35', 'am']","['12:05', 'pm']",Standard,2022-11-08
+44 ,easyJet,BCN,LGW,nonstop ,2h 30m ,"['7:20', 'am']","['8:50', 'am']",Standard,2022-11-08
+124 ,British Airways,BCN,LHR,nonstop ,2h 25m ,"['12:20', 'pm']","['1:45', 'pm']",Basic Economy,2022-11-08
+127 ,easyJet,BCN,LGW,nonstop ,2h 25m ,"['7:40', 'pm']","['9:05', 'pm']",Standard,2022-11-08
+112 ,easyJet,BCN,LGW,nonstop ,2h 25m ,"['12:20', 'pm']","['1:45', 'pm']",Standard,2022-11-08
+170 ,British Airways,BCN,LCY,nonstop ,2h 15m ,"['3:25', 'pm']","['4:40', 'pm']",Basic Economy,2022-11-08
+128 ,British Airways,BCN,LGW,nonstop ,2h 20m ,"['10:50', 'am']","['12:10', 'pm']",Plus,2022-11-08
+128 ,British Airways,BCN,LGW,nonstop ,2h 20m ,"['7:40', 'am']","['9:00', 'am']",Plus,2022-11-08
+194 ,British Airways,BCN,LHR,nonstop ,2h 20m ,"['7:05', 'pm']","['8:25', 'pm']",Basic Economy,2022-11-08
+188 ,British Airways,BCN,LGW,nonstop ,2h 20m ,"['2:25', 'pm']","['3:45', 'pm']",Plus,2022-11-08
+160 ,Wizz Air,BCN,WAW,nonstop ,3h 05m ,"['7:55', 'pm']","['11:00', 'pm']",Economy,2022-11-08
+145 ,Wizz Air,BCN,WAW,nonstop ,3h 05m ,"['7:55', 'pm']","['11:00', 'pm']",Economy,2022-11-08
+75 ,Multiple Airlines,BCN,WAW,2 stops ,28h 15m ,"['7:30', 'am']","['11:45', 'am', '+1']",Economy,2022-11-08
+169 ,LOT,BCN,WAW,1 stop ,6h 15m ,"['6:05', 'am']","['12:20', 'pm']",Economy,2022-11-08
+190 ,SWISS,BCN,WAW,1 stop ,7h 20m ,"['6:35', 'am']","['1:55', 'pm']",Economy,2022-11-08
+88 ,Ryanair,BCN,WMI,1 stop ,8h 25m ,"['6:20', 'am']","['2:45', 'pm']",Standard,2022-11-08
+228 ,"Wizz Air, LOT ",BCN,WAW,1 stop ,5h 40m ,"['10:10', 'am']","['3:50', 'pm']",Economy,2022-11-08
+146 ,Ryanair,BCN,WMI,1 stop ,7h 40m ,"['3:40', 'pm']","['11:20', 'pm']",Standard,2022-11-08
+263 ,Lufthansa,BCN,WAW,1 stop ,6h 15m ,"['6:05', 'am']","['12:20', 'pm']",Economy Classic,2022-11-08
+302 ,SWISS,BCN,WAW,1 stop ,5h 50m ,"['6:35', 'am']","['12:25', 'pm']",Economy,2022-11-08
+292 ,Lufthansa,BCN,WAW,1 stop ,5h 35m ,"['4:50', 'pm']","['10:25', 'pm']",Economy Light,2022-11-08
+292 ,British Airways,BCN,WAW,1 stop ,6h 30m ,"['12:20', 'pm']","['6:50', 'pm']",Plus,2022-11-08
+309 ,"Vueling, LOT ",BCN,WAW,1 stop ,4h 55m ,"['8:00', 'am']","['12:55', 'pm']",Economy,2022-11-08
+324 ,"SWISS, LOT ",BCN,WAW,1 stop ,5h 50m ,"['6:35', 'am']","['12:25', 'pm']",Economy,2022-11-08
+303 ,"Vueling, LOT ",BCN,WAW,1 stop ,5h 10m ,"['7:30', 'am']","['12:40', 'pm']",Economy,2022-11-08
+255 ,British Airways,BCN,WAW,1 stop ,7h 35m ,"['11:15', 'am']","['6:50', 'pm']",Basic Economy,2022-11-08
+144 ,"Iberia, Wizz Air ",BCN,WAW,1 stop ,8h 15m ,"['2:30', 'pm']","['10:45', 'pm']",Basic,2022-11-08
+144 ,SWISS,BCN,WAW,1 stop ,7h 10m ,"['6:45', 'am']","['1:55', 'pm']",Economy,2022-11-08
+324 ,LOT,BCN,WAW,nonstop ,3h 10m ,"['1:10', 'pm']","['4:20', 'pm']",Economy,2022-11-08
+138 ,Lufthansa,BCN,WAW,1 stop ,7h 00m ,"['9:10', 'am']","['4:10', 'pm']",Economy Light,2022-11-08
+164 ,LOT,BCN,WAW,1 stop ,5h 35m ,"['4:50', 'pm']","['10:25', 'pm']",Economy,2022-11-08
+226 ,Lufthansa,BCN,WAW,1 stop ,4h 20m ,"['11:50', 'am']","['4:10', 'pm']",Economy Light,2022-11-08
+144 ,Lufthansa,BCN,WAW,1 stop ,5h 35m ,"['4:50', 'pm']","['10:25', 'pm']",Economy Light,2022-11-08
+257 ,LOT,BCN,WAW,1 stop ,4h 45m ,"['4:50', 'pm']","['9:35', 'pm']",Economy,2022-11-08
+264 ,Lufthansa,BCN,WAW,1 stop ,5h 25m ,"['6:55', 'am']","['12:20', 'pm']",Economy Classic,2022-11-08
+144 ,SWISS,BCN,WAW,1 stop ,7h 10m ,"['6:45', 'am']","['1:55', 'pm']",Economy,2022-11-08
+265 ,SWISS,BCN,WAW,1 stop ,5h 40m ,"['6:45', 'am']","['12:25', 'pm']",Economy,2022-11-08
+144 ,Lufthansa,BCN,WAW,1 stop ,7h 05m ,"['6:55', 'am']","['2:00', 'pm']",Economy Light,2022-11-08
+252 ,KLM,BCN,WAW,1 stop ,5h 45m ,"['5:40', 'pm']","['11:25', 'pm']",Light,2022-11-08
+284 ,"SWISS, LOT ",BCN,WAW,1 stop ,5h 40m ,"['6:45', 'am']","['12:25', 'pm']",Economy,2022-11-08
+264 ,Lufthansa,BCN,WAW,1 stop ,6h 15m ,"['6:05', 'am']","['12:20', 'pm']",Economy Classic,2022-11-08
+268 ,LOT,BCN,WAW,1 stop ,6h 15m ,"['6:05', 'am']","['12:20', 'pm']",Economy,2022-11-08
+164 ,LOT,BCN,WAW,1 stop ,7h 55m ,"['6:05', 'am']","['2:00', 'pm']",Economy,2022-11-08
+366 ,LOT,BCN,WAW,nonstop ,3h 10m ,"['1:10', 'pm']","['4:20', 'pm']",Economy,2022-11-08

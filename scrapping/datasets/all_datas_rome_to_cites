@@ -1,0 +1,1015 @@
+flight_prices,company_names,dep_city,arrival_city,transfer_stops,duration_of_flight,dep_time,arrival_time,additional_info,booking_dates
+103 ,Ryanair,CIA,WMI,nonstop ,2h 10m ,"['6:50', 'am']","['9:00', 'am']",Standard,2022-10-12
+103 ,Ryanair,CIA,WMI,nonstop ,2h 10m ,"['6:50', 'am']","['9:00', 'am']",Standard,2022-10-12
+63 ,Ryanair,FCO,WMI,1 stop ,4h 45m ,"['6:40', 'am']","['11:25', 'am']",Standard,2022-10-12
+125 ,Wizz Air,FCO,WAW,nonstop ,2h 25m ,"['8:45', 'pm']","['11:10', 'pm']",Economy,2022-10-12
+95 ,"Ryanair, Wizz Air ",FCO,WAW,1 stop ,4h 30m ,"['6:40', 'am']","['11:10', 'am']",Standard,2022-10-12
+234 ,Scandinavian Airlines,FCO,WAW,1 stop ,4h 45m ,"['1:25', 'pm']","['6:10', 'pm']",NaN,2022-10-12
+304 ,SWISS,FCO,WAW,1 stop ,4h 10m ,"['9:45', 'am']","['1:55', 'pm']",Economy,2022-10-12
+199 ,"Vueling, Wizz Air ",FCO,WAW,1 stop ,5h 45m ,"['1:50', 'pm']","['7:35', 'pm']",Economy,2022-10-12
+72 ,Ryanair,CIA,WMI,1 stop ,8h 45m ,"['6:25', 'am']","['3:10', 'pm']",Standard,2022-10-12
+229 ,Scandinavian Airlines,FCO,WAW,1 stop ,6h 20m ,"['11:30', 'am']","['5:50', 'pm']",NaN,2022-10-12
+139 ,Ryanair,CIA,WMI,1 stop ,7h 45m ,"['11:55', 'am']","['7:40', 'pm']",Standard,2022-10-12
+314 ,"ITA Airways, LOT ",FCO,WAW,1 stop ,4h 50m ,"['9:20', 'am']","['2:10', 'pm']",Economy,2022-10-12
+118 ,Ryanair,CIA,WMI,1 stop ,8h 40m ,"['12:35', 'pm']","['9:15', 'pm']",Standard,2022-10-12
+111 ,Multiple Airlines,ROM,WAW,2 stops ,10h 05m ,"['1:05', 'pm']","['11:10', 'pm']",Economy,2022-10-12
+122 ,Ryanair,FCO,WMI,1 stop ,9h 00m ,"['8:00', 'am']","['5:00', 'pm']",Standard,2022-10-12
+207 ,"ITA Airways, Ryanair ",FCO,WMI,1 stop ,7h 20m ,"['9:40', 'am']","['5:00', 'pm']",Economy,2022-10-12
+78 ,Ryanair,CIA,WMI,nonstop ,2h 10m ,"['1:35', 'pm']","['3:45', 'pm']",Standard,2022-10-12
+77 ,Ryanair,CIA,WMI,nonstop ,2h 10m ,"['1:35', 'pm']","['3:45', 'pm']",Standard,2022-10-12
+125 ,Wizz Air,FCO,WAW,nonstop ,2h 25m ,"['8:45', 'pm']","['11:10', 'pm']",Economy,2022-10-12
+352 ,SWISS,FCO,WAW,1 stop ,4h 10m ,"['9:45', 'am']","['1:55', 'pm']",Economy,2022-10-12
+264 ,"Ryanair, LOT ",CIA,WAW,1 stop ,4h 50m ,"['6:35', 'am']","['11:25', 'am']",Standard,2022-10-12
+343 ,"easyJet, Wizz Air ",FCO,WAW,1 stop ,4h 40m ,"['12:30', 'pm']","['5:10', 'pm']",Standard,2022-10-12
+383 ,"Ryanair, LOT ",FCO,WAW,1 stop ,4h 35m ,"['6:05', 'am']","['10:40', 'am']",Standard,2022-10-12
+468 ,Lufthansa,FCO,WAW,1 stop ,4h 30m ,"['8:05', 'am']","['12:35', 'pm']",Economy Light,2022-10-12
+481 ,Lufthansa,FCO,WAW,1 stop ,5h 15m ,"['6:55', 'am']","['12:10', 'pm']",Economy Light,2022-10-12
+475 ,Lufthansa,FCO,WAW,1 stop ,5h 00m ,"['1:25', 'pm']","['6:25', 'pm']",Economy Light,2022-10-12
+149 ,"Wizz Air, LOT ",FCO,WAW,1 stop ,8h 00m ,"['10:40', 'pm']","['6:40', 'am', '+1']",Economy,2022-10-12
+305 ,Scandinavian Airlines,FCO,WAW,1 stop ,7h 35m ,"['10:15', 'am']","['5:50', 'pm']",NaN,2022-10-12
+271 ,Ryanair,FCO,WMI,1 stop ,7h 25m ,"['5:30', 'pm']","['12:55', 'am', '+1']",Standard,2022-10-12
+385 ,"Vueling, Ryanair ",FCO,WMI,1 stop ,6h 35m ,"['7:00', 'am']","['1:35', 'pm']",Economy,2022-10-12
+369 ,"Ryanair, SWISS ",FCO,WAW,2 stops ,7h 15m ,"['6:40', 'am']","['1:55', 'pm']",Standard,2022-10-12
+257 ,Multiple Airlines,FCO,WAW,2 stops ,9h 00m ,"['1:20', 'pm']","['10:20', 'pm']",Economy,2022-10-12
+55 ,Ryanair,CIA,WMI,nonstop ,2h 10m ,"['10:45', 'am']","['12:55', 'pm']",Standard,2022-10-12
+55 ,Ryanair,CIA,WMI,nonstop ,2h 10m ,"['10:45', 'am']","['12:55', 'pm']",Standard,2022-10-12
+76 ,Wizz Air,FCO,WAW,nonstop ,2h 25m ,"['9:15', 'am']","['11:40', 'am']",Economy,2022-10-12
+86 ,Wizz Air,FCO,WAW,nonstop ,2h 25m ,"['8:45', 'pm']","['11:10', 'pm']",Economy,2022-10-12
+128 ,"Ryanair, LOT ",CIA,WAW,1 stop ,4h 10m ,"['3:00', 'pm']","['7:10', 'pm']",Standard,2022-10-12
+118 ,"Italotreno, Ryanair ",ROM,WMI,1 stop ,6h 20m ,"['1:05', 'pm']","['7:25', 'pm']",Standard,2022-10-12
+126 ,"Ryanair, Wizz Air ",FCO,WAW,1 stop ,5h 45m ,"['11:20', 'am']","['5:05', 'pm']",Standard,2022-10-12
+226 ,Lufthansa,FCO,WAW,1 stop ,4h 30m ,"['8:05', 'am']","['12:35', 'pm']",Economy Light,2022-10-12
+166 ,"ITA Airways, Ryanair ",FCO,WMI,1 stop ,6h 05m ,"['1:20', 'pm']","['7:25', 'pm']",Economy,2022-10-12
+110 ,"Ryanair, LOT ",CIA,WAW,1 stop ,7h 20m ,"['3:00', 'pm']","['10:20', 'pm']",Standard,2022-10-12
+266 ,Lufthansa,FCO,WAW,1 stop ,5h 00m ,"['1:25', 'pm']","['6:25', 'pm']",Economy Light,2022-10-12
+256 ,British Airways,FCO,WAW,1 stop ,6h 25m ,"['3:10', 'pm']","['9:35', 'pm']",Plus,2022-10-12
+250 ,Lufthansa,FCO,WAW,1 stop ,6h 05m ,"['3:45', 'pm']","['9:50', 'pm']",Economy Light,2022-10-12
+151 ,"ITA Airways, Wizz Air ",FCO,WAW,1 stop ,7h 35m ,"['9:30', 'am']","['5:05', 'pm']",Economy,2022-10-12
+303 ,"Ryanair, LOT ",CIA,WAW,1 stop ,5h 20m ,"['2:30', 'pm']","['7:50', 'pm']",Standard,2022-10-12
+226 ,"Vueling, Wizz Air ",FCO,WAW,1 stop ,7h 00m ,"['12:35', 'pm']","['7:35', 'pm']",Economy,2022-10-12
+63 ,Ryanair,CIA,WMI,nonstop ,2h 10m ,"['6:50', 'am']","['9:00', 'am']",Standard,2022-10-12
+216 ,Wizz Air,FCO,WAW,nonstop ,2h 25m ,"['8:45', 'pm']","['11:10', 'pm']",Economy,2022-10-12
+182 ,"Ryanair, LOT ",CIA,WAW,1 stop ,3h 30m ,"['6:15', 'am']","['9:45', 'am']",Standard,2022-10-12
+101 ,"Ryanair, LOT ",CIA,WAW,1 stop ,5h 40m ,"['1:20', 'pm']","['7:00', 'pm']",Standard,2022-10-12
+134 ,Ryanair,FCO,WMI,1 stop ,6h 10m ,"['6:30', 'am']","['12:40', 'pm']",Standard,2022-10-12
+212 ,"Ryanair, LOT ",CIA,WAW,1 stop ,5h 10m ,"['6:15', 'am']","['11:25', 'am']",Standard,2022-10-12
+165 ,"Ryanair, LOT ",CIA,WAW,1 stop ,6h 15m ,"['6:55', 'am']","['1:10', 'pm']",Standard,2022-10-12
+334 ,Lufthansa,FCO,WAW,1 stop ,4h 30m ,"['8:05', 'am']","['12:35', 'pm']",Economy Light,2022-10-12
+193 ,"Wizz Air, LOT ",FCO,WAW,1 stop ,6h 55m ,"['3:20', 'pm']","['10:15', 'pm']",Economy,2022-10-12
+299 ,"ITA Airways, Ryanair ",FCO,WMI,1 stop ,5h 20m ,"['1:15', 'pm']","['6:35', 'pm']",Economy,2022-10-12
+403 ,"Wizz Air, LOT ",FCO,WAW,1 stop ,3h 55m ,"['3:20', 'pm']","['7:15', 'pm']",Economy,2022-10-12
+459 ,SWISS,FCO,WAW,1 stop ,4h 10m ,"['9:45', 'am']","['1:55', 'pm']",Economy,2022-10-12
+228 ,Ryanair,FCO,WMI,1 stop ,7h 00m ,"['7:10', 'am']","['2:10', 'pm']",Standard,2022-10-12
+210 ,"Volotea, Ryanair ",FCO,WMI,1 stop ,7h 40m ,"['9:25', 'am']","['5:05', 'pm']",Economy,2022-10-12
+346 ,Lufthansa,FCO,WAW,1 stop ,6h 05m ,"['3:45', 'pm']","['9:50', 'pm']",Economy Light,2022-10-12
+126 ,Wizz Air,FCO,WAW,nonstop ,2h 25m ,"['8:45', 'pm']","['11:10', 'pm']",Economy,2022-10-12
+132 ,Ryanair,CIA,WMI,nonstop ,2h 10m ,"['6:10', 'pm']","['8:20', 'pm']",Standard,2022-10-12
+67 ,Ryanair,FCO,WMI,2 stops ,13h 25m ,"['7:20', 'pm']","['8:45', 'am', '+1']",Standard,2022-10-12
+125 ,Wizz Air,FCO,WAW,nonstop ,2h 25m ,"['8:45', 'pm']","['11:10', 'pm']",Economy,2022-10-12
+118 ,Ryanair,CIA,WMI,1 stop ,5h 10m ,"['2:30', 'pm']","['7:40', 'pm']",Standard,2022-10-12
+257 ,Scandinavian Airlines,FCO,WAW,1 stop ,4h 45m ,"['1:25', 'pm']","['6:10', 'pm']",NaN,2022-10-12
+202 ,"easyJet, Wizz Air ",FCO,WAW,1 stop ,5h 00m ,"['12:10', 'pm']","['5:10', 'pm']",Standard,2022-10-12
+201 ,Ryanair,CIA,WMI,1 stop ,6h 05m ,"['10:20', 'am']","['4:25', 'pm']",Standard,2022-10-12
+272 ,"Ryanair, LOT ",CIA,WAW,1 stop ,5h 20m ,"['7:35', 'am']","['12:55', 'pm']",Standard,2022-10-12
+406 ,SWISS,FCO,WAW,1 stop ,4h 10m ,"['9:45', 'am']","['1:55', 'pm']",Economy,2022-10-12
+153 ,"Wizz Air, LOT ",FCO,WAW,1 stop ,8h 00m ,"['10:40', 'pm']","['6:40', 'am', '+1']",Economy,2022-10-12
+251 ,"Ryanair, LOT ",CIA,WAW,1 stop ,7h 10m ,"['2:30', 'pm']","['9:40', 'pm']",Standard,2022-10-12
+267 ,"Ryanair, LOT ",FCO,WAW,2 stops ,6h 45m ,"['9:05', 'am']","['3:50', 'pm']",Standard,2022-10-12
+153 ,"Vueling, Ryanair ",FCO,WMI,1 stop ,9h 25m ,"['7:00', 'am']","['4:25', 'pm']",Economy,2022-10-12
+382 ,"Wizz Air, LOT ",FCO,WAW,1 stop ,5h 00m ,"['6:15', 'am']","['11:15', 'am']",Economy,2022-10-12
+145 ,Ryanair,CIA,WMI,1 stop ,9h 50m ,"['6:35', 'am']","['4:25', 'pm']",Standard,2022-10-12
+165 ,Wizz Air,FCO,WAW,1 stop ,9h 35m ,"['8:10', 'am']","['5:45', 'pm']",Economy,2022-10-12
+77 ,Wizz Air,FCO,WAW,nonstop ,2h 20m ,"['9:15', 'am']","['11:35', 'am']",Economy,2022-10-12
+77 ,Wizz Air,FCO,WAW,nonstop ,2h 20m ,"['9:15', 'am']","['11:35', 'am']",Economy,2022-10-12
+50 ,Ryanair,CIA,WMI,1 stop ,17h 45m ,"['6:10', 'am']","['11:55', 'pm']",Standard,2022-10-12
+96 ,Wizz Air,FCO,WAW,nonstop ,2h 25m ,"['8:45', 'pm']","['11:10', 'pm']",Economy,2022-10-12
+118 ,Ryanair,CIA,WMI,nonstop ,2h 10m ,"['2:15', 'pm']","['4:25', 'pm']",Standard,2022-10-12
+97 ,Ryanair,FCO,WMI,1 stop ,4h 25m ,"['6:20', 'am']","['10:45', 'am']",Standard,2022-10-12
+93 ,"Italotreno, Wizz Air ",ROM,WAW,1 stop ,6h 05m ,"['4:50', 'pm']","['10:55', 'pm']",Economy,2022-10-12
+125 ,"Ryanair, Wizz Air ",FCO,WAW,1 stop ,4h 20m ,"['12:45', 'pm']","['5:05', 'pm']",Standard,2022-10-12
+188 ,Scandinavian Airlines,FCO,WAW,1 stop ,4h 45m ,"['1:25', 'pm']","['6:10', 'pm']",NaN,2022-10-12
+99 ,Ryanair,CIA,WMI,1 stop ,6h 30m ,"['5:25', 'pm']","['11:55', 'pm']",Standard,2022-10-12
+120 ,"Ryanair, Wizz Air ",FCO,WAW,1 stop ,6h 15m ,"['6:55', 'am']","['1:10', 'pm']",Standard,2022-10-12
+251 ,SWISS,FCO,WAW,1 stop ,4h 10m ,"['9:45', 'am']","['1:55', 'pm']",Economy,2022-10-12
+174 ,"ITA Airways, Ryanair ",FCO,WMI,1 stop ,5h 10m ,"['1:20', 'pm']","['6:30', 'pm']",Economy,2022-10-12
+169 ,"Ryanair, LOT ",CIA,WAW,1 stop ,5h 30m ,"['1:40', 'pm']","['7:10', 'pm']",Standard,2022-10-12
+141 ,"Ryanair, Wizz Air ",FCO,WAW,1 stop ,6h 10m ,"['10:40', 'am']","['4:50', 'pm']",Standard,2022-10-12
+181 ,KLM,FCO,WAW,1 stop ,6h 15m ,"['12:40', 'pm']","['6:55', 'pm']",Light,2022-10-12
+188 ,KLM,FCO,WAW,1 stop ,6h 05m ,"['10:20', 'am']","['4:25', 'pm']",Light,2022-10-12
+106 ,Ryanair,CIA,WMI,nonstop ,2h 10m ,"['5:10', 'pm']","['7:20', 'pm']",Standard,2022-10-12
+106 ,Ryanair,CIA,WMI,nonstop ,2h 10m ,"['5:10', 'pm']","['7:20', 'pm']",Standard,2022-10-12
+58 ,"Trenitalia, Ryanair ",ROM,WMI,2 stops ,8h 45m ,"['3:25', 'pm']","['12:10', 'am', '+1']",Standard,2022-10-12
+105 ,Wizz Air,FCO,WAW,nonstop ,2h 25m ,"['8:45', 'pm']","['11:10', 'pm']",Economy,2022-10-12
+77 ,"Wizz Air, Ryanair ",FCO,WMI,1 stop ,4h 10m ,"['9:15', 'am']","['1:25', 'pm']",Economy,2022-10-12
+104 ,Ryanair,FCO,WMI,1 stop ,5h 10m ,"['4:50', 'pm']","['10:00', 'pm']",Standard,2022-10-12
+76 ,Ryanair,CIA,WMI,1 stop ,6h 25m ,"['11:35', 'am']","['6:00', 'pm']",Standard,2022-10-12
+138 ,"Ryanair, LOT ",CIA,WAW,1 stop ,5h 05m ,"['6:50', 'am']","['11:55', 'am']",Standard,2022-10-12
+210 ,Scandinavian Airlines,FCO,WAW,1 stop ,4h 45m ,"['1:25', 'pm']","['6:10', 'pm']",NaN,2022-10-12
+76 ,Ryanair,CIA,WMI,1 stop ,7h 40m ,"['10:20', 'am']","['6:00', 'pm']",Standard,2022-10-12
+205 ,Scandinavian Airlines,FCO,WAW,1 stop ,6h 20m ,"['11:30', 'am']","['5:50', 'pm']",NaN,2022-10-12
+228 ,Lufthansa,FCO,WAW,1 stop ,5h 25m ,"['10:50', 'am']","['4:15', 'pm']",Economy Light,2022-10-12
+99 ,Ryanair,CIA,WMI,1 stop ,9h 00m ,"['12:25', 'pm']","['9:25', 'pm']",Standard,2022-10-12
+135 ,"Ryanair, Wizz Air ",FCO,WAW,2 stops ,8h 10m ,"['2:45', 'pm']","['10:55', 'pm']",Standard,2022-10-12
+160 ,"Ryanair, Wizz Air ",FCO,WAW,2 stops ,7h 50m ,"['3:05', 'pm']","['10:55', 'pm']",Standard,2022-10-12
+157 ,"Ryanair, Wizz Air ",FCO,WAW,2 stops ,7h 55m ,"['3:00', 'pm']","['10:55', 'pm']",Standard,2022-10-12
+104 ,Ryanair,CIA,WMI,nonstop ,2h 10m ,"['6:50', 'am']","['9:00', 'am']",Standard,2022-10-12
+104 ,Ryanair,CIA,WMI,nonstop ,2h 10m ,"['6:50', 'am']","['9:00', 'am']",Standard,2022-10-12
+71 ,"Itabus, Ryanair ",ROM,WMI,1 stop ,10h 00m ,"['1:20', 'am']","['11:20', 'am']",Standard,2022-10-12
+124 ,Wizz Air,FCO,WAW,nonstop ,2h 25m ,"['8:45', 'pm']","['11:10', 'pm']",Economy,2022-10-12
+88 ,"Ryanair, Wizz Air ",FCO,WAW,1 stop ,4h 30m ,"['6:40', 'am']","['11:10', 'am']",Standard,2022-10-12
+80 ,Ryanair,FCO,WMI,1 stop ,4h 45m ,"['6:40', 'am']","['11:25', 'am']",Standard,2022-10-12
+80 ,"Trenitalia, Ryanair ",ROM,WMI,1 stop ,7h 13m ,"['1:57', 'pm']","['9:10', 'pm']",Standard,2022-10-12
+226 ,Scandinavian Airlines,FCO,WAW,1 stop ,4h 45m ,"['1:25', 'pm']","['6:10', 'pm']",NaN,2022-10-12
+255 ,SWISS,FCO,WAW,1 stop ,4h 10m ,"['9:45', 'am']","['1:55', 'pm']",Economy,2022-10-12
+142 ,"Vueling, Wizz Air ",FCO,WAW,1 stop ,5h 45m ,"['1:50', 'pm']","['7:35', 'pm']",Economy,2022-10-12
+166 ,Scandinavian Airlines,FCO,WAW,1 stop ,6h 20m ,"['11:30', 'am']","['5:50', 'pm']",NaN,2022-10-12
+290 ,"ITA Airways, LOT ",FCO,WAW,1 stop ,4h 50m ,"['9:20', 'am']","['2:10', 'pm']",Economy,2022-10-12
+99 ,Ryanair,CIA,WMI,1 stop ,8h 45m ,"['6:25', 'am']","['3:10', 'pm']",Standard,2022-10-12
+180 ,Ryanair,CIA,WMI,1 stop ,7h 45m ,"['11:55', 'am']","['7:40', 'pm']",Standard,2022-10-12
+141 ,Ryanair,FCO,WMI,1 stop ,8h 30m ,"['8:30', 'am']","['5:00', 'pm']",Standard,2022-10-12
+137 ,Ryanair,CIA,WMI,1 stop ,8h 40m ,"['12:35', 'pm']","['9:15', 'pm']",Standard,2022-10-12
+22 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['10:20', 'am']","['11:55', 'am']",Standard,2022-10-12
+22 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['6:25', 'am']","['8:00', 'am']",Standard,2022-10-12
+38 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['12:35', 'pm']","['2:10', 'pm']",Standard,2022-10-12
+47 ,Wizz Air,FCO,LGW,nonstop ,2h 45m ,"['8:10', 'am']","['9:55', 'am']",Economy,2022-10-12
+63 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['6:25', 'pm']","['8:15', 'pm']",Economy,2022-10-12
+63 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['12:15', 'pm']","['2:05', 'pm']",Economy,2022-10-12
+68 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Economy,2022-10-12
+86 ,British Airways,FCO,LHR,nonstop ,2h 45m ,"['12:50', 'pm']","['2:35', 'pm']",Basic Economy,2022-10-12
+78 ,easyJet,FCO,LGW,nonstop ,2h 40m ,"['8:10', 'pm']","['9:50', 'pm']",Standard,2022-10-12
+123 ,British Airways,FCO,LGW,nonstop ,2h 50m ,"['6:25', 'pm']","['8:15', 'pm']",Standard Economy,2022-10-12
+124 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['5:20', 'pm']","['6:55', 'pm']",Standard,2022-10-12
+78 ,easyJet,FCO,LGW,nonstop ,2h 35m ,"['9:50', 'pm']","['11:25', 'pm']",Standard,2022-10-12
+123 ,British Airways,FCO,LGW,nonstop ,2h 50m ,"['12:15', 'pm']","['2:05', 'pm']",Standard Economy,2022-10-12
+92 ,easyJet,FCO,LGW,nonstop ,2h 45m ,"['1:20', 'pm']","['3:05', 'pm']",Standard,2022-10-12
+127 ,Iberia,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Basic,2022-10-12
+51 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['6:30', 'am']","['8:05', 'am']",Standard,2022-10-12
+77 ,Ryanair UK,CIA,STN,nonstop ,2h 35m ,"['7:40', 'pm']","['9:15', 'pm']",NaN,2022-10-12
+67 ,Wizz Air,FCO,LGW,nonstop ,2h 40m ,"['8:15', 'am']","['9:55', 'am']",Economy,2022-10-12
+78 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['7:40', 'pm']","['9:15', 'pm']",Standard,2022-10-12
+63 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Economy,2022-10-12
+81 ,easyJet,FCO,LGW,nonstop ,2h 40m ,"['8:10', 'pm']","['9:50', 'pm']",Standard,2022-10-12
+84 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['6:20', 'pm']","['8:10', 'pm']",Economy,2022-10-12
+84 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['12:35', 'pm']","['2:25', 'pm']",Economy,2022-10-12
+92 ,easyJet,FCO,LGW,nonstop ,2h 45m ,"['10:50', 'am']","['12:35', 'pm']",Standard,2022-10-12
+99 ,easyJet,FCO,LGW,nonstop ,2h 40m ,"['1:30', 'pm']","['3:10', 'pm']",Standard,2022-10-12
+70 ,easyJet,FCO,LGW,nonstop ,2h 35m ,"['9:30', 'pm']","['11:05', 'pm']",Standard,2022-10-12
+123 ,British Airways,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Standard Economy,2022-10-12
+137 ,ITA Airways,FCO,LHR,nonstop ,2h 50m ,"['5:20', 'pm']","['7:10', 'pm']",Economy,2022-10-12
+137 ,ITA Airways,FCO,LHR,nonstop ,2h 50m ,"['2:15', 'pm']","['4:05', 'pm']",Economy,2022-10-12
+149 ,British Airways,FCO,LGW,nonstop ,2h 50m ,"['6:20', 'pm']","['8:10', 'pm']",Standard Economy,2022-10-12
+34 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['6:50', 'am']","['8:25', 'am']",Standard,2022-10-12
+54 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['5:30', 'pm']","['7:05', 'pm']",Standard,2022-10-12
+54 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['11:35', 'am']","['1:10', 'pm']",Standard,2022-10-12
+58 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['5:00', 'pm']","['6:35', 'pm']",Standard,2022-10-12
+59 ,Ryanair UK,CIA,STN,nonstop ,2h 35m ,"['5:00', 'pm']","['6:35', 'pm']",NaN,2022-10-12
+62 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['10:20', 'am']","['11:55', 'am']",Standard,2022-10-12
+53 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Economy,2022-10-12
+67 ,Wizz Air,FCO,LGW,nonstop ,2h 45m ,"['8:10', 'am']","['9:55', 'am']",Economy,2022-10-12
+68 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['6:25', 'pm']","['8:15', 'pm']",Economy,2022-10-12
+78 ,easyJet,FCO,LGW,nonstop ,2h 45m ,"['10:50', 'am']","['12:35', 'pm']",Standard,2022-10-12
+78 ,easyJet,FCO,LGW,nonstop ,2h 40m ,"['9:25', 'pm']","['11:05', 'pm']",Standard,2022-10-12
+119 ,British Airways,FCO,LHR,nonstop ,2h 45m ,"['11:25', 'am']","['1:10', 'pm']",Basic Economy,2022-10-12
+114 ,easyJet,FCO,LGW,nonstop ,2h 50m ,"['1:15', 'pm']","['3:05', 'pm']",Standard,2022-10-12
+122 ,British Airways,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Standard Economy,2022-10-12
+126 ,Iberia,FCO,LGW,nonstop ,2h 50m ,"['6:25', 'pm']","['8:15', 'pm']",Basic,2022-10-12
+72 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['6:35', 'am']","['8:10', 'am']",Standard,2022-10-12
+52 ,Ryanair,FCO,STN,2 stops ,18h 35m ,"['5:25', 'pm']","['11:00', 'am', '+1']",Standard,2022-10-12
+63 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Economy,2022-10-12
+86 ,Wizz Air,FCO,LGW,nonstop ,2h 45m ,"['8:10', 'am']","['9:55', 'am']",Economy,2022-10-12
+122 ,British Airways,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Standard Economy,2022-10-12
+132 ,easyJet,FCO,LGW,nonstop ,2h 45m ,"['10:50', 'am']","['12:35', 'pm']",Standard,2022-10-12
+116 ,Iberia,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Basic,2022-10-12
+151 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['11:35', 'am']","['1:10', 'pm']",Standard,2022-10-12
+144 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['5:30', 'pm']","['7:20', 'pm']",Economy,2022-10-12
+156 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['10:10', 'am']","['11:45', 'am']",Standard,2022-10-12
+132 ,easyJet,FCO,LGW,nonstop ,2h 35m ,"['9:50', 'pm']","['11:25', 'pm']",Standard,2022-10-12
+173 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['5:35', 'pm']","['7:10', 'pm']",Standard,2022-10-12
+162 ,British Airways,FCO,LHR,nonstop ,2h 45m ,"['11:30', 'am']","['1:15', 'pm']",Basic Economy,2022-10-12
+170 ,easyJet,FCO,LGW,nonstop ,2h 40m ,"['1:15', 'pm']","['2:55', 'pm']",Standard,2022-10-12
+213 ,British Airways,FCO,LGW,nonstop ,2h 50m ,"['5:30', 'pm']","['7:20', 'pm']",Standard Economy,2022-10-12
+217 ,British Airways,FCO,LHR,nonstop ,2h 45m ,"['1:25', 'pm']","['3:10', 'pm']",Basic Economy,2022-10-12
+59 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['6:35', 'am']","['8:10', 'am']",Standard,2022-10-12
+36 ,Ryanair,FCO,STN,1 stop ,6h 00m ,"['6:00', 'am']","['11:00', 'am']",Standard,2022-10-12
+53 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Economy,2022-10-12
+57 ,Wizz Air,FCO,LGW,nonstop ,2h 45m ,"['8:10', 'am']","['9:55', 'am']",Economy,2022-10-12
+71 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['1:20', 'pm']","['2:55', 'pm']",Standard,2022-10-12
+75 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['5:30', 'pm']","['7:20', 'pm']",Economy,2022-10-12
+94 ,easyJet,FCO,LGW,nonstop ,2h 35m ,"['8:00', 'pm']","['9:35', 'pm']",Standard,2022-10-12
+89 ,easyJet,FCO,LGW,nonstop ,2h 45m ,"['10:55', 'am']","['12:40', 'pm']",Standard,2022-10-12
+91 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['12:35', 'pm']","['2:25', 'pm']",Economy,2022-10-12
+107 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['5:30', 'pm']","['7:05', 'pm']",Standard,2022-10-12
+107 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['10:20', 'am']","['11:55', 'am']",Standard,2022-10-12
+83 ,easyJet,FCO,LGW,nonstop ,2h 35m ,"['9:25', 'pm']","['11:00', 'pm']",Standard,2022-10-12
+107 ,easyJet,FCO,LGW,nonstop ,2h 45m ,"['1:20', 'pm']","['3:05', 'pm']",Standard,2022-10-12
+122 ,British Airways,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Standard Economy,2022-10-12
+105 ,Iberia,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Basic,2022-10-12
+137 ,ITA Airways,FCO,LHR,nonstop ,2h 50m ,"['2:15', 'pm']","['4:05', 'pm']",Economy,2022-10-12
+15 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['6:10', 'am']","['7:45', 'am']",Standard,2022-10-12
+22 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['10:20', 'am']","['11:55', 'am']",Standard,2022-10-12
+23 ,Wizz Air,FCO,LGW,nonstop ,2h 45m ,"['8:10', 'am']","['9:55', 'am']",Economy,2022-10-12
+28 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['11:35', 'am']","['1:10', 'pm']",Standard,2022-10-12
+53 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['12:15', 'pm']","['2:05', 'pm']",Economy,2022-10-12
+59 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['5:25', 'pm']","['7:00', 'pm']",Standard,2022-10-12
+60 ,easyJet,FCO,LGW,nonstop ,2h 45m ,"['10:50', 'am']","['12:35', 'pm']",Standard,2022-10-12
+55 ,easyJet,FCO,LGW,nonstop ,2h 40m ,"['9:55', 'pm']","['11:35', 'pm']",Standard,2022-10-12
+68 ,easyJet,FCO,LGW,nonstop ,2h 40m ,"['7:55', 'pm']","['9:35', 'pm']",Standard,2022-10-12
+68 ,easyJet,FCO,LGW,nonstop ,2h 45m ,"['1:35', 'pm']","['3:20', 'pm']",Standard,2022-10-12
+74 ,ITA Airways,FCO,LHR,nonstop ,2h 50m ,"['5:20', 'pm']","['7:10', 'pm']",Economy,2022-10-12
+74 ,ITA Airways,FCO,LHR,nonstop ,2h 50m ,"['2:15', 'pm']","['4:05', 'pm']",Economy,2022-10-12
+88 ,British Airways,FCO,LHR,nonstop ,2h 45m ,"['6:40', 'pm']","['8:25', 'pm']",Basic Economy,2022-10-12
+46 ,"Trenitalia, Ryanair ",ROM,STN,2 stops ,7h 34m ,"['6:06', 'am']","['12:40', 'pm']",Standard,2022-10-12
+107 ,British Airways,FCO,LHR,nonstop ,2h 45m ,"['1:25', 'pm']","['3:10', 'pm']",Basic Economy,2022-10-12
+15 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['11:35', 'am']","['1:10', 'pm']",Standard,2022-10-12
+15 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['10:20', 'am']","['11:55', 'am']",Standard,2022-10-12
+15 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['6:35', 'am']","['8:10', 'am']",Standard,2022-10-12
+16 ,Wizz Air,FCO,LGW,nonstop ,2h 45m ,"['8:10', 'am']","['9:55', 'am']",Economy,2022-10-12
+29 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['12:25', 'pm']","['2:00', 'pm']",Standard,2022-10-12
+45 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['12:35', 'pm']","['2:25', 'pm']",Economy,2022-10-12
+49 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['6:25', 'pm']","['8:15', 'pm']",Economy,2022-10-12
+49 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Economy,2022-10-12
+52 ,easyJet,FCO,LGW,nonstop ,2h 45m ,"['10:50', 'am']","['12:35', 'pm']",Standard,2022-10-12
+78 ,easyJet,FCO,LGW,nonstop ,2h 40m ,"['1:25', 'pm']","['3:05', 'pm']",Standard,2022-10-12
+92 ,easyJet,FCO,LGW,nonstop ,2h 40m ,"['7:55', 'pm']","['9:35', 'pm']",Standard,2022-10-12
+26 ,Ryanair,FCO,STN,1 stop ,6h 20m ,"['5:45', 'pm']","['11:05', 'pm']",Standard,2022-10-12
+96 ,Iberia,FCO,LGW,nonstop ,2h 50m ,"['12:35', 'pm']","['2:25', 'pm']",Basic,2022-10-12
+98 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['5:35', 'pm']","['7:10', 'pm']",Standard,2022-10-12
+48 ,"Trenitalia, Ryanair ",ROM,STN,1 stop ,7h 23m ,"['1:57', 'pm']","['8:20', 'pm']",Standard,2022-10-12
+15 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['6:25', 'am']","['8:00', 'am']",Standard,2022-10-12
+26 ,Wizz Air,FCO,LGW,nonstop ,2h 45m ,"['8:10', 'am']","['9:55', 'am']",Economy,2022-10-12
+28 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Economy,2022-10-12
+36 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['12:35', 'pm']","['2:10', 'pm']",Standard,2022-10-12
+36 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['10:20', 'am']","['11:55', 'am']",Standard,2022-10-12
+49 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['12:15', 'pm']","['2:05', 'pm']",Economy,2022-10-12
+63 ,Vueling,FCO,LGW,nonstop ,2h 50m ,"['6:25', 'pm']","['8:15', 'pm']",Economy,2022-10-12
+75 ,easyJet,FCO,LGW,nonstop ,2h 45m ,"['1:20', 'pm']","['3:05', 'pm']",Standard,2022-10-12
+81 ,easyJet,FCO,LGW,nonstop ,2h 40m ,"['8:10', 'pm']","['9:50', 'pm']",Standard,2022-10-12
+78 ,easyJet,FCO,LGW,nonstop ,2h 35m ,"['9:50', 'pm']","['11:25', 'pm']",Standard,2022-10-12
+92 ,British Airways,FCO,LGW,nonstop ,2h 50m ,"['7:00', 'am']","['8:50', 'am']",Standard Economy,2022-10-12
+40 ,Ryanair,CIA,STN,1 stop ,5h 25m ,"['6:40', 'am']","['11:05', 'am']",Standard,2022-10-12
+41 ,"Ryanair, Ryanair UK ",CIA,STN,1 stop ,5h 25m ,"['6:40', 'am']","['11:05', 'am']",Standard,2022-10-12
+98 ,Ryanair,CIA,STN,nonstop ,2h 35m ,"['5:20', 'pm']","['6:55', 'pm']",Standard,2022-10-12
+50 ,"Itabus, Ryanair ",ROM,LTN,1 stop ,7h 25m ,"['5:00', 'pm']","['11:25', 'pm']",Standard,2022-10-12
+120 ,ITA Airways,FCO,BCN,nonstop ,1h 50m ,"['1:45', 'pm']","['3:35', 'pm']",Economy,2022-10-12
+134 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['12:25', 'pm']","['2:20', 'pm']",Economy,2022-10-12
+153 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['2:30', 'pm']","['4:25', 'pm']",Economy,2022-10-12
+153 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Economy,2022-10-12
+176 ,Air Europa,FCO,BCN,nonstop ,1h 50m ,"['1:45', 'pm']","['3:35', 'pm']",Economy,2022-10-12
+131 ,Ryanair,FCO,BCN,nonstop ,1h 44m ,"['10:15', 'pm']","['11:59', 'pm']",Standard,2022-10-12
+204 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['3:55', 'pm']","['5:40', 'pm']",Standard,2022-10-12
+204 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['8:35', 'am']","['10:20', 'am']",Standard,2022-10-12
+184 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['12:25', 'pm']","['2:20', 'pm']",Basic,2022-10-12
+221 ,ITA Airways,FCO,BCN,nonstop ,1h 50m ,"['9:05', 'am']","['10:55', 'am']",Business,2022-10-12
+208 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['2:30', 'pm']","['4:25', 'pm']",Basic,2022-10-12
+208 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Basic,2022-10-12
+264 ,Air Europa,FCO,BCN,nonstop ,1h 50m ,"['9:05', 'am']","['10:55', 'am']",Economy,2022-10-12
+286 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:05', 'pm']","['9:00', 'pm']",Economy,2022-10-12
+247 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:20', 'pm']","['11:15', 'pm']",Economy,2022-10-12
+141 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:25', 'pm']","['9:20', 'pm']",Economy,2022-10-12
+100 ,"Ryanair, easyJet ",FCO,BCN,1 stop ,15h 00m ,"['7:25', 'pm']","['10:25', 'am', '+1']",Standard,2022-10-12
+141 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['2:30', 'pm']","['4:25', 'pm']",Economy,2022-10-12
+141 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['1:05', 'pm']","['3:00', 'pm']",Economy,2022-10-12
+151 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['5:20', 'pm']","['7:15', 'pm']",Economy,2022-10-12
+151 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Economy,2022-10-12
+200 ,ITA Airways,FCO,BCN,nonstop ,1h 50m ,"['9:05', 'am']","['10:55', 'am']",Economy,2022-10-12
+201 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['4:20', 'pm']","['6:05', 'pm']",Standard,2022-10-12
+182 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['7:25', 'pm']","['9:20', 'pm']",Basic,2022-10-12
+182 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['5:20', 'pm']","['7:15', 'pm']",Basic,2022-10-12
+201 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['8:35', 'am']","['10:20', 'am']",Standard,2022-10-12
+182 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['2:30', 'pm']","['4:25', 'pm']",Basic,2022-10-12
+182 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['1:05', 'pm']","['3:00', 'pm']",Basic,2022-10-12
+122 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:10', 'pm']","['11:05', 'pm']",Economy,2022-10-12
+199 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:00', 'am']","['8:55', 'am']",Economy,2022-10-12
+235 ,Air Europa,FCO,BCN,nonstop ,1h 50m ,"['9:05', 'am']","['10:55', 'am']",Economy,2022-10-12
+122 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['2:30', 'pm']","['4:25', 'pm']",Economy,2022-10-12
+47 ,"Ryanair, BlaBlaBus ",FCO,BCN,1 stop ,11h 40m ,"['6:15', 'am']","['5:55', 'pm']",Standard,2022-10-12
+122 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:00', 'am']","['8:55', 'am']",Economy,2022-10-12
+132 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['5:15', 'pm']","['7:10', 'pm']",Economy,2022-10-12
+148 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['4:10', 'pm']","['5:55', 'pm']",Standard,2022-10-12
+141 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:05', 'pm']","['9:00', 'pm']",Economy,2022-10-12
+141 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Economy,2022-10-12
+199 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['8:35', 'am']","['10:20', 'am']",Standard,2022-10-12
+180 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['7:05', 'pm']","['9:00', 'pm']",Basic,2022-10-12
+180 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['5:15', 'pm']","['7:10', 'pm']",Basic,2022-10-12
+180 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['2:30', 'pm']","['4:25', 'pm']",Basic,2022-10-12
+180 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Basic,2022-10-12
+180 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['7:00', 'am']","['8:55', 'am']",Basic,2022-10-12
+218 ,ITA Airways,FCO,BCN,nonstop ,1h 50m ,"['1:45', 'pm']","['3:35', 'pm']",Business,2022-10-12
+218 ,ITA Airways,FCO,BCN,nonstop ,1h 50m ,"['9:05', 'am']","['10:55', 'am']",Business,2022-10-12
+264 ,Air Europa,FCO,BCN,nonstop ,1h 50m ,"['1:45', 'pm']","['3:35', 'pm']",Economy,2022-10-12
+243 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:00', 'am']","['8:55', 'am']",Economy,2022-10-12
+178 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:00', 'am']","['8:55', 'am']",Economy,2022-10-12
+134 ,"Itabus, Vueling ",ROM,BCN,1 stop ,10h 50m ,"['11:55', 'pm']","['10:45', 'am', '+1']",Economy,2022-10-12
+196 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Economy,2022-10-12
+210 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['7:00', 'am']","['8:55', 'am']",Basic,2022-10-12
+233 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['1:05', 'pm']","['3:00', 'pm']",Economy,2022-10-12
+239 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Basic,2022-10-12
+279 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:05', 'pm']","['9:00', 'pm']",Economy,2022-10-12
+279 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['2:30', 'pm']","['4:25', 'pm']",Economy,2022-10-12
+260 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['9:55', 'pm']","['11:40', 'pm']",Standard,2022-10-12
+322 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['7:05', 'pm']","['9:00', 'pm']",Flexible,2022-10-12
+322 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['2:30', 'pm']","['4:25', 'pm']",Flexible,2022-10-12
+322 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['1:05', 'pm']","['3:00', 'pm']",Flexible,2022-10-12
+328 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['8:35', 'am']","['10:20', 'am']",Standard,2022-10-12
+344 ,ITA Airways,FCO,BCN,nonstop ,1h 50m ,"['2:00', 'pm']","['3:50', 'pm']",Economy,2022-10-12
+344 ,ITA Airways,FCO,BCN,nonstop ,1h 50m ,"['9:05', 'am']","['10:55', 'am']",Economy,2022-10-12
+346 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['3:50', 'pm']","['5:35', 'pm']",Standard,2022-10-12
+73 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['9:10', 'pm']","['10:55', 'pm']",Standard,2022-10-12
+34 ,Ryanair,FCO,BCN,1 stop ,7h 00m ,"['6:00', 'am']","['1:00', 'pm']",Standard,2022-10-12
+103 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:30', 'pm']","['9:25', 'pm']",Economy,2022-10-12
+103 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:35', 'am']","['11:30', 'am']",Economy,2022-10-12
+112 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['2:45', 'pm']","['4:40', 'pm']",Economy,2022-10-12
+112 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['1:25', 'pm']","['3:20', 'pm']",Economy,2022-10-12
+103 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:20', 'pm']","['11:15', 'pm']",Economy,2022-10-12
+145 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['7:30', 'pm']","['9:25', 'pm']",Basic,2022-10-12
+141 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Economy,2022-10-12
+159 ,ITA Airways,FCO,BCN,nonstop ,1h 50m ,"['2:00', 'pm']","['3:50', 'pm']",Economy,2022-10-12
+145 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['9:20', 'pm']","['11:15', 'pm']",Basic,2022-10-12
+145 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['9:35', 'am']","['11:30', 'am']",Basic,2022-10-12
+183 ,Air Europa,FCO,BCN,nonstop ,1h 50m ,"['2:00', 'pm']","['3:50', 'pm']",Economy,2022-10-12
+154 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['2:45', 'pm']","['4:40', 'pm']",Basic,2022-10-12
+154 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['1:25', 'pm']","['3:20', 'pm']",Basic,2022-10-12
+182 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Basic,2022-10-12
+52 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['4:55', 'pm']","['6:40', 'pm']",Standard,2022-10-12
+35 ,Ryanair,FCO,BCN,nonstop ,1h 44m ,"['10:15', 'pm']","['11:59', 'pm']",Standard,2022-10-12
+47 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:05', 'pm']","['9:00', 'pm']",Economy,2022-10-12
+51 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['2:30', 'pm']","['4:25', 'pm']",Economy,2022-10-12
+51 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Economy,2022-10-12
+51 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:00', 'am']","['8:55', 'am']",Economy,2022-10-12
+56 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['1:20', 'pm']","['3:15', 'pm']",Economy,2022-10-12
+47 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:20', 'pm']","['11:15', 'pm']",Economy,2022-10-12
+83 ,ITA Airways,FCO,BCN,nonstop ,1h 50m ,"['2:00', 'pm']","['3:50', 'pm']",Economy,2022-10-12
+92 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['2:30', 'pm']","['4:25', 'pm']",Basic,2022-10-12
+92 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Basic,2022-10-12
+92 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['7:00', 'am']","['8:55', 'am']",Basic,2022-10-12
+109 ,Air Europa,FCO,BCN,nonstop ,1h 50m ,"['2:00', 'pm']","['3:50', 'pm']",Economy,2022-10-12
+87 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['7:05', 'pm']","['9:00', 'pm']",Basic,2022-10-12
+106 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['1:20', 'pm']","['3:15', 'pm']",Basic,2022-10-12
+29 ,Ryanair,FCO,BCN,nonstop ,1h 44m ,"['10:15', 'pm']","['11:59', 'pm']",Standard,2022-10-12
+42 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['8:35', 'am']","['10:20', 'am']",Standard,2022-10-12
+42 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:25', 'pm']","['9:20', 'pm']",Economy,2022-10-12
+55 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['2:55', 'pm']","['4:40', 'pm']",Standard,2022-10-12
+51 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['2:50', 'pm']","['4:45', 'pm']",Economy,2022-10-12
+51 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['1:55', 'pm']","['3:50', 'pm']",Economy,2022-10-12
+51 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Economy,2022-10-12
+51 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:00', 'am']","['8:55', 'am']",Economy,2022-10-12
+42 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:20', 'pm']","['11:15', 'pm']",Economy,2022-10-12
+89 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['2:50', 'pm']","['4:45', 'pm']",Basic,2022-10-12
+89 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['1:55', 'pm']","['3:50', 'pm']",Basic,2022-10-12
+89 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Basic,2022-10-12
+89 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['7:00', 'am']","['8:55', 'am']",Basic,2022-10-12
+96 ,ITA Airways,FCO,BCN,nonstop ,1h 50m ,"['2:00', 'pm']","['3:50', 'pm']",Economy,2022-10-12
+80 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['7:25', 'pm']","['9:20', 'pm']",Basic,2022-10-12
+66 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['2:30', 'pm']","['4:25', 'pm']",Economy,2022-10-12
+27 ,Ryanair,FCO,BCN,1 stop ,7h 00m ,"['10:55', 'am']","['5:55', 'pm']",Standard,2022-10-12
+66 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:00', 'am']","['8:55', 'am']",Economy,2022-10-12
+58 ,Ryanair,FCO,BCN,nonstop ,1h 44m ,"['10:15', 'pm']","['11:59', 'pm']",Standard,2022-10-12
+83 ,ITA Airways,FCO,BCN,nonstop ,1h 50m ,"['2:00', 'pm']","['3:50', 'pm']",Economy,2022-10-12
+83 ,ITA Airways,FCO,BCN,nonstop ,1h 50m ,"['9:05', 'am']","['10:55', 'am']",Economy,2022-10-12
+75 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['12:25', 'pm']","['2:20', 'pm']",Economy,2022-10-12
+86 ,Ryanair,FCO,BCN,nonstop ,1h 45m ,"['3:55', 'pm']","['5:40', 'pm']",Standard,2022-10-12
+83 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:55', 'am']","['11:50', 'am']",Economy,2022-10-12
+93 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['7:05', 'pm']","['9:00', 'pm']",Economy,2022-10-12
+109 ,Air Europa,FCO,BCN,nonstop ,1h 50m ,"['2:00', 'pm']","['3:50', 'pm']",Economy,2022-10-12
+109 ,Air Europa,FCO,BCN,nonstop ,1h 50m ,"['9:05', 'am']","['10:55', 'am']",Economy,2022-10-12
+83 ,Vueling,FCO,BCN,nonstop ,1h 55m ,"['9:20', 'pm']","['11:15', 'pm']",Economy,2022-10-12
+102 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['2:30', 'pm']","['4:25', 'pm']",Basic,2022-10-12
+102 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['7:00', 'am']","['8:55', 'am']",Basic,2022-10-12
+141 ,Iberia,FCO,BCN,nonstop ,1h 55m ,"['7:05', 'pm']","['9:00', 'pm']",Basic,2022-10-12
+76 ,Vueling,FCO,AMS,nonstop ,2h 35m ,"['7:00', 'am']","['9:35', 'am']",Economy,2022-10-12
+125 ,Iberia,FCO,AMS,nonstop ,2h 35m ,"['7:00', 'am']","['9:35', 'am']",Basic,2022-10-12
+226 ,easyJet,FCO,AMS,nonstop ,2h 35m ,"['10:10', 'am']","['12:45', 'pm']",Standard,2022-10-12
+224 ,SWISS,FCO,AMS,1 stop ,4h 10m ,"['3:05', 'pm']","['7:15', 'pm']",Economy,2022-10-12
+241 ,SWISS,FCO,AMS,1 stop ,4h 25m ,"['9:45', 'am']","['2:10', 'pm']",Economy,2022-10-12
+222 ,Lufthansa,FCO,AMS,1 stop ,4h 05m ,"['10:50', 'am']","['2:55', 'pm']",Economy Light,2022-10-12
+167 ,Scandinavian Airlines,FCO,AMS,1 stop ,6h 45m ,"['11:30', 'am']","['6:15', 'pm']",NaN,2022-10-12
+228 ,Lufthansa,FCO,AMS,1 stop ,4h 10m ,"['1:25', 'pm']","['5:35', 'pm']",Economy Light,2022-10-12
+210 ,Scandinavian Airlines,FCO,AMS,1 stop ,5h 40m ,"['12:45', 'pm']","['6:25', 'pm']",NaN,2022-10-12
+127 ,"Ryanair, easyJet ",FCO,AMS,1 stop ,6h 00m ,"['8:00', 'am']","['2:00', 'pm']",Standard,2022-10-12
+104 ,"Ryanair, easyJet ",FCO,AMS,1 stop ,6h 50m ,"['7:10', 'am']","['2:00', 'pm']",Standard,2022-10-12
+331 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['8:35', 'am']","['11:05', 'am']",Economy,2022-10-12
+210 ,Scandinavian Airlines,FCO,AMS,1 stop ,6h 10m ,"['1:25', 'pm']","['7:35', 'pm']",NaN,2022-10-12
+237 ,Vueling,FCO,AMS,1 stop ,5h 20m ,"['12:25', 'pm']","['5:45', 'pm']",Economy,2022-10-12
+222 ,Lufthansa,FCO,AMS,1 stop ,5h 45m ,"['10:50', 'am']","['4:35', 'pm']",Economy Light,2022-10-12
+98 ,Vueling,FCO,AMS,nonstop ,2h 35m ,"['7:00', 'am']","['9:35', 'am']",Economy,2022-10-12
+85 ,Aegean Airlines,FCO,AMS,1 stop ,16h 50m ,"['6:20', 'pm']","['11:10', 'am', '+1']",NaN,2022-10-12
+159 ,Vueling,FCO,AMS,nonstop ,2h 35m ,"['5:55', 'pm']","['8:30', 'pm']",Economy,2022-10-12
+150 ,Iberia,FCO,AMS,nonstop ,2h 35m ,"['7:00', 'am']","['9:35', 'am']",Basic,2022-10-12
+181 ,easyJet,FCO,AMS,nonstop ,2h 35m ,"['10:10', 'am']","['12:45', 'pm']",Standard,2022-10-12
+249 ,Iberia,FCO,AMS,nonstop ,2h 35m ,"['5:55', 'pm']","['8:30', 'pm']",Flexible,2022-10-12
+277 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['2:05', 'pm']","['4:35', 'pm']",Economy,2022-10-12
+277 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['8:35', 'am']","['11:05', 'am']",Economy,2022-10-12
+115 ,Scandinavian Airlines,FCO,AMS,1 stop ,8h 00m ,"['10:15', 'am']","['6:15', 'pm']",NaN,2022-10-12
+125 ,"Ryanair, Nederlandse Spoorwegen ",FCO,AMS,1 stop ,5h 39m ,"['11:55', 'am']","['5:34', 'pm']",Standard,2022-10-12
+264 ,SWISS,FCO,AMS,1 stop ,4h 25m ,"['9:45', 'am']","['2:10', 'pm']",Economy,2022-10-12
+275 ,Lufthansa,FCO,AMS,1 stop ,4h 10m ,"['1:25', 'pm']","['5:35', 'pm']",Economy Light,2022-10-12
+241 ,Vueling,FCO,AMS,1 stop ,6h 25m ,"['2:30', 'pm']","['8:55', 'pm']",Economy,2022-10-12
+260 ,Vueling,FCO,AMS,1 stop ,5h 55m ,"['9:55', 'am']","['3:50', 'pm']",Economy,2022-10-12
+217 ,British Airways,FCO,AMS,1 stop ,8h 05m ,"['12:35', 'pm']","['8:40', 'pm']",Plus,2022-10-12
+361 ,KLM,FCO,AMS,nonstop ,2h 35m ,"['5:40', 'pm']","['8:15', 'pm']",Light,2022-10-12
+92 ,Vueling,FCO,AMS,nonstop ,2h 35m ,"['6:20', 'am']","['8:55', 'am']",Economy,2022-10-12
+156 ,easyJet,FCO,AMS,nonstop ,2h 35m ,"['10:10', 'am']","['12:45', 'pm']",Standard,2022-10-12
+149 ,Iberia,FCO,AMS,nonstop ,2h 35m ,"['6:20', 'am']","['8:55', 'am']",Basic,2022-10-12
+230 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['2:05', 'pm']","['4:35', 'pm']",Economy,2022-10-12
+230 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['8:35', 'am']","['11:05', 'am']",Economy,2022-10-12
+200 ,Lufthansa,FCO,AMS,1 stop ,4h 10m ,"['1:25', 'pm']","['5:35', 'pm']",Economy Light,2022-10-12
+227 ,SWISS,FCO,AMS,1 stop ,4h 25m ,"['9:45', 'am']","['2:10', 'pm']",Economy,2022-10-12
+221 ,Vueling,FCO,AMS,1 stop ,5h 20m ,"['9:55', 'am']","['3:15', 'pm']",Economy,2022-10-12
+212 ,Vueling,FCO,AMS,1 stop ,5h 35m ,"['7:00', 'am']","['12:35', 'pm']",Economy,2022-10-12
+222 ,Air Serbia,FCO,AMS,1 stop ,6h 00m ,"['9:25', 'am']","['3:25', 'pm']",NaN,2022-10-12
+310 ,ITA Airways,FCO,AMS,1 stop ,4h 00m ,"['3:00', 'pm']","['7:00', 'pm']",Economy,2022-10-12
+200 ,Lufthansa,FCO,AMS,1 stop ,7h 00m ,"['6:55', 'am']","['1:55', 'pm']",Economy Light,2022-10-12
+361 ,KLM,FCO,AMS,nonstop ,2h 25m ,"['7:55', 'pm']","['10:20', 'pm']",Light,2022-10-12
+212 ,Vueling,FCO,AMS,1 stop ,6h 20m ,"['2:30', 'pm']","['8:50', 'pm']",Economy,2022-10-12
+221 ,Lufthansa,FCO,AMS,1 stop ,5h 55m ,"['3:45', 'pm']","['9:40', 'pm']",Economy Light,2022-10-12
+80 ,Vueling,FCO,AMS,nonstop ,2h 35m ,"['7:00', 'am']","['9:35', 'am']",Economy,2022-10-12
+125 ,Iberia,FCO,AMS,nonstop ,2h 35m ,"['7:00', 'am']","['9:35', 'am']",Basic,2022-10-12
+145 ,easyJet,FCO,AMS,nonstop ,2h 30m ,"['3:35', 'pm']","['6:05', 'pm']",Standard,2022-10-12
+144 ,Vueling,FCO,AMS,nonstop ,2h 35m ,"['6:25', 'pm']","['9:00', 'pm']",Economy,2022-10-12
+195 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['8:35', 'am']","['11:05', 'am']",Economy,2022-10-12
+191 ,Iberia,FCO,AMS,nonstop ,2h 35m ,"['6:25', 'pm']","['9:00', 'pm']",Basic,2022-10-12
+276 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['1:45', 'pm']","['4:15', 'pm']",Economy,2022-10-12
+118 ,"Trenitalia, Transavia ",ROM,AMS,1 stop ,6h 58m ,"['4:57', 'pm']","['11:55', 'pm']",NaN,2022-10-12
+199 ,Lufthansa,FCO,AMS,1 stop ,4h 05m ,"['10:50', 'am']","['2:55', 'pm']",Economy Light,2022-10-12
+231 ,Lufthansa,FCO,AMS,1 stop ,3h 40m ,"['12:55', 'pm']","['4:35', 'pm']",Economy Light,2022-10-12
+304 ,KLM,FCO,AMS,nonstop ,2h 30m ,"['12:40', 'pm']","['3:10', 'pm']",Light,2022-10-12
+237 ,Lufthansa,FCO,AMS,1 stop ,4h 10m ,"['1:25', 'pm']","['5:35', 'pm']",Economy Light,2022-10-12
+264 ,ITA Airways,FCO,AMS,1 stop ,4h 20m ,"['3:00', 'pm']","['7:20', 'pm']",Economy,2022-10-12
+225 ,Scandinavian Airlines,FCO,AMS,1 stop ,5h 35m ,"['11:25', 'am']","['5:00', 'pm']",NaN,2022-10-12
+231 ,Lufthansa,FCO,AMS,1 stop ,4h 50m ,"['3:45', 'pm']","['8:35', 'pm']",Economy Light,2022-10-12
+112 ,Vueling,FCO,AMS,nonstop ,2h 35m ,"['6:00', 'pm']","['8:35', 'pm']",Economy,2022-10-12
+57 ,Ryanair,FCO,AMS,2 stops ,18h 15m ,"['3:10', 'pm']","['9:25', 'am', '+1']",Standard,2022-10-12
+112 ,easyJet,FCO,AMS,nonstop ,2h 35m ,"['10:10', 'am']","['12:45', 'pm']",Standard,2022-10-12
+121 ,Vueling,FCO,AMS,nonstop ,2h 35m ,"['10:45', 'am']","['1:20', 'pm']",Economy,2022-10-12
+168 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['8:35', 'am']","['11:05', 'am']",Economy,2022-10-12
+195 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['2:05', 'pm']","['4:35', 'pm']",Economy,2022-10-12
+165 ,Iberia,FCO,AMS,nonstop ,2h 35m ,"['6:00', 'pm']","['8:35', 'pm']",Basic,2022-10-12
+165 ,Iberia,FCO,AMS,nonstop ,2h 35m ,"['10:45', 'am']","['1:20', 'pm']",Basic,2022-10-12
+84 ,"Wizz Air, Nederlandse Spoorwegen ",FCO,AMS,1 stop ,5h 34m ,"['7:00', 'am']","['12:34', 'pm']",Economy,2022-10-12
+196 ,SWISS,FCO,AMS,1 stop ,4h 10m ,"['3:05', 'pm']","['7:15', 'pm']",Economy,2022-10-12
+138 ,Scandinavian Airlines,FCO,AMS,1 stop ,6h 10m ,"['1:25', 'pm']","['7:35', 'pm']",NaN,2022-10-12
+299 ,KLM,FCO,AMS,nonstop ,2h 25m ,"['7:55', 'pm']","['10:20', 'pm']",Light,2022-10-12
+250 ,SWISS,FCO,AMS,1 stop ,4h 25m ,"['9:45', 'am']","['2:10', 'pm']",Economy,2022-10-12
+102 ,Scandinavian Airlines,FCO,AMS,1 stop ,8h 10m ,"['1:25', 'pm']","['9:35', 'pm']",NaN,2022-10-12
+158 ,"Ryanair, easyJet ",FCO,AMS,1 stop ,5h 50m ,"['12:15', 'pm']","['6:05', 'pm']",Standard,2022-10-12
+228 ,Vueling,FCO,AMS,1 stop ,5h 35m ,"['2:45', 'pm']","['8:20', 'pm']",Economy,2022-10-12
+98 ,Vueling,FCO,AMS,nonstop ,2h 35m ,"['7:00', 'am']","['9:35', 'am']",Economy,2022-10-12
+70 ,Ryanair,CIA,AMS,2 stops ,11h 55m ,"['6:10', 'am']","['6:05', 'pm']",Standard,2022-10-12
+143 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['8:35', 'am']","['11:05', 'am']",Economy,2022-10-12
+141 ,easyJet,FCO,AMS,nonstop ,2h 35m ,"['10:15', 'am']","['12:50', 'pm']",Standard,2022-10-12
+149 ,Iberia,FCO,AMS,nonstop ,2h 35m ,"['7:00', 'am']","['9:35', 'am']",Basic,2022-10-12
+276 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['2:05', 'pm']","['4:35', 'pm']",Economy,2022-10-12
+197 ,SWISS,FCO,AMS,1 stop ,4h 10m ,"['3:05', 'pm']","['7:15', 'pm']",Economy,2022-10-12
+120 ,Scandinavian Airlines,FCO,AMS,1 stop ,6h 10m ,"['1:25', 'pm']","['7:35', 'pm']",NaN,2022-10-12
+139 ,"Vueling, easyJet ",FCO,AMS,1 stop ,5h 05m ,"['8:20', 'am']","['1:25', 'pm']",Economy,2022-10-12
+226 ,SWISS,FCO,AMS,1 stop ,4h 25m ,"['9:45', 'am']","['2:10', 'pm']",Economy,2022-10-12
+151 ,Vueling,FCO,AMS,1 stop ,5h 55m ,"['9:55', 'am']","['3:50', 'pm']",Economy,2022-10-12
+224 ,Lufthansa,FCO,AMS,1 stop ,4h 05m ,"['10:50', 'am']","['2:55', 'pm']",Economy Light,2022-10-12
+140 ,Vueling,FCO,AMS,1 stop ,6h 25m ,"['2:30', 'pm']","['8:55', 'pm']",Economy,2022-10-12
+224 ,Lufthansa,FCO,AMS,1 stop ,4h 50m ,"['3:45', 'pm']","['8:35', 'pm']",Economy Light,2022-10-12
+260 ,Lufthansa,FCO,AMS,1 stop ,4h 10m ,"['1:25', 'pm']","['5:35', 'pm']",Economy Light,2022-10-12
+361 ,KLM,FCO,AMS,nonstop ,2h 25m ,"['7:55', 'pm']","['10:20', 'pm']",Light,2022-10-12
+230 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['8:35', 'am']","['11:05', 'am']",Economy,2022-10-12
+64 ,"Wizz Air, Nederlandse Spoorwegen ",FCO,AMS,1 stop ,5h 34m ,"['7:00', 'am']","['12:34', 'pm']",Economy,2022-10-12
+239 ,Vueling,FCO,AMS,nonstop ,2h 35m ,"['6:00', 'pm']","['8:35', 'pm']",Economy,2022-10-12
+195 ,Lufthansa,FCO,AMS,1 stop ,3h 40m ,"['12:55', 'pm']","['4:35', 'pm']",Economy Light,2022-10-12
+97 ,Scandinavian Airlines,FCO,AMS,1 stop ,6h 45m ,"['11:30', 'am']","['6:15', 'pm']",NaN,2022-10-12
+160 ,Vueling,FCO,AMS,1 stop ,5h 20m ,"['2:50', 'pm']","['8:10', 'pm']",Economy,2022-10-12
+195 ,Lufthansa,FCO,AMS,1 stop ,4h 05m ,"['10:50', 'am']","['2:55', 'pm']",Economy Light,2022-10-12
+151 ,Vueling,FCO,AMS,1 stop ,5h 35m ,"['7:00', 'am']","['12:35', 'pm']",Economy,2022-10-12
+227 ,SWISS,FCO,AMS,1 stop ,4h 10m ,"['3:05', 'pm']","['7:15', 'pm']",Economy,2022-10-12
+151 ,Vueling,FCO,AMS,1 stop ,6h 15m ,"['1:55', 'pm']","['8:10', 'pm']",Economy,2022-10-12
+183 ,Scandinavian Airlines,FCO,AMS,1 stop ,6h 10m ,"['1:25', 'pm']","['7:35', 'pm']",NaN,2022-10-12
+151 ,"Ryanair, Vueling ",FCO,AMS,1 stop ,6h 00m ,"['8:35', 'am']","['2:35', 'pm']",Standard,2022-10-12
+227 ,Iberia,FCO,AMS,1 stop ,5h 20m ,"['2:50', 'pm']","['8:10', 'pm']",Basic,2022-10-12
+247 ,Lufthansa,FCO,AMS,1 stop ,4h 10m ,"['1:25', 'pm']","['5:35', 'pm']",Economy Light,2022-10-12
+225 ,Lufthansa,FCO,AMS,1 stop ,4h 50m ,"['3:45', 'pm']","['8:35', 'pm']",Economy Light,2022-10-12
+158 ,Vueling,FCO,AMS,nonstop ,2h 35m ,"['7:00', 'am']","['9:35', 'am']",Economy,2022-10-12
+71 ,"Ryanair, BlaBlaBus ",FCO,AMS,1 stop ,8h 50m ,"['2:00', 'pm']","['10:50', 'pm']",Standard,2022-10-12
+230 ,easyJet,FCO,AMS,nonstop ,2h 35m ,"['10:10', 'am']","['12:45', 'pm']",Standard,2022-10-12
+248 ,Iberia,FCO,AMS,nonstop ,2h 35m ,"['7:00', 'am']","['9:35', 'am']",Flexible,2022-10-12
+277 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['8:35', 'am']","['11:05', 'am']",Economy,2022-10-12
+78 ,"Ryanair, Nederlandse Spoorwegen ",FCO,AMS,1 stop ,5h 35m ,"['10:00', 'am']","['3:35', 'pm']",Standard,2022-10-12
+139 ,Scandinavian Airlines,FCO,AMS,1 stop ,5h 40m ,"['12:45', 'pm']","['6:25', 'pm']",NaN,2022-10-12
+290 ,Vueling,FCO,AMS,nonstop ,2h 35m ,"['6:25', 'pm']","['9:00', 'pm']",Economy,2022-10-12
+164 ,Vueling,FCO,AMS,1 stop ,5h 35m ,"['7:00', 'am']","['12:35', 'pm']",Economy,2022-10-12
+192 ,Vueling,FCO,AMS,1 stop ,5h 20m ,"['12:25', 'pm']","['5:45', 'pm']",Economy,2022-10-12
+157 ,"ITA Airways, easyJet ",FCO,AMS,1 stop ,4h 55m ,"['1:55', 'pm']","['6:50', 'pm']",Economy,2022-10-12
+192 ,Vueling,FCO,AMS,1 stop ,5h 55m ,"['9:55', 'am']","['3:50', 'pm']",Economy,2022-10-12
+135 ,"Ryanair, easyJet ",FCO,AMS,1 stop ,6h 00m ,"['8:00', 'am']","['2:00', 'pm']",Standard,2022-10-12
+178 ,Scandinavian Airlines,FCO,AMS,1 stop ,6h 45m ,"['11:30', 'am']","['6:15', 'pm']",NaN,2022-10-12
+361 ,KLM,FCO,AMS,nonstop ,2h 25m ,"['7:55', 'pm']","['10:20', 'pm']",Light,2022-10-12
+386 ,ITA Airways,FCO,AMS,nonstop ,2h 30m ,"['2:05', 'pm']","['4:35', 'pm']",Economy,2022-10-12
+201 ,Ryanair,FCO,PRG,nonstop ,1h 45m ,"['5:00', 'pm']","['6:45', 'pm']",Standard,2022-10-12
+201 ,Ryanair,FCO,PRG,nonstop ,1h 45m ,"['5:00', 'pm']","['6:45', 'pm']",Standard,2022-10-12
+67 ,Ryanair,FCO,PRG,1 stop ,8h 30m ,"['12:50', 'pm']","['9:20', 'pm']",Standard,2022-10-12
+218 ,Wizz Air,FCO,PRG,nonstop ,1h 55m ,"['12:10', 'pm']","['2:05', 'pm']",Economy,2022-10-12
+230 ,Lufthansa,FCO,PRG,1 stop ,3h 50m ,"['7:25', 'pm']","['11:15', 'pm']",Economy Light,2022-10-12
+248 ,SWISS,FCO,PRG,1 stop ,4h 05m ,"['3:05', 'pm']","['7:10', 'pm']",Economy,2022-10-12
+192 ,easyJet,FCO,PRG,1 stop ,4h 40m ,"['8:45', 'am']","['1:25', 'pm']",Standard,2022-10-12
+289 ,SWISS,FCO,PRG,1 stop ,4h 10m ,"['9:45', 'am']","['1:55', 'pm']",Economy,2022-10-12
+258 ,Lufthansa,FCO,PRG,1 stop ,4h 20m ,"['1:25', 'pm']","['5:45', 'pm']",Economy Light,2022-10-12
+120 ,"Ryanair, Wizz Air ",FCO,PRG,1 stop ,6h 05m ,"['6:40', 'am']","['12:45', 'pm']",Standard,2022-10-12
+260 ,Eurowings,FCO,PRG,1 stop ,5h 00m ,"['10:40', 'am']","['3:40', 'pm']",Basic,2022-10-12
+225 ,Lufthansa,FCO,PRG,1 stop ,5h 30m ,"['10:50', 'am']","['4:20', 'pm']",Economy Light,2022-10-12
+262 ,Lufthansa,FCO,PRG,1 stop ,5h 15m ,"['3:45', 'pm']","['9:00', 'pm']",Economy Light,2022-10-12
+174 ,Ryanair,CIA,PRG,1 stop ,6h 50m ,"['1:50', 'pm']","['8:40', 'pm']",Standard,2022-10-12
+300 ,Brussels Airlines,FCO,PRG,1 stop ,5h 50m ,"['10:15', 'am']","['4:05', 'pm']",NaN,2022-10-12
+235 ,"Vueling, Transavia France ",FCO,PRG,1 stop ,6h 10m ,"['1:25', 'pm']","['7:35', 'pm']",Economy,2022-10-12
+116 ,Wizz Air,FCO,PRG,nonstop ,1h 50m ,"['6:15', 'am']","['8:05', 'am']",Economy,2022-10-12
+115 ,Wizz Air,FCO,PRG,nonstop ,1h 50m ,"['6:15', 'am']","['8:05', 'am']",Economy,2022-10-12
+118 ,Eurowings,FCO,PRG,nonstop ,1h 50m ,"['1:30', 'pm']","['3:20', 'pm']",Basic,2022-10-12
+204 ,Smartwings,FCO,PRG,nonstop ,1h 50m ,"['1:30', 'pm']","['3:20', 'pm']",Economy,2022-10-12
+236 ,"ITA Airways, Ryanair ",FCO,PRG,1 stop ,4h 15m ,"['1:20', 'pm']","['5:35', 'pm']",Economy,2022-10-12
+252 ,Eurowings,FCO,PRG,1 stop ,4h 40m ,"['10:40', 'am']","['3:20', 'pm']",Basic,2022-10-12
+311 ,Lufthansa,FCO,PRG,1 stop ,3h 50m ,"['7:25', 'pm']","['11:15', 'pm']",Economy Light,2022-10-12
+180 ,Ryanair,CIA,PRG,1 stop ,5h 40m ,"['6:35', 'am']","['12:15', 'pm']",Standard,2022-10-12
+348 ,SWISS,FCO,PRG,1 stop ,4h 05m ,"['3:05', 'pm']","['7:10', 'pm']",Economy,2022-10-12
+365 ,SWISS,FCO,PRG,1 stop ,4h 10m ,"['9:45', 'am']","['1:55', 'pm']",Economy,2022-10-12
+284 ,KLM,FCO,PRG,1 stop ,5h 10m ,"['5:40', 'pm']","['10:50', 'pm']",Light,2022-10-12
+363 ,Brussels Airlines,FCO,PRG,1 stop ,4h 35m ,"['5:50', 'pm']","['10:25', 'pm']",NaN,2022-10-12
+233 ,"ITA Airways, Wizz Air ",FCO,PRG,1 stop ,6h 10m ,"['12:10', 'pm']","['6:20', 'pm']",Economy,2022-10-12
+268 ,Vueling,FCO,PRG,1 stop ,6h 20m ,"['2:30', 'pm']","['8:50', 'pm']",Economy,2022-10-12
+265 ,"ITA Airways, Ryanair ",FCO,PRG,1 stop ,6h 10m ,"['5:25', 'pm']","['11:35', 'pm']",Economy,2022-10-12
+346 ,Brussels Airlines,FCO,PRG,1 stop ,5h 50m ,"['10:15', 'am']","['4:05', 'pm']",NaN,2022-10-12
+114 ,Ryanair,FCO,PRG,nonstop ,1h 45m ,"['1:05', 'pm']","['2:50', 'pm']",Standard,2022-10-12
+113 ,Ryanair,FCO,PRG,nonstop ,1h 45m ,"['1:05', 'pm']","['2:50', 'pm']",Standard,2022-10-12
+204 ,Wizz Air,FCO,PRG,nonstop ,1h 45m ,"['12:20', 'pm']","['2:05', 'pm']",Economy,2022-10-12
+203 ,Lufthansa,FCO,PRG,1 stop ,3h 50m ,"['7:25', 'pm']","['11:15', 'pm']",Economy Light,2022-10-12
+203 ,Lufthansa,FCO,PRG,1 stop ,4h 10m ,"['1:25', 'pm']","['5:35', 'pm']",Economy Light,2022-10-12
+271 ,SWISS,FCO,PRG,1 stop ,4h 10m ,"['9:45', 'am']","['1:55', 'pm']",Economy,2022-10-12
+203 ,Lufthansa,FCO,PRG,1 stop ,4h 45m ,"['6:30', 'pm']","['11:15', 'pm']",Economy Light,2022-10-12
+266 ,Lufthansa,FCO,PRG,1 stop ,4h 25m ,"['12:55', 'pm']","['5:20', 'pm']",Economy Light,2022-10-12
+266 ,Lufthansa,FCO,PRG,1 stop ,5h 10m ,"['8:05', 'am']","['1:15', 'pm']",Economy Light,2022-10-12
+270 ,Lufthansa,FCO,PRG,1 stop ,5h 15m ,"['3:45', 'pm']","['9:00', 'pm']",Economy Light,2022-10-12
+284 ,KLM,FCO,PRG,1 stop ,5h 10m ,"['5:40', 'pm']","['10:50', 'pm']",Light,2022-10-12
+197 ,Lufthansa,FCO,PRG,1 stop ,6h 30m ,"['10:50', 'am']","['5:20', 'pm']",Economy Light,2022-10-12
+288 ,"ITA Airways, Lufthansa ",FCO,PRG,2 stops ,6h 00m ,"['3:00', 'pm']","['9:00', 'pm']",Economy Classic,2022-10-12
+289 ,Vueling,FCO,PRG,1 stop ,6h 15m ,"['2:30', 'pm']","['8:45', 'pm']",Economy,2022-10-12
+327 ,Lufthansa,FCO,PRG,2 stops ,6h 10m ,"['2:50', 'pm']","['9:00', 'pm']",Economy Light,2022-10-12
+235 ,British Airways,FCO,PRG,1 stop ,7h 25m ,"['11:25', 'am']","['6:50', 'pm']",Plus,2022-10-12
+237 ,Wizz Air,FCO,PRG,nonstop ,2h 00m ,"['12:05', 'pm']","['2:05', 'pm']",Economy,2022-10-12
+235 ,Wizz Air,FCO,PRG,nonstop ,2h 00m ,"['12:05', 'pm']","['2:05', 'pm']",Economy,2022-10-12
+110 ,"Italotreno, Wizz Air ",ROM,PRG,1 stop ,9h 58m ,"['10:12', 'pm']","['8:10', 'am', '+1']",Economy,2022-10-12
+283 ,Ryanair,FCO,PRG,nonstop ,1h 45m ,"['1:05', 'pm']","['2:50', 'pm']",Standard,2022-10-12
+217 ,Lufthansa,FCO,PRG,1 stop ,3h 50m ,"['7:25', 'pm']","['11:15', 'pm']",Economy Light,2022-10-12
+309 ,Brussels Airlines,FCO,PRG,1 stop ,4h 35m ,"['5:50', 'pm']","['10:25', 'pm']",NaN,2022-10-12
+270 ,Lufthansa,FCO,PRG,1 stop ,4h 45m ,"['6:30', 'pm']","['11:15', 'pm']",Economy Light,2022-10-12
+249 ,Eurowings,FCO,PRG,1 stop ,5h 30m ,"['9:50', 'am']","['3:20', 'pm']",Basic,2022-10-12
+160 ,"ITA Airways, Ryanair ",FCO,PRG,1 stop ,6h 35m ,"['5:20', 'pm']","['11:55', 'pm']",Economy,2022-10-12
+264 ,Bulgaria Air,FCO,PRG,1 stop ,5h 55m ,"['9:50', 'am']","['3:45', 'pm']",NaN,2022-10-12
+300 ,Lufthansa,FCO,PRG,1 stop ,5h 15m ,"['3:45', 'pm']","['9:00', 'pm']",Economy Light,2022-10-12
+264 ,"ITA Airways, Bulgaria Air ",FCO,PRG,1 stop ,5h 55m ,"['9:50', 'am']","['3:45', 'pm']",Economy,2022-10-12
+316 ,Lufthansa,FCO,PRG,1 stop ,5h 10m ,"['8:05', 'am']","['1:15', 'pm']",Economy Light,2022-10-12
+444 ,Lufthansa,FCO,PRG,1 stop ,3h 25m ,"['12:55', 'pm']","['4:20', 'pm']",Economy Light,2022-10-12
+319 ,Lufthansa,FCO,PRG,1 stop ,5h 30m ,"['10:50', 'am']","['4:20', 'pm']",Economy Light,2022-10-12
+205 ,"ITA Airways, Ryanair ",FCO,PRG,1 stop ,7h 10m ,"['1:15', 'pm']","['8:25', 'pm']",Economy,2022-10-12
+443 ,SWISS,FCO,PRG,1 stop ,4h 10m ,"['9:45', 'am']","['1:55', 'pm']",Economy,2022-10-12
+57 ,Wizz Air,FCO,PRG,nonstop ,1h 50m ,"['6:15', 'am']","['8:05', 'am']",Economy,2022-10-12
+66 ,Ryanair,FCO,PRG,nonstop ,1h 45m ,"['7:45', 'pm']","['9:30', 'pm']",Standard,2022-10-12
+51 ,"Itabus, Ryanair ",ROM,PRG,1 stop ,11h 55m ,"['11:55', 'pm']","['11:50', 'am', '+1']",Standard,2022-10-12
+57 ,Wizz Air,FCO,PRG,nonstop ,1h 50m ,"['6:15', 'am']","['8:05', 'am']",Economy,2022-10-12
+85 ,Eurowings,FCO,PRG,nonstop ,1h 50m ,"['1:00', 'pm']","['2:50', 'pm']",Basic,2022-10-12
+130 ,Smartwings,FCO,PRG,nonstop ,1h 50m ,"['1:00', 'pm']","['2:50', 'pm']",Economy,2022-10-12
+192 ,Brussels Airlines,FCO,PRG,1 stop ,4h 35m ,"['5:50', 'pm']","['10:25', 'pm']",NaN,2022-10-12
+183 ,"ITA Airways, Wizz Air ",FCO,PRG,1 stop ,5h 00m ,"['5:15', 'pm']","['10:15', 'pm']",Economy,2022-10-12
+93 ,"Ryanair, Wizz Air ",FCO,PRG,1 stop ,6h 40m ,"['3:35', 'pm']","['10:15', 'pm']",Standard,2022-10-12
+161 ,"ITA Airways, Wizz Air ",FCO,PRG,1 stop ,5h 40m ,"['12:40', 'pm']","['6:20', 'pm']",Economy,2022-10-12
+93 ,Ryanair,FCO,PRG,1 stop ,7h 00m ,"['8:25', 'am']","['3:25', 'pm']",Standard,2022-10-12
+226 ,Vueling,FCO,PRG,1 stop ,5h 25m ,"['2:45', 'pm']","['8:10', 'pm']",Economy,2022-10-12
+132 ,"Ryanair, Wizz Air ",FCO,PRG,1 stop ,6h 40m ,"['11:40', 'am']","['6:20', 'pm']",Standard,2022-10-12
+150 ,Ryanair,CIA,PRG,1 stop ,6h 25m ,"['2:30', 'pm']","['8:55', 'pm']",Standard,2022-10-12
+176 ,Ryanair,CIA,PRG,1 stop ,5h 55m ,"['7:35', 'am']","['1:30', 'pm']",Standard,2022-10-12
+81 ,"Ryanair, Wizz Air ",FCO,PRG,1 stop ,8h 00m ,"['2:15', 'pm']","['10:15', 'pm']",Standard,2022-10-12
+144 ,"Ryanair, Wizz Air ",FCO,PRG,1 stop ,7h 00m ,"['11:20', 'am']","['6:20', 'pm']",Standard,2022-10-12
+55 ,Ryanair,FCO,PRG,nonstop ,1h 45m ,"['12:55', 'pm']","['2:40', 'pm']",Standard,2022-10-12
+53 ,Ryanair,FCO,PRG,nonstop ,1h 45m ,"['12:55', 'pm']","['2:40', 'pm']",Standard,2022-10-12
+51 ,"Itabus, Wizz Air ",ROM,PRG,1 stop ,12h 05m ,"['11:00', 'pm']","['11:05', 'am', '+1']",Economy,2022-10-12
+105 ,Wizz Air,FCO,PRG,nonstop ,1h 55m ,"['12:10', 'pm']","['2:05', 'pm']",Economy,2022-10-12
+198 ,Brussels Airlines,FCO,PRG,1 stop ,4h 35m ,"['5:50', 'pm']","['10:25', 'pm']",NaN,2022-10-12
+115 ,Air Malta,FCO,PRG,1 stop ,6h 20m ,"['10:00', 'am']","['4:20', 'pm']",NaN,2022-10-12
+168 ,Brussels Airlines,FCO,PRG,1 stop ,5h 25m ,"['10:15', 'am']","['3:40', 'pm']",NaN,2022-10-12
+244 ,SWISS,FCO,PRG,1 stop ,4h 05m ,"['3:05', 'pm']","['7:10', 'pm']",Economy,2022-10-12
+200 ,KLM,FCO,PRG,1 stop ,5h 10m ,"['5:40', 'pm']","['10:50', 'pm']",Light,2022-10-12
+105 ,"Ryanair, Wizz Air ",FCO,PRG,2 stops ,6h 50m ,"['6:55', 'am']","['1:45', 'pm']",Standard,2022-10-12
+202 ,British Airways,FCO,PRG,1 stop ,6h 00m ,"['4:45', 'pm']","['10:45', 'pm']",Plus,2022-10-12
+284 ,Lufthansa,FCO,PRG,1 stop ,4h 10m ,"['1:25', 'pm']","['5:35', 'pm']",Economy Light,2022-10-12
+220 ,Ryanair,CIA,PRG,1 stop ,5h 20m ,"['4:10', 'pm']","['9:30', 'pm']",Standard,2022-10-12
+129 ,"ITA Airways, Ryanair ",FCO,PRG,1 stop ,7h 15m ,"['5:20', 'pm']","['12:35', 'am', '+1']",Economy,2022-10-12
+173 ,Ryanair,FCO,PRG,2 stops ,6h 20m ,"['6:15', 'pm']","['12:35', 'am', '+1']",Standard,2022-10-12
+97 ,Multiple Airlines,CIA,PRG,2 stops ,7h 10m ,"['6:30', 'am']","['1:40', 'pm']",Standard,2022-10-12
+174 ,British Airways,FCO,PRG,1 stop ,7h 10m ,"['1:25', 'pm']","['8:35', 'pm']",Plus,2022-10-12
+35 ,Ryanair,FCO,PRG,nonstop ,1h 45m ,"['8:10', 'pm']","['9:55', 'pm']",Standard,2022-10-12
+34 ,Ryanair,FCO,PRG,nonstop ,1h 45m ,"['8:10', 'pm']","['9:55', 'pm']",Standard,2022-10-12
+42 ,Wizz Air,FCO,PRG,nonstop ,1h 50m ,"['8:15', 'pm']","['10:05', 'pm']",Economy,2022-10-12
+58 ,Eurowings,FCO,PRG,nonstop ,1h 50m ,"['3:50', 'pm']","['5:40', 'pm']",Basic,2022-10-12
+100 ,Smartwings,FCO,PRG,nonstop ,1h 50m ,"['3:50', 'pm']","['5:40', 'pm']",Economy,2022-10-12
+52 ,"Italotreno, Wizz Air ",ROM,PRG,1 stop ,5h 05m ,"['6:00', 'am']","['11:05', 'am']",Economy,2022-10-12
+97 ,Ryanair,CIA,PRG,1 stop ,4h 55m ,"['6:50', 'am']","['11:45', 'am']",Standard,2022-10-12
+171 ,Lufthansa,FCO,PRG,1 stop ,3h 50m ,"['7:25', 'pm']","['11:15', 'pm']",Economy Light,2022-10-12
+127 ,Vueling,FCO,PRG,1 stop ,5h 10m ,"['7:00', 'am']","['12:10', 'pm']",Economy,2022-10-12
+171 ,Lufthansa,FCO,PRG,1 stop ,4h 10m ,"['1:25', 'pm']","['5:35', 'pm']",Economy Light,2022-10-12
+113 ,Vueling,FCO,PRG,1 stop ,6h 00m ,"['2:50', 'pm']","['8:50', 'pm']",Economy,2022-10-12
+123 ,"Ryanair, Vueling ",FCO,PRG,1 stop ,5h 55m ,"['2:55', 'pm']","['8:50', 'pm']",Standard,2022-10-12
+61 ,Ryanair,CIA,PRG,2 stops ,7h 10m ,"['9:55', 'am']","['5:05', 'pm']",Standard,2022-10-12
+208 ,Iberia,FCO,PRG,1 stop ,5h 10m ,"['7:00', 'am']","['12:10', 'pm']",Basic,2022-10-12
+118 ,Vueling,FCO,PRG,1 stop ,6h 55m ,"['1:55', 'pm']","['8:50', 'pm']",Economy,2022-10-12
+137 ,"ITA Airways, Wizz Air ",FCO,PRG,1 stop ,6h 10m ,"['12:10', 'pm']","['6:20', 'pm']",Economy,2022-10-12
+61 ,Wizz Air,FCO,PRG,nonstop ,1h 55m ,"['12:10', 'pm']","['2:05', 'pm']",Economy,2022-10-12
+61 ,Wizz Air,FCO,PRG,nonstop ,1h 55m ,"['12:10', 'pm']","['2:05', 'pm']",Economy,2022-10-12
+52 ,"Italotreno, Ryanair ",ROM,PRG,1 stop ,4h 50m ,"['6:00', 'am']","['10:50', 'am']",Standard,2022-10-12
+88 ,Ryanair,FCO,PRG,nonstop ,1h 45m ,"['5:00', 'pm']","['6:45', 'pm']",Standard,2022-10-12
+190 ,Brussels Airlines,FCO,PRG,1 stop ,4h 35m ,"['5:50', 'pm']","['10:25', 'pm']",NaN,2022-10-12
+73 ,"Ryanair, Wizz Air ",FCO,PRG,1 stop ,6h 05m ,"['6:40', 'am']","['12:45', 'pm']",Standard,2022-10-12
+144 ,easyJet,FCO,PRG,1 stop ,4h 40m ,"['8:45', 'am']","['1:25', 'pm']",Standard,2022-10-12
+79 ,"Wizz Air, Volotea ",FCO,PRG,1 stop ,6h 40m ,"['7:00', 'am']","['1:40', 'pm']",Economy,2022-10-12
+161 ,Brussels Airlines,FCO,PRG,1 stop ,5h 50m ,"['10:15', 'am']","['4:05', 'pm']",NaN,2022-10-12
+311 ,SWISS,FCO,PRG,1 stop ,4h 10m ,"['9:45', 'am']","['1:55', 'pm']",Economy,2022-10-12
+136 ,Ryanair,CIA,PRG,1 stop ,6h 50m ,"['1:50', 'pm']","['8:40', 'pm']",Standard,2022-10-12
+161 ,Austrian Airlines,FCO,PRG,1 stop ,6h 45m ,"['9:00', 'am']","['3:45', 'pm']",Economy Light,2022-10-12
+186 ,Vueling,FCO,PRG,1 stop ,6h 40m ,"['6:55', 'am']","['1:35', 'pm']",Economy,2022-10-12
+65 ,"Wizz Air, Regiojet ",FCO,PRG,1 stop ,9h 25m ,"['7:05', 'am']","['4:30', 'pm']",Economy,2022-10-12
+189 ,Aegean Airlines,FCO,PRG,1 stop ,7h 50m ,"['10:30', 'am']","['6:20', 'pm']",NaN,2022-10-12
+428 ,SWISS,FCO,PRG,1 stop ,4h 05m ,"['3:05', 'pm']","['7:10', 'pm']",Economy,2022-10-12
+105 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['1:25', 'pm']","['3:35', 'pm']",Economy,2022-10-12
+97 ,"Volotea, BlaBlaBus ",FCO,PAR,1 stop ,9h 50m ,"['12:40', 'pm']","['10:30', 'pm']",Economy,2022-10-12
+114 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['9:35', 'am']","['11:45', 'am']",Economy,2022-10-12
+123 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['8:25', 'pm']","['10:30', 'pm']",Standard,2022-10-12
+123 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['3:10', 'pm']","['5:15', 'pm']",Standard,2022-10-12
+131 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['9:45', 'am']","['11:50', 'am']",Standard,2022-10-12
+151 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['6:55', 'am']","['9:05', 'am']",Economy,2022-10-12
+172 ,ITA Airways,FCO,CDG,nonstop ,2h 10m ,"['8:50', 'am']","['11:00', 'am']",Economy,2022-10-12
+173 ,Transavia France,FCO,ORY,nonstop ,2h 05m ,"['8:45', 'pm']","['10:50', 'pm']",Economy,2022-10-12
+154 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['1:25', 'pm']","['3:35', 'pm']",Basic,2022-10-12
+154 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['9:35', 'am']","['11:45', 'am']",Basic,2022-10-12
+143 ,ITA Airways,FCO,CDG,nonstop ,2h 10m ,"['9:30', 'pm']","['11:40', 'pm']",Economy,2022-10-12
+193 ,Ryanair,CIA,BVA,nonstop ,2h 05m ,"['6:10', 'pm']","['8:15', 'pm']",Standard,2022-10-12
+201 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['7:10', 'pm']","['9:20', 'pm']",Economy,2022-10-12
+206 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['6:55', 'am']","['9:05', 'am']",Basic,2022-10-12
+231 ,Air France,FCO,CDG,nonstop ,2h 15m ,"['8:05', 'pm']","['10:20', 'pm']",Light,2022-10-12
+126 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['8:25', 'pm']","['10:35', 'pm']",Economy,2022-10-12
+56 ,Ryanair,FCO,BVA,1 stop ,13h 35m ,"['7:25', 'pm']","['9:00', 'am', '+1']",Standard,2022-10-12
+179 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['8:25', 'pm']","['10:35', 'pm']",Basic,2022-10-12
+192 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['8:10', 'pm']","['10:15', 'pm']",Standard,2022-10-12
+192 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['2:45', 'pm']","['4:50', 'pm']",Standard,2022-10-12
+174 ,ITA Airways,FCO,ORY,1 stop ,3h 45m ,"['6:00', 'pm']","['9:45', 'pm']",Economy,2022-10-12
+185 ,ITA Airways,FCO,ORY,1 stop ,3h 35m ,"['9:00', 'am']","['12:35', 'pm']",Economy,2022-10-12
+231 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['9:45', 'am']","['11:50', 'am']",Standard,2022-10-12
+270 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['12:15', 'pm']","['2:25', 'pm']",Economy,2022-10-12
+244 ,ITA Airways,FCO,CDG,nonstop ,2h 10m ,"['9:30', 'pm']","['11:40', 'pm']",Economy,2022-10-12
+284 ,Transavia France,FCO,ORY,nonstop ,2h 05m ,"['7:35', 'pm']","['9:40', 'pm']",Economy,2022-10-12
+185 ,ITA Airways,FCO,ORY,1 stop ,4h 35m ,"['8:00', 'am']","['12:35', 'pm']",Economy,2022-10-12
+174 ,ITA Airways,FCO,ORY,1 stop ,5h 10m ,"['1:30', 'pm']","['6:40', 'pm']",Economy,2022-10-12
+326 ,Ryanair,CIA,BVA,nonstop ,2h 05m ,"['11:15', 'am']","['1:20', 'pm']",Standard,2022-10-12
+326 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['6:55', 'am']","['9:05', 'am']",Economy,2022-10-12
+174 ,ITA Airways,FCO,ORY,1 stop ,5h 45m ,"['4:00', 'pm']","['9:45', 'pm']",Economy,2022-10-12
+111 ,Transavia France,FCO,ORY,nonstop ,2h 05m ,"['2:35', 'pm']","['4:40', 'pm']",Economy,2022-10-12
+110 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['6:55', 'am']","['9:05', 'am']",Economy,2022-10-12
+114 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['8:25', 'pm']","['10:30', 'pm']",Standard,2022-10-12
+114 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['3:10', 'pm']","['5:15', 'pm']",Standard,2022-10-12
+116 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['9:40', 'am']","['11:45', 'am']",Standard,2022-10-12
+143 ,ITA Airways,FCO,CDG,nonstop ,2h 10m ,"['3:15', 'pm']","['5:25', 'pm']",Economy,2022-10-12
+128 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['9:35', 'am']","['11:45', 'am']",Economy,2022-10-12
+157 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['5:50', 'pm']","['8:00', 'pm']",Economy,2022-10-12
+143 ,ITA Airways,FCO,CDG,nonstop ,2h 10m ,"['9:30', 'pm']","['11:40', 'pm']",Economy,2022-10-12
+187 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['9:35', 'am']","['11:45', 'am']",Basic,2022-10-12
+217 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['5:50', 'pm']","['8:00', 'pm']",Basic,2022-10-12
+263 ,Air France,FCO,CDG,nonstop ,2h 15m ,"['8:05', 'pm']","['10:20', 'pm']",Light,2022-10-12
+306 ,ITA Airways,FCO,CDG,nonstop ,2h 10m ,"['8:50', 'am']","['11:00', 'am']",Economy,2022-10-12
+440 ,Air France,FCO,CDG,nonstop ,2h 10m ,"['5:05', 'pm']","['7:15', 'pm']",Light,2022-10-12
+530 ,Air France,FCO,CDG,nonstop ,2h 10m ,"['9:55', 'am']","['12:05', 'pm']",NaN,2022-10-12
+172 ,Ryanair,CIA,BVA,nonstop ,2h 05m ,"['6:30', 'pm']","['8:35', 'pm']",Standard,2022-10-12
+78 ,"Wizz Air, BlaBlaBus ",FCO,PAR,1 stop ,12h 00m ,"['7:00', 'am']","['7:00', 'pm']",Economy,2022-10-12
+179 ,Transavia France,FCO,ORY,nonstop ,2h 05m ,"['8:55', 'am']","['11:00', 'am']",Economy,2022-10-12
+186 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['11:20', 'am']","['1:25', 'pm']",Standard,2022-10-12
+196 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['8:25', 'pm']","['10:30', 'pm']",Standard,2022-10-12
+203 ,Transavia France,FCO,ORY,nonstop ,2h 05m ,"['7:20', 'pm']","['9:25', 'pm']",Economy,2022-10-12
+244 ,ITA Airways,FCO,CDG,nonstop ,2h 10m ,"['8:50', 'am']","['11:00', 'am']",Economy,2022-10-12
+236 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['12:15', 'pm']","['2:25', 'pm']",Economy,2022-10-12
+236 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['9:35', 'am']","['11:45', 'am']",Economy,2022-10-12
+260 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['3:10', 'pm']","['5:15', 'pm']",Standard,2022-10-12
+174 ,ITA Airways,FCO,ORY,1 stop ,3h 45m ,"['6:00', 'pm']","['9:45', 'pm']",Economy,2022-10-12
+280 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['12:15', 'pm']","['2:25', 'pm']",Flexible,2022-10-12
+280 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['9:35', 'am']","['11:45', 'am']",Flexible,2022-10-12
+274 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['7:10', 'pm']","['9:20', 'pm']",Economy,2022-10-12
+274 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['8:25', 'pm']","['10:35', 'pm']",Economy,2022-10-12
+174 ,ITA Airways,FCO,ORY,1 stop ,3h 55m ,"['3:00', 'pm']","['6:55', 'pm']",Economy,2022-10-12
+69 ,Ryanair,CIA,BVA,nonstop ,2h 05m ,"['7:20', 'am']","['9:25', 'am']",Standard,2022-10-12
+92 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['8:25', 'pm']","['10:30', 'pm']",Standard,2022-10-12
+93 ,Transavia France,FCO,ORY,nonstop ,2h 05m ,"['8:45', 'pm']","['10:50', 'pm']",Economy,2022-10-12
+98 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['6:40', 'pm']","['8:50', 'pm']",Economy,2022-10-12
+98 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['8:25', 'pm']","['10:35', 'pm']",Economy,2022-10-12
+110 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['3:10', 'pm']","['5:15', 'pm']",Standard,2022-10-12
+127 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['9:45', 'am']","['11:50', 'am']",Standard,2022-10-12
+125 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['1:50', 'pm']","['4:00', 'pm']",Economy,2022-10-12
+153 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['9:35', 'am']","['11:45', 'am']",Economy,2022-10-12
+153 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['6:55', 'am']","['9:05', 'am']",Economy,2022-10-12
+141 ,ITA Airways,FCO,CDG,nonstop ,2h 10m ,"['9:30', 'pm']","['11:40', 'pm']",Economy,2022-10-12
+156 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['6:40', 'pm']","['8:50', 'pm']",Basic,2022-10-12
+156 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['8:25', 'pm']","['10:35', 'pm']",Basic,2022-10-12
+181 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['1:50', 'pm']","['4:00', 'pm']",Basic,2022-10-12
+176 ,ITA Airways,FCO,ORY,1 stop ,3h 35m ,"['9:00', 'am']","['12:35', 'pm']",Economy,2022-10-12
+23 ,Ryanair,CIA,BVA,nonstop ,2h 05m ,"['5:20', 'pm']","['7:25', 'pm']",Standard,2022-10-12
+42 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['8:25', 'pm']","['10:35', 'pm']",Economy,2022-10-12
+44 ,Ryanair,CIA,BVA,nonstop ,2h 05m ,"['11:15', 'am']","['1:20', 'pm']",Standard,2022-10-12
+52 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['8:25', 'pm']","['10:30', 'pm']",Standard,2022-10-12
+51 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['7:15', 'pm']","['9:25', 'pm']",Economy,2022-10-12
+68 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['3:10', 'pm']","['5:15', 'pm']",Standard,2022-10-12
+73 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['9:45', 'am']","['11:50', 'am']",Standard,2022-10-12
+76 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['6:55', 'am']","['9:05', 'am']",Economy,2022-10-12
+76 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['8:25', 'pm']","['10:35', 'pm']",Basic,2022-10-12
+117 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['6:55', 'am']","['9:05', 'am']",Basic,2022-10-12
+93 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['7:15', 'pm']","['9:25', 'pm']",Basic,2022-10-12
+117 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['12:15', 'pm']","['2:25', 'pm']",Economy,2022-10-12
+141 ,ITA Airways,FCO,CDG,nonstop ,2h 10m ,"['3:15', 'pm']","['5:25', 'pm']",Economy,2022-10-12
+37 ,Ryanair,CIA,BVA,1 stop ,5h 45m ,"['6:30', 'am']","['12:15', 'pm']",Standard,2022-10-12
+141 ,ITA Airways,FCO,CDG,nonstop ,2h 10m ,"['9:30', 'pm']","['11:40', 'pm']",Economy,2022-10-12
+19 ,Ryanair,CIA,BVA,nonstop ,2h 05m ,"['8:20', 'pm']","['10:25', 'pm']",Standard,2022-10-12
+18 ,Ryanair,CIA,BVA,nonstop ,2h 05m ,"['6:45', 'am']","['8:50', 'am']",Standard,2022-10-12
+48 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['8:25', 'pm']","['10:30', 'pm']",Standard,2022-10-12
+52 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['3:10', 'pm']","['5:15', 'pm']",Standard,2022-10-12
+51 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['2:50', 'pm']","['5:00', 'pm']",Economy,2022-10-12
+51 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['6:55', 'am']","['9:05', 'am']",Economy,2022-10-12
+55 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['9:45', 'am']","['11:50', 'am']",Standard,2022-10-12
+56 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['7:10', 'pm']","['9:20', 'pm']",Economy,2022-10-12
+56 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['12:15', 'pm']","['2:25', 'pm']",Economy,2022-10-12
+41 ,"Ryanair, SNCF ",CIA,PAR,1 stop ,5h 12m ,"['6:45', 'am']","['11:57', 'am']",Standard,2022-10-12
+93 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['7:10', 'pm']","['9:20', 'pm']",Basic,2022-10-12
+93 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['2:50', 'pm']","['5:00', 'pm']",Basic,2022-10-12
+123 ,ITA Airways,FCO,CDG,nonstop ,2h 10m ,"['3:15', 'pm']","['5:25', 'pm']",Economy,2022-10-12
+93 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['12:15', 'pm']","['2:25', 'pm']",Basic,2022-10-12
+93 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['6:55', 'am']","['9:05', 'am']",Basic,2022-10-12
+24 ,Ryanair,CIA,BVA,nonstop ,2h 05m ,"['6:10', 'pm']","['8:15', 'pm']",Standard,2022-10-12
+47 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['8:25', 'pm']","['10:35', 'pm']",Economy,2022-10-12
+53 ,Transavia France,FCO,ORY,nonstop ,2h 05m ,"['8:45', 'pm']","['10:50', 'pm']",Economy,2022-10-12
+55 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['8:25', 'pm']","['10:30', 'pm']",Standard,2022-10-12
+61 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['7:10', 'pm']","['9:20', 'pm']",Economy,2022-10-12
+61 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['9:35', 'am']","['11:45', 'am']",Economy,2022-10-12
+61 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['6:55', 'am']","['9:05', 'am']",Economy,2022-10-12
+68 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['3:10', 'pm']","['5:15', 'pm']",Standard,2022-10-12
+70 ,easyJet,FCO,ORY,nonstop ,2h 05m ,"['9:45', 'am']","['11:50', 'am']",Standard,2022-10-12
+71 ,Vueling,FCO,ORY,nonstop ,2h 10m ,"['1:25', 'pm']","['3:35', 'pm']",Economy,2022-10-12
+80 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['8:25', 'pm']","['10:35', 'pm']",Basic,2022-10-12
+117 ,Iberia,FCO,ORY,nonstop ,2h 10m ,"['1:25', 'pm']","['3:35', 'pm']",Basic,2022-10-12
+34 ,Ryanair,CIA,BVA,1 stop ,4h 30m ,"['8:00', 'am']","['12:30', 'pm']",Standard,2022-10-12
+123 ,ITA Airways,FCO,CDG,nonstop ,2h 10m ,"['3:15', 'pm']","['5:25', 'pm']",Economy,2022-10-12
+123 ,ITA Airways,FCO,CDG,nonstop ,2h 10m ,"['8:50', 'am']","['11:00', 'am']",Economy,2022-10-12
+221 ,easyJet,FCO,BER,nonstop ,2h 15m ,"['7:55', 'pm']","['10:10', 'pm']",Standard,2022-10-12
+137 ,Multiple Airlines,ROM,BER,2 stops ,14h 30m ,"['7:55', 'am']","['10:25', 'pm']",Standard,2022-10-12
+177 ,SWISS,FCO,BER,1 stop ,3h 50m ,"['3:05', 'pm']","['6:55', 'pm']",Economy,2022-10-12
+331 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['8:25', 'pm']","['10:30', 'pm']",Standard,2022-10-12
+209 ,Lufthansa,FCO,BER,1 stop ,3h 20m ,"['3:45', 'pm']","['7:05', 'pm']",Economy Light,2022-10-12
+176 ,Lufthansa,FCO,BER,1 stop ,3h 50m ,"['10:05', 'am']","['1:55', 'pm']",Economy Light,2022-10-12
+174 ,Brussels Airlines,FCO,BER,1 stop ,4h 20m ,"['5:50', 'pm']","['10:10', 'pm']",NaN,2022-10-12
+347 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['8:55', 'am']","['11:00', 'am']",Standard,2022-10-12
+176 ,Lufthansa,FCO,BER,1 stop ,4h 30m ,"['1:25', 'pm']","['5:55', 'pm']",Economy Light,2022-10-12
+209 ,Lufthansa,FCO,BER,1 stop ,4h 20m ,"['3:45', 'pm']","['8:05', 'pm']",Economy Light,2022-10-12
+238 ,Lufthansa,FCO,BER,1 stop ,4h 00m ,"['6:55', 'am']","['10:55', 'am']",Economy Light,2022-10-12
+176 ,Lufthansa,FCO,BER,1 stop ,5h 05m ,"['2:50', 'pm']","['7:55', 'pm']",Economy Light,2022-10-12
+186 ,Ryanair,FCO,BER,1 stop ,4h 35m ,"['8:50', 'am']","['1:25', 'pm']",Standard,2022-10-12
+306 ,Lufthansa,FCO,BER,1 stop ,4h 05m ,"['2:50', 'pm']","['6:55', 'pm']",Economy Light,2022-10-12
+176 ,Lufthansa,FCO,BER,1 stop ,5h 50m ,"['10:05', 'am']","['3:55', 'pm']",Economy Light,2022-10-12
+176 ,Lufthansa,FCO,BER,1 stop ,6h 05m ,"['2:50', 'pm']","['8:55', 'pm']",Economy Light,2022-10-12
+252 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['9:05', 'am']","['11:10', 'am']",Standard,2022-10-12
+185 ,"Wizz Air, FlixBus ",FCO,BER,1 stop ,13h 25m ,"['8:45', 'pm']","['10:10', 'am', '+1']",Economy,2022-10-12
+309 ,easyJet,FCO,BER,nonstop ,2h 15m ,"['10:20', 'am']","['12:35', 'pm']",Standard,2022-10-12
+338 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['8:25', 'pm']","['10:30', 'pm']",Standard,2022-10-12
+230 ,Lufthansa,FCO,BER,1 stop ,3h 50m ,"['10:05', 'am']","['1:55', 'pm']",Economy Light,2022-10-12
+221 ,Lufthansa,FCO,BER,1 stop ,4h 00m ,"['6:55', 'am']","['10:55', 'am']",Economy Light,2022-10-12
+205 ,Brussels Airlines,FCO,BER,1 stop ,4h 20m ,"['5:50', 'pm']","['10:10', 'pm']",NaN,2022-10-12
+267 ,Austrian Airlines,FCO,BER,1 stop ,3h 25m ,"['9:00', 'am']","['12:25', 'pm']",Economy Light,2022-10-12
+302 ,SWISS,FCO,BER,1 stop ,3h 50m ,"['3:05', 'pm']","['6:55', 'pm']",Economy,2022-10-12
+279 ,SWISS,FCO,BER,1 stop ,4h 25m ,"['9:45', 'am']","['2:10', 'pm']",Economy,2022-10-12
+286 ,Lufthansa,FCO,BER,1 stop ,4h 30m ,"['1:25', 'pm']","['5:55', 'pm']",Economy Light,2022-10-12
+247 ,Lufthansa,FCO,BER,1 stop ,5h 30m ,"['1:25', 'pm']","['6:55', 'pm']",Economy Light,2022-10-12
+233 ,Lufthansa,FCO,BER,1 stop ,5h 50m ,"['10:05', 'am']","['3:55', 'pm']",Economy Light,2022-10-12
+388 ,Lufthansa,FCO,BER,1 stop ,4h 05m ,"['2:50', 'pm']","['6:55', 'pm']",Economy Light,2022-10-12
+248 ,Lufthansa,FCO,BER,1 stop ,6h 00m ,"['6:55', 'am']","['12:55', 'pm']",Economy Light,2022-10-12
+188 ,Lufthansa,FCO,BER,1 stop ,7h 00m ,"['6:55', 'am']","['1:55', 'pm']",Economy Light,2022-10-12
+253 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['8:35', 'am']","['10:40', 'am']",Standard,2022-10-12
+142 ,"Wizz Air, FlixBus ",FCO,BER,1 stop ,12h 45m ,"['9:15', 'am']","['10:00', 'pm']",Economy,2022-10-12
+291 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['8:25', 'pm']","['10:30', 'pm']",Standard,2022-10-12
+184 ,Eurowings,FCO,BER,1 stop ,3h 50m ,"['9:50', 'am']","['1:40', 'pm']",Basic,2022-10-12
+179 ,Brussels Airlines,FCO,BER,1 stop ,4h 20m ,"['5:50', 'pm']","['10:10', 'pm']",NaN,2022-10-12
+234 ,Lufthansa,FCO,BER,1 stop ,3h 55m ,"['6:30', 'pm']","['10:25', 'pm']",Economy Light,2022-10-12
+308 ,Lufthansa,FCO,BER,1 stop ,3h 50m ,"['3:45', 'pm']","['7:35', 'pm']",Economy Light,2022-10-12
+428 ,Lufthansa,FCO,BER,1 stop ,3h 20m ,"['7:15', 'pm']","['10:35', 'pm']",Economy Light,2022-10-12
+383 ,SWISS,FCO,BER,1 stop ,4h 25m ,"['9:45', 'am']","['2:10', 'pm']",Economy,2022-10-12
+394 ,Lufthansa,FCO,BER,1 stop ,4h 00m ,"['8:05', 'am']","['12:05', 'pm']",Economy Light,2022-10-12
+240 ,Lufthansa,FCO,BER,1 stop ,6h 05m ,"['2:50', 'pm']","['8:55', 'pm']",Economy Light,2022-10-12
+400 ,Lufthansa,FCO,BER,1 stop ,4h 05m ,"['2:50', 'pm']","['6:55', 'pm']",Economy Light,2022-10-12
+308 ,Lufthansa,FCO,BER,1 stop ,5h 30m ,"['1:25', 'pm']","['6:55', 'pm']",Economy Light,2022-10-12
+285 ,KLM,FCO,BER,1 stop ,5h 35m ,"['12:40', 'pm']","['6:15', 'pm']",Light,2022-10-12
+308 ,Lufthansa,FCO,BER,1 stop ,5h 40m ,"['12:55', 'pm']","['6:35', 'pm']",Economy Light,2022-10-12
+345 ,Lufthansa,FCO,BER,1 stop ,5h 00m ,"['6:55', 'am']","['11:55', 'am']",Economy Light,2022-10-12
+145 ,easyJet,FCO,BER,nonstop ,2h 15m ,"['7:55', 'pm']","['10:10', 'pm']",Standard,2022-10-12
+88 ,Multiple Airlines,CIA,BER,2 stops ,10h 11m ,"['6:55', 'am']","['5:06', 'pm']",Standard,2022-10-12
+257 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['8:55', 'am']","['11:00', 'am']",Standard,2022-10-12
+253 ,easyJet,FCO,BER,nonstop ,2h 15m ,"['2:40', 'pm']","['4:55', 'pm']",Standard,2022-10-12
+244 ,Lufthansa,FCO,BER,1 stop ,3h 20m ,"['3:45', 'pm']","['7:05', 'pm']",Economy Light,2022-10-12
+219 ,Lufthansa,FCO,BER,1 stop ,4h 00m ,"['8:05', 'am']","['12:05', 'pm']",Economy Light,2022-10-12
+333 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['8:10', 'pm']","['10:15', 'pm']",Standard,2022-10-12
+275 ,Lufthansa,FCO,BER,1 stop ,3h 20m ,"['7:15', 'pm']","['10:35', 'pm']",Economy Light,2022-10-12
+278 ,Lufthansa,FCO,BER,1 stop ,3h 15m ,"['10:50', 'am']","['2:05', 'pm']",Economy Light,2022-10-12
+250 ,Lufthansa,FCO,BER,1 stop ,4h 00m ,"['6:55', 'am']","['10:55', 'am']",Economy Light,2022-10-12
+267 ,Lufthansa,FCO,BER,1 stop ,4h 05m ,"['2:50', 'pm']","['6:55', 'pm']",Economy Light,2022-10-12
+235 ,Lufthansa,FCO,BER,1 stop ,5h 00m ,"['6:55', 'am']","['11:55', 'am']",Economy Light,2022-10-12
+303 ,Lufthansa,FCO,BER,1 stop ,3h 55m ,"['6:30', 'pm']","['10:25', 'pm']",Economy Light,2022-10-12
+267 ,Lufthansa,FCO,BER,1 stop ,4h 30m ,"['1:25', 'pm']","['5:55', 'pm']",Economy Light,2022-10-12
+281 ,Lufthansa,FCO,BER,1 stop ,4h 20m ,"['3:45', 'pm']","['8:05', 'pm']",Economy Light,2022-10-12
+282 ,Brussels Airlines,FCO,BER,1 stop ,4h 20m ,"['5:50', 'pm']","['10:10', 'pm']",NaN,2022-10-12
+127 ,easyJet,FCO,BER,nonstop ,2h 10m ,"['10:50', 'am']","['1:00', 'pm']",Standard,2022-10-12
+105 ,"Wizz Air, FlixBus ",FCO,BER,1 stop ,9h 20m ,"['6:15', 'am']","['3:35', 'pm']",Economy,2022-10-12
+160 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['8:25', 'pm']","['10:30', 'pm']",Standard,2022-10-12
+151 ,Brussels Airlines,FCO,BER,1 stop ,4h 20m ,"['5:50', 'pm']","['10:10', 'pm']",NaN,2022-10-12
+180 ,SWISS,FCO,BER,1 stop ,3h 50m ,"['3:05', 'pm']","['6:55', 'pm']",Economy,2022-10-12
+206 ,Lufthansa,FCO,BER,1 stop ,3h 55m ,"['6:30', 'pm']","['10:25', 'pm']",Economy Light,2022-10-12
+206 ,Lufthansa,FCO,BER,1 stop ,4h 05m ,"['2:50', 'pm']","['6:55', 'pm']",Economy Light,2022-10-12
+239 ,Lufthansa,FCO,BER,1 stop ,3h 50m ,"['10:05', 'am']","['1:55', 'pm']",Economy Light,2022-10-12
+229 ,Austrian Airlines,FCO,BER,1 stop ,3h 25m ,"['9:00', 'am']","['12:25', 'pm']",Economy Light,2022-10-12
+337 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['8:55', 'am']","['11:00', 'am']",Standard,2022-10-12
+206 ,Lufthansa,FCO,BER,1 stop ,5h 05m ,"['2:50', 'pm']","['7:55', 'pm']",Economy Light,2022-10-12
+138 ,Brussels Airlines,FCO,BER,1 stop ,7h 40m ,"['10:15', 'am']","['5:55', 'pm']",NaN,2022-10-12
+230 ,Lufthansa,FCO,BER,1 stop ,5h 50m ,"['10:05', 'am']","['3:55', 'pm']",Economy Light,2022-10-12
+222 ,Lufthansa,FCO,BER,1 stop ,6h 05m ,"['2:50', 'pm']","['8:55', 'pm']",Economy Light,2022-10-12
+230 ,Austrian Airlines,FCO,BER,1 stop ,5h 20m ,"['9:00', 'am']","['2:20', 'pm']",Economy Light,2022-10-12
+304 ,Lufthansa,FCO,BER,1 stop ,4h 30m ,"['1:25', 'pm']","['5:55', 'pm']",Economy Light,2022-10-12
+162 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['4:00', 'pm']","['6:05', 'pm']",Standard,2022-10-12
+97 ,"Ryanair, FlixBus ",FCO,BER,1 stop ,9h 20m ,"['12:55', 'pm']","['10:15', 'pm']",Standard,2022-10-12
+183 ,easyJet,FCO,BER,nonstop ,2h 15m ,"['10:20', 'am']","['12:35', 'pm']",Standard,2022-10-12
+153 ,Brussels Airlines,FCO,BER,1 stop ,4h 20m ,"['5:50', 'pm']","['10:10', 'pm']",NaN,2022-10-12
+167 ,Eurowings,FCO,BER,1 stop ,3h 55m ,"['12:50', 'pm']","['4:45', 'pm']",Basic,2022-10-12
+226 ,Lufthansa,FCO,BER,1 stop ,3h 20m ,"['3:45', 'pm']","['7:05', 'pm']",Economy Light,2022-10-12
+209 ,SWISS,FCO,BER,1 stop ,3h 50m ,"['3:05', 'pm']","['6:55', 'pm']",Economy,2022-10-12
+121 ,Eurowings,FCO,BER,1 stop ,5h 35m ,"['12:50', 'pm']","['6:25', 'pm']",Basic,2022-10-12
+209 ,SWISS,FCO,BER,1 stop ,4h 25m ,"['9:45', 'am']","['2:10', 'pm']",Economy,2022-10-12
+226 ,Lufthansa,FCO,BER,1 stop ,4h 20m ,"['3:45', 'pm']","['8:05', 'pm']",Economy Light,2022-10-12
+172 ,Austrian Airlines,FCO,BER,1 stop ,5h 20m ,"['9:00', 'am']","['2:20', 'pm']",Economy Light,2022-10-12
+121 ,Eurowings,FCO,BER,1 stop ,7h 00m ,"['12:50', 'pm']","['7:50', 'pm']",Basic,2022-10-12
+147 ,"ITA Airways, easyJet ",FCO,BER,1 stop ,5h 15m ,"['1:30', 'pm']","['6:45', 'pm']",Economy,2022-10-12
+308 ,Lufthansa,FCO,BER,1 stop ,3h 20m ,"['7:15', 'pm']","['10:35', 'pm']",Economy Light,2022-10-12
+178 ,KLM,FCO,BER,1 stop ,5h 35m ,"['12:40', 'pm']","['6:15', 'pm']",Light,2022-10-12
+163 ,"ITA Airways, easyJet ",FCO,BER,1 stop ,5h 10m ,"['4:00', 'pm']","['9:10', 'pm']",Economy,2022-10-12
+160 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['8:25', 'pm']","['10:30', 'pm']",Standard,2022-10-12
+74 ,"Wizz Air, Regiojet ",FCO,BER,1 stop ,14h 45m ,"['8:15', 'pm']","['11:00', 'am', '+1']",Economy,2022-10-12
+128 ,Lufthansa,FCO,BER,1 stop ,3h 15m ,"['10:50', 'am']","['2:05', 'pm']",Economy Light,2022-10-12
+147 ,Lufthansa,FCO,BER,1 stop ,4h 10m ,"['12:55', 'pm']","['5:05', 'pm']",Economy Light,2022-10-12
+153 ,Lufthansa,FCO,BER,1 stop ,4h 05m ,"['2:50', 'pm']","['6:55', 'pm']",Economy Light,2022-10-12
+139 ,Lufthansa,FCO,BER,1 stop ,4h 30m ,"['1:25', 'pm']","['5:55', 'pm']",Economy Light,2022-10-12
+124 ,Lufthansa,FCO,BER,1 stop ,5h 10m ,"['12:55', 'pm']","['6:05', 'pm']",Economy Light,2022-10-12
+225 ,Lufthansa,FCO,BER,1 stop ,3h 20m ,"['3:45', 'pm']","['7:05', 'pm']",Economy Light,2022-10-12
+139 ,Lufthansa,FCO,BER,1 stop ,5h 05m ,"['2:50', 'pm']","['7:55', 'pm']",Economy Light,2022-10-12
+233 ,SWISS,FCO,BER,1 stop ,3h 50m ,"['3:05', 'pm']","['6:55', 'pm']",Economy,2022-10-12
+238 ,Lufthansa,FCO,BER,1 stop ,3h 55m ,"['6:30', 'pm']","['10:25', 'pm']",Economy Light,2022-10-12
+153 ,Lufthansa,FCO,BER,1 stop ,5h 30m ,"['1:25', 'pm']","['6:55', 'pm']",Economy Light,2022-10-12
+124 ,Lufthansa,FCO,BER,1 stop ,6h 10m ,"['12:55', 'pm']","['7:05', 'pm']",Economy Light,2022-10-12
+225 ,Lufthansa,FCO,BER,1 stop ,4h 20m ,"['3:45', 'pm']","['8:05', 'pm']",Economy Light,2022-10-12
+139 ,Lufthansa,FCO,BER,1 stop ,6h 05m ,"['2:50', 'pm']","['8:55', 'pm']",Economy Light,2022-10-12
+352 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['9:05', 'am']","['11:10', 'am']",Standard,2022-10-12
+143 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['8:25', 'pm']","['10:30', 'pm']",Standard,2022-10-12
+107 ,"Wizz Air, FlixBus ",FCO,BER,1 stop ,9h 25m ,"['12:10', 'pm']","['9:35', 'pm']",Economy,2022-10-12
+141 ,easyJet,FCO,BER,nonstop ,2h 15m ,"['7:55', 'pm']","['10:10', 'pm']",Standard,2022-10-12
+134 ,Brussels Airlines,FCO,BER,1 stop ,4h 20m ,"['5:50', 'pm']","['10:10', 'pm']",NaN,2022-10-12
+115 ,"Italotreno, Ryanair ",ROM,BER,1 stop ,5h 30m ,"['1:05', 'pm']","['6:35', 'pm']",Standard,2022-10-12
+305 ,Ryanair,FCO,BER,nonstop ,2h 05m ,"['8:55', 'am']","['11:00', 'am']",Standard,2022-10-12
+219 ,Lufthansa,FCO,BER,1 stop ,4h 00m ,"['6:55', 'am']","['10:55', 'am']",Economy Light,2022-10-12
+135 ,Ryanair,FCO,BER,1 stop ,4h 35m ,"['8:50', 'am']","['1:25', 'pm']",Standard,2022-10-12
+230 ,Lufthansa,FCO,BER,1 stop ,3h 55m ,"['6:30', 'pm']","['10:25', 'pm']",Economy Light,2022-10-12
+241 ,SWISS,FCO,BER,1 stop ,3h 50m ,"['3:05', 'pm']","['6:55', 'pm']",Economy,2022-10-12
+277 ,Lufthansa,FCO,BER,1 stop ,3h 20m ,"['7:15', 'pm']","['10:35', 'pm']",Economy Light,2022-10-12
+210 ,SWISS,FCO,BER,1 stop ,4h 25m ,"['9:45', 'am']","['2:10', 'pm']",Economy,2022-10-12
+309 ,Lufthansa,FCO,BER,1 stop ,3h 20m ,"['3:45', 'pm']","['7:05', 'pm']",Economy Light,2022-10-12
+285 ,Lufthansa,FCO,BER,1 stop ,3h 50m ,"['10:05', 'am']","['1:55', 'pm']",Economy Light,2022-10-12
+174 ,"ITA Airways, Ryanair ",FCO,BER,1 stop ,5h 15m ,"['1:20', 'pm']","['6:35', 'pm']",Economy,2022-10-12
+186 ,Eurowings,FCO,BER,1 stop ,5h 50m ,"['1:30', 'pm']","['7:20', 'pm']",Basic,2022-10-12
+169 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['8:40', 'pm']","['11:50', 'pm']",LowFare,2022-10-12
+150 ,Flyr,FCO,OSL,nonstop ,3h 20m ,"['1:05', 'pm']","['4:25', 'pm']",NaN,2022-10-12
+88 ,Ryanair,FCO,TRF,2 stops ,21h 30m ,"['11:05', 'am']","['8:35', 'am', '+1']",Standard,2022-10-12
+175 ,Scandinavian Airlines,FCO,OSL,nonstop ,3h 10m ,"['12:45', 'pm']","['3:55', 'pm']",NaN,2022-10-12
+164 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['8:40', 'pm']","['11:50', 'pm']",LowFare,2022-10-12
+231 ,Brussels Airlines,FCO,OSL,1 stop ,5h 00m ,"['5:50', 'pm']","['10:50', 'pm']",NaN,2022-10-12
+264 ,Scandinavian Airlines,FCO,OSL,1 stop ,4h 50m ,"['1:25', 'pm']","['6:15', 'pm']",NaN,2022-10-12
+245 ,Norwegian,FCO,OSL,1 stop ,5h 00m ,"['10:25', 'am']","['3:25', 'pm']",LowFare,2022-10-12
+171 ,"Ryanair, Flyr ",FCO,OSL,1 stop ,5h 55m ,"['3:05', 'pm']","['9:00', 'pm']",Standard,2022-10-12
+275 ,Lufthansa,FCO,OSL,1 stop ,4h 35m ,"['1:25', 'pm']","['6:00', 'pm']",Economy Light,2022-10-12
+256 ,Scandinavian Airlines,FCO,OSL,1 stop ,5h 35m ,"['11:30', 'am']","['5:05', 'pm']",NaN,2022-10-12
+286 ,Norwegian,FCO,OSL,1 stop ,5h 25m ,"['1:50', 'pm']","['7:15', 'pm']",LowFare,2022-10-12
+231 ,Brussels Airlines,FCO,OSL,1 stop ,6h 55m ,"['10:15', 'am']","['5:10', 'pm']",NaN,2022-10-12
+246 ,Norwegian,FCO,OSL,1 stop ,6h 15m ,"['10:25', 'am']","['4:40', 'pm']",LowFare,2022-10-12
+178 ,"Wizz Air, Norse Atlantic Airways ",FCO,OSL,1 stop ,7h 00m ,"['8:10', 'am']","['3:10', 'pm']",Economy,2022-10-12
+217 ,"Ryanair, Norwegian ",FCO,OSL,1 stop ,6h 25m ,"['3:05', 'pm']","['9:30', 'pm']",Standard,2022-10-12
+280 ,Norwegian,FCO,OSL,1 stop ,6h 05m ,"['1:50', 'pm']","['7:55', 'pm']",LowFare,2022-10-12
+211 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['8:40', 'pm']","['11:50', 'pm']",LowFare,2022-10-12
+182 ,Flyr,FCO,OSL,nonstop ,3h 20m ,"['12:25', 'pm']","['3:45', 'pm']",NaN,2022-10-12
+162 ,TAP AIR PORTUGAL,FCO,OSL,1 stop ,15h 45m ,"['8:15', 'pm']","['12:00', 'pm', '+1']",Discount,2022-10-12
+201 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['8:40', 'pm']","['11:50', 'pm']",LowFare,2022-10-12
+259 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['10:55', 'am']","['2:05', 'pm']",LowFare,2022-10-12
+231 ,Brussels Airlines,FCO,OSL,1 stop ,5h 00m ,"['5:50', 'pm']","['10:50', 'pm']",NaN,2022-10-12
+256 ,Scandinavian Airlines,FCO,OSL,1 stop ,5h 10m ,"['10:15', 'am']","['3:25', 'pm']",NaN,2022-10-12
+262 ,Scandinavian Airlines,FCO,OSL,1 stop ,5h 45m ,"['2:30', 'pm']","['8:15', 'pm']",NaN,2022-10-12
+256 ,Scandinavian Airlines,FCO,OSL,1 stop ,6h 50m ,"['10:15', 'am']","['5:05', 'pm']",NaN,2022-10-12
+411 ,Norwegian,FCO,OSL,1 stop ,5h 00m ,"['10:25', 'am']","['3:25', 'pm']",LowFare,2022-10-12
+386 ,Norwegian,FCO,OSL,1 stop ,5h 35m ,"['10:25', 'am']","['4:00', 'pm']",LowFare,2022-10-12
+342 ,"Ryanair, Flyr ",FCO,OSL,1 stop ,5h 20m ,"['4:55', 'pm']","['10:15', 'pm']",Standard,2022-10-12
+262 ,Scandinavian Airlines,FCO,OSL,1 stop ,7h 30m ,"['2:30', 'pm']","['10:00', 'pm']",NaN,2022-10-12
+265 ,Norwegian,FCO,OSL,1 stop ,7h 05m ,"['10:25', 'am']","['5:30', 'pm']",LowFare,2022-10-12
+207 ,"Wizz Air, Norse Atlantic Airways ",FCO,OSL,1 stop ,6h 55m ,"['8:15', 'am']","['3:10', 'pm']",Economy,2022-10-12
+524 ,Austrian Airlines,FCO,OSL,1 stop ,4h 35m ,"['9:00', 'am']","['1:35', 'pm']",Economy Light,2022-10-12
+418 ,"Ryanair, Scandinavian Airlines ",FCO,OSL,1 stop ,5h 10m ,"['8:00', 'am']","['1:10', 'pm']",Standard,2022-10-12
+317 ,British Airways,FCO,OSL,1 stop ,7h 35m ,"['11:25', 'am']","['7:00', 'pm']",Plus,2022-10-12
+462 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['8:40', 'pm']","['11:50', 'pm']",Flex,2022-10-12
+160 ,"Ryanair, British Airways ",CIA,OSL,1 stop ,9h 20m ,"['6:50', 'am']","['4:10', 'pm']",Standard,2022-10-12
+364 ,Lufthansa,FCO,OSL,1 stop ,5h 00m ,"['6:30', 'pm']","['11:30', 'pm']",Economy Light,2022-10-12
+397 ,Lufthansa,FCO,OSL,1 stop ,4h 35m ,"['1:25', 'pm']","['6:00', 'pm']",Economy Light,2022-10-12
+223 ,"Wizz Air, Norse Atlantic Airways ",FCO,OSL,1 stop ,6h 40m ,"['8:10', 'am']","['2:50', 'pm']",Economy,2022-10-12
+274 ,British Airways,FCO,OSL,1 stop ,7h 35m ,"['11:25', 'am']","['7:00', 'pm']",Plus,2022-10-12
+274 ,"Ryanair, Norwegian ",CIA,OSL,1 stop ,6h 25m ,"['9:50', 'am']","['4:15', 'pm']",Standard,2022-10-12
+203 ,"Vueling, Norse Atlantic Airways ",FCO,OSL,1 stop ,7h 50m ,"['7:00', 'am']","['2:50', 'pm']",Economy,2022-10-12
+379 ,Vueling,FCO,OSL,1 stop ,6h 10m ,"['2:30', 'pm']","['8:40', 'pm']",Economy,2022-10-12
+434 ,Lufthansa,FCO,OSL,1 stop ,5h 25m ,"['10:05', 'am']","['3:30', 'pm']",Economy Light,2022-10-12
+201 ,"Wizz Air, British Airways ",FCO,OSL,1 stop ,8h 00m ,"['8:10', 'am']","['4:10', 'pm']",Economy,2022-10-12
+459 ,Scandinavian Airlines,FCO,OSL,1 stop ,6h 05m ,"['11:25', 'am']","['5:30', 'pm']",NaN,2022-10-12
+261 ,"Ryanair, LOT ",CIA,OSL,1 stop ,8h 10m ,"['10:45', 'am']","['6:55', 'pm']",Standard,2022-10-12
+236 ,"easyJet, British Airways ",FCO,OSL,1 stop ,8h 10m ,"['10:50', 'am']","['7:00', 'pm']",Standard,2022-10-12
+189 ,"Vueling, British Airways ",FCO,OSL,1 stop ,9h 10m ,"['7:00', 'am']","['4:10', 'pm']",Economy,2022-10-12
+299 ,Scandinavian Airlines,FCO,OSL,nonstop ,3h 10m ,"['8:45', 'pm']","['11:55', 'pm']",NaN,2022-10-12
+117 ,"Ryanair, Wizz Air ",CIA,TRF,1 stop ,25h 05m ,"['6:55', 'am']","['8:00', 'am', '+1']",Standard,2022-10-12
+462 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['10:20', 'am']","['1:30', 'pm']",Flex,2022-10-12
+194 ,Ryanair,CIA,TRF,1 stop ,7h 45m ,"['6:50', 'am']","['2:35', 'pm']",Standard,2022-10-12
+493 ,Brussels Airlines,FCO,OSL,1 stop ,5h 00m ,"['5:50', 'pm']","['10:50', 'pm']",NaN,2022-10-12
+449 ,Lufthansa,FCO,OSL,1 stop ,5h 20m ,"['6:55', 'am']","['12:15', 'pm']",Economy Light,2022-10-12
+497 ,Lufthansa,FCO,OSL,1 stop ,5h 00m ,"['6:30', 'pm']","['11:30', 'pm']",Economy Light,2022-10-12
+442 ,"Ryanair, Norwegian ",FCO,OSL,1 stop ,5h 35m ,"['6:20', 'am']","['11:55', 'am']",Standard,2022-10-12
+371 ,"Vueling, Norwegian ",FCO,OSL,1 stop ,6h 55m ,"['7:00', 'am']","['1:55', 'pm']",Economy,2022-10-12
+396 ,Wizz Air,FCO,OSL,1 stop ,6h 40m ,"['3:20', 'pm']","['10:00', 'pm']",Economy,2022-10-12
+298 ,"Ryanair, Wizz Air ",CIA,TRF,1 stop ,8h 10m ,"['12:30', 'pm']","['8:40', 'pm']",Standard,2022-10-12
+560 ,"Lufthansa, Scandinavian Airlines ",FCO,OSL,1 stop ,5h 20m ,"['6:55', 'am']","['12:15', 'pm']",Economy Light,2022-10-12
+503 ,Lufthansa,FCO,OSL,1 stop ,6h 30m ,"['3:45', 'pm']","['10:15', 'pm']",Economy Light,2022-10-12
+536 ,Norwegian,FCO,OSL,1 stop ,6h 00m ,"['10:20', 'am']","['4:20', 'pm']",Flex,2022-10-12
+597 ,Lufthansa,FCO,OSL,1 stop ,5h 10m ,"['12:55', 'pm']","['6:05', 'pm']",Economy Light,2022-10-12
+494 ,Norwegian,FCO,OSL,1 stop ,7h 05m ,"['9:35', 'am']","['4:40', 'pm']",LowFare,2022-10-12
+236 ,Flyr,FCO,OSL,nonstop ,3h 20m ,"['1:05', 'pm']","['4:25', 'pm']",NaN,2022-10-12
+76 ,"Ryanair, Wizz Air ",FCO,OSL,3 stops ,23h 50m ,"['3:10', 'pm']","['3:00', 'pm', '+1']",Standard,2022-10-12
+259 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['8:40', 'pm']","['11:50', 'pm']",LowFare,2022-10-12
+323 ,Scandinavian Airlines,FCO,OSL,1 stop ,4h 50m ,"['1:25', 'pm']","['6:15', 'pm']",NaN,2022-10-12
+413 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['10:55', 'am']","['2:05', 'pm']",Flex,2022-10-12
+168 ,Finnair,FCO,OSL,1 stop ,9h 00m ,"['11:15', 'am']","['8:15', 'pm']",Economy Light,2022-10-12
+356 ,Brussels Airlines,FCO,OSL,1 stop ,5h 00m ,"['5:50', 'pm']","['10:50', 'pm']",NaN,2022-10-12
+269 ,Brussels Airlines,FCO,OSL,1 stop ,6h 55m ,"['10:15', 'am']","['5:10', 'pm']",NaN,2022-10-12
+231 ,SWISS,FCO,OSL,1 stop ,8h 10m ,"['3:05', 'pm']","['11:15', 'pm']",Economy,2022-10-12
+327 ,"Scandinavian Airlines, Norwegian ",FCO,OSL,1 stop ,4h 45m ,"['1:25', 'pm']","['6:10', 'pm']",LowFare,2022-10-12
+249 ,"Wizz Air, Norse Atlantic Airways ",FCO,OSL,1 stop ,7h 00m ,"['8:10', 'am']","['3:10', 'pm']",Economy,2022-10-12
+366 ,Norwegian,FCO,OSL,1 stop ,5h 10m ,"['10:50', 'am']","['4:00', 'pm']",LowFare,2022-10-12
+323 ,Scandinavian Airlines,FCO,OSL,1 stop ,6h 50m ,"['1:25', 'pm']","['8:15', 'pm']",NaN,2022-10-12
+395 ,Norwegian,FCO,OSL,1 stop ,5h 00m ,"['10:25', 'am']","['3:25', 'pm']",LowFare,2022-10-12
+246 ,"Vueling, Norse Atlantic Airways ",FCO,OSL,1 stop ,8h 10m ,"['7:00', 'am']","['3:10', 'pm']",Economy,2022-10-12
+347 ,"SWISS, Scandinavian Airlines ",FCO,OSL,2 stops ,6h 55m ,"['3:05', 'pm']","['10:00', 'pm']",Economy,2022-10-12
+135 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['8:40', 'pm']","['11:50', 'pm']",LowFare,2022-10-12
+104 ,Flyr,FCO,OSL,nonstop ,3h 20m ,"['12:25', 'pm']","['3:45', 'pm']",NaN,2022-10-12
+39 ,"Wizz Air, Ryanair ",FCO,TRF,1 stop ,26h 15m ,"['7:05', 'am']","['9:20', 'am', '+1']",Economy,2022-10-12
+127 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['8:40', 'pm']","['11:50', 'pm']",LowFare,2022-10-12
+87 ,"Wizz Air, Norse Atlantic Airways ",FCO,OSL,1 stop ,7h 10m ,"['8:10', 'am']","['3:20', 'pm']",Economy,2022-10-12
+108 ,Ryanair,CIA,OSL,1 stop ,6h 35m ,"['6:10', 'am']","['12:45', 'pm']",Standard,2022-10-12
+200 ,Brussels Airlines,FCO,OSL,1 stop ,5h 00m ,"['5:50', 'pm']","['10:50', 'pm']",NaN,2022-10-12
+226 ,Scandinavian Airlines,FCO,OSL,1 stop ,4h 50m ,"['1:25', 'pm']","['6:15', 'pm']",NaN,2022-10-12
+146 ,"Ryanair, Ryanair UK ",CIA,OSL,1 stop ,6h 35m ,"['6:10', 'am']","['12:45', 'pm']",Standard,2022-10-12
+169 ,Brussels Airlines,FCO,OSL,1 stop ,6h 55m ,"['10:15', 'am']","['5:10', 'pm']",NaN,2022-10-12
+161 ,Wizz Air,FCO,TRF,1 stop ,6h 10m ,"['9:15', 'am']","['3:25', 'pm']",Economy,2022-10-12
+188 ,KLM,FCO,OSL,1 stop ,5h 55m ,"['12:40', 'pm']","['6:35', 'pm']",Light,2022-10-12
+205 ,Norwegian,FCO,OSL,1 stop ,6h 05m ,"['9:20', 'am']","['3:25', 'pm']",LowFare,2022-10-12
+231 ,"Scandinavian Airlines, Norwegian ",FCO,OSL,1 stop ,4h 45m ,"['1:25', 'pm']","['6:10', 'pm']",LowFare,2022-10-12
+211 ,"Ryanair, Norwegian ",FCO,OSL,1 stop ,5h 30m ,"['6:30', 'am']","['12:00', 'pm']",Standard,2022-10-12
+118 ,"Wizz Air, British Airways ",FCO,OSL,1 stop ,8h 00m ,"['8:10', 'am']","['4:10', 'pm']",Economy,2022-10-12
+122 ,Ryanair,FCO,TRF,2 stops ,8h 40m ,"['12:55', 'pm']","['9:35', 'pm']",Standard,2022-10-12
+96 ,Flyr,FCO,OSL,nonstop ,3h 20m ,"['1:05', 'pm']","['4:25', 'pm']",NaN,2022-10-12
+47 ,"Ryanair, Ryanair UK ",CIA,TRF,1 stop ,6h 15m ,"['6:35', 'am']","['12:50', 'pm']",Standard,2022-10-12
+145 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['8:40', 'pm']","['11:50', 'pm']",LowFare,2022-10-12
+48 ,Ryanair,CIA,TRF,1 stop ,6h 15m ,"['6:35', 'am']","['12:50', 'pm']",Standard,2022-10-12
+73 ,"Wizz Air, Norse Atlantic Airways ",FCO,OSL,1 stop ,7h 00m ,"['8:10', 'am']","['3:10', 'pm']",Economy,2022-10-12
+167 ,Norwegian,FCO,OSL,1 stop ,5h 00m ,"['10:25', 'am']","['3:25', 'pm']",LowFare,2022-10-12
+166 ,Norwegian,FCO,OSL,1 stop ,5h 10m ,"['10:50', 'am']","['4:00', 'pm']",LowFare,2022-10-12
+173 ,Scandinavian Airlines,FCO,OSL,1 stop ,5h 35m ,"['11:30', 'am']","['5:05', 'pm']",NaN,2022-10-12
+226 ,Scandinavian Airlines,FCO,OSL,1 stop ,4h 50m ,"['1:25', 'pm']","['6:15', 'pm']",NaN,2022-10-12
+169 ,Brussels Airlines,FCO,OSL,1 stop ,6h 55m ,"['10:15', 'am']","['5:10', 'pm']",NaN,2022-10-12
+210 ,Lufthansa,FCO,OSL,1 stop ,4h 35m ,"['1:25', 'pm']","['6:00', 'pm']",Economy Light,2022-10-12
+166 ,"Trenitalia, Norwegian ",ROM,OSL,1 stop ,8h 05m ,"['4:50', 'pm']","['12:55', 'am', '+1']",LowFare,2022-10-12
+109 ,"Vueling, Norse Atlantic Airways ",FCO,OSL,1 stop ,8h 10m ,"['7:00', 'am']","['3:10', 'pm']",Economy,2022-10-12
+173 ,Scandinavian Airlines,FCO,OSL,1 stop ,7h 15m ,"['11:30', 'am']","['6:45', 'pm']",NaN,2022-10-12
+185 ,Norwegian,FCO,OSL,1 stop ,6h 40m ,"['10:50', 'am']","['5:30', 'pm']",LowFare,2022-10-12
+123 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['8:40', 'pm']","['11:50', 'pm']",LowFare,2022-10-12
+114 ,Norwegian,FCO,OSL,nonstop ,3h 10m ,"['8:40', 'pm']","['11:50', 'pm']",LowFare,2022-10-12
+72 ,Ryanair,FCO,TRF,2 stops ,24h 05m ,"['9:05', 'am']","['9:10', 'am', '+1']",Standard,2022-10-12
+147 ,Scandinavian Airlines,FCO,OSL,nonstop ,3h 10m ,"['12:45', 'pm']","['3:55', 'pm']",NaN,2022-10-12
+150 ,Flyr,FCO,OSL,nonstop ,3h 20m ,"['1:05', 'pm']","['4:25', 'pm']",NaN,2022-10-12
+172 ,Norwegian,FCO,OSL,1 stop ,5h 25m ,"['1:50', 'pm']","['7:15', 'pm']",LowFare,2022-10-12
+209 ,Scandinavian Airlines,FCO,OSL,1 stop ,5h 35m ,"['11:30', 'am']","['5:05', 'pm']",NaN,2022-10-12
+97 ,"Wizz Air, Norse Atlantic Airways ",FCO,OSL,1 stop ,7h 00m ,"['8:10', 'am']","['3:10', 'pm']",Economy,2022-10-12
+181 ,Norwegian,FCO,OSL,1 stop ,6h 05m ,"['1:50', 'pm']","['7:55', 'pm']",LowFare,2022-10-12
+263 ,Scandinavian Airlines,FCO,OSL,1 stop ,4h 50m ,"['1:25', 'pm']","['6:15', 'pm']",NaN,2022-10-12
+123 ,Ryanair,CIA,OSL,1 stop ,6h 55m ,"['6:25', 'am']","['1:20', 'pm']",Standard,2022-10-12
+172 ,Norwegian,FCO,OSL,1 stop ,6h 40m ,"['10:50', 'am']","['5:30', 'pm']",LowFare,2022-10-12
+271 ,Brussels Airlines,FCO,OSL,1 stop ,5h 00m ,"['5:50', 'pm']","['10:50', 'pm']",NaN,2022-10-12
+145 ,"Ryanair, Ryanair UK ",CIA,OSL,1 stop ,6h 55m ,"['6:25', 'am']","['1:20', 'pm']",Standard,2022-10-12
+200 ,Brussels Airlines,FCO,OSL,1 stop ,6h 55m ,"['10:15', 'am']","['5:10', 'pm']",NaN,2022-10-12
+190 ,Scandinavian Airlines,FCO,OSL,1 stop ,7h 15m ,"['11:30', 'am']","['6:45', 'pm']",NaN,2022-10-12
+272 ,Austrian Airlines,FCO,OSL,1 stop ,4h 35m ,"['9:00', 'am']","['1:35', 'pm']",Economy Light,2022-10-12
